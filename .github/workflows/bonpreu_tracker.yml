@@ -62,7 +62,7 @@ jobs:
         shell: bash
         run: |
           set +e
-          python -u bonpreu_prices.py
+          python -u src/bonpreu_prices.py
           EXIT=$?
           echo "::notice title=Tracker exit code::$EXIT"
           # Si el script no generó CSVs, crea placeholders con cabeceras
