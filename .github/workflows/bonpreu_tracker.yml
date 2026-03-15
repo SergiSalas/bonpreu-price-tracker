@@ -1,0 +1,156 @@
+name: Scheduled run (BonPreu Price Tracker)
+
+on:
+  schedule:
+    - cron: '0 6 * * *'    # ~08:00 Madrid en verano (UTC+2)
+    - cron: '0 18 * * *'   # ~20:00 Madrid en verano (UTC+2)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bonpreu-tracker
+  cancel-in-progress: true
+
+jobs:
+  run-tracker:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Madrid
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            echo "requirements.txt no existe, instalando mínimos..."
+            pip install requests
+          fi
+
+      - name: Prepare folders
+        run: |
+          mkdir -p data
+          mkdir -p data_public
+          mkdir -p /tmp/prev
+
+      - name: Restore database from repo
+        run: |
+          if [ -f data/bonpreu_prices.db ]; then
+            echo "✓ Base de datos encontrada en el repositorio"
+            ls -lh data/bonpreu_prices.db
+          else
+            echo "⚠ No existe BD previa, se creará una nueva"
+          fi
+
+      - name: Save previous history CSV (if any)
+        run: |
+          git show HEAD:data_public/bonpreu_price_history.csv > /tmp/prev/bonpreu_price_history.csv || true
+
+      - name: Run tracker (do not fail job)
+        shell: bash
+        run: |
+          set +e
+          python -u bonpreu_prices.py
+          EXIT=$?
+          echo "::notice title=Tracker exit code::$EXIT"
+          # Si el script no generó CSVs, crea placeholders con cabeceras
+          if [ ! -f data_public/bonpreu_products.csv ]; then
+            echo "id,name,brand,pack_size,last_price,unit_price,unit_label,image_url,category_path,last_update" \
+              > data_public/bonpreu_products.csv
+          fi
+          if [ ! -f data_public/bonpreu_price_history.csv ]; then
+            echo "id,product_id,name,old_price,new_price,change_date" \
+              > data_public/bonpreu_price_history.csv
+          fi
+          exit 0
+
+      - name: Merge previous and new history CSV
+        run: |
+          python - << 'PY'
+          import csv, os
+
+          old_path = "/tmp/prev/bonpreu_price_history.csv"
+          new_path = "data_public/bonpreu_price_history.csv"
+          HEADERS  = ["id", "product_id", "name", "old_price", "new_price", "change_date"]
+
+          def load_rows(path):
+              rows = []
+              if not os.path.exists(path) or os.path.getsize(path) == 0:
+                  return rows
+              with open(path, encoding="utf-8") as f:
+                  for row in csv.DictReader(f):
+                      rows.append({
+                          "id":          row.get("id", ""),
+                          "product_id":  row.get("product_id", ""),
+                          "name":        row.get("name", ""),
+                          "old_price":   row.get("old_price", ""),
+                          "new_price":   row.get("new_price", ""),
+                          "change_date": row.get("change_date", ""),
+                      })
+              return rows
+
+          old_rows = load_rows(old_path)
+          new_rows = load_rows(new_path)
+
+          seen, merged = set(), []
+          for row in old_rows + new_rows:
+              key = (row["product_id"], row["old_price"], row["new_price"], row["change_date"])
+              if key in seen:
+                  continue
+              seen.add(key)
+              merged.append(row)
+
+          merged.sort(key=lambda x: (x["change_date"], x["name"]))
+          for i, row in enumerate(merged, start=1):
+              row["id"] = str(i)
+
+          with open(new_path, "w", newline="", encoding="utf-8") as f:
+              w = csv.DictWriter(f, fieldnames=HEADERS)
+              w.writeheader()
+              w.writerows(merged)
+
+          print(f"✔ Filas en historial acumulado: {len(merged)}")
+          PY
+
+      - name: List outputs (debug)
+        if: always()
+        run: |
+          echo "=== data/ ==="
+          ls -lh data/ || true
+          echo "=== data_public/ ==="
+          ls -lh data_public/ || true
+
+      - name: Commit database and CSV exports
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain data data_public)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data data_public
+            git commit -m "ci: update database and CSV exports [skip ci]" \
+              || echo "Nada que commitear"
+            git push || echo "Nada que pushear"
+          else
+            echo "Sin cambios en data/ ni data_public/"
+          fi
+
+      - name: Upload CSV artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bonpreu-csv
+          path: data_public/
+          if-no-files-found: warn
+          retention-days: 30
