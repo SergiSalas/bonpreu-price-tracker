@@ -1,1 +1,70 @@
 id,product_id,name,old_price,new_price,change_date
+1,1f892d21-a1d9-477a-bece-9cf86a68b94b,BONPREU Formatge de cabra rotlle al tall en tros,3.1,3.2,2026-03-16 08:08:39
+2,94a18046-ff57-450d-b8d2-6e29d37e866b,CAN PONSA Formatge fresc mini amb sal Km0,2.7,2.79,2026-03-16 08:08:41
+3,46040453-b310-4979-90ec-a45a491c2222,CAN PONSA Mató Km0,1.32,1.39,2026-03-16 08:08:41
+4,091d5bbe-5e98-48fe-9639-c9a3325826a9,CAN PONSA Mató Km0,1.99,2.05,2026-03-16 08:08:41
+5,f45187b8-d7d6-494b-aae6-1c784cab7176,TWININGS Te Earl Grey,4.69,4.89,2026-03-16 08:09:29
+6,57dd2854-c8f9-459d-862c-7a7352bdfdc0,TWININGS Te English Breakfast,4.69,4.89,2026-03-16 08:09:29
+7,47b66411-da76-489f-9364-e039c046b2a5,FLOR DEL PIRINEO Arrel de gingebre,3.25,2.99,2026-03-16 08:09:31
+8,ce858bbb-fbf4-4ce6-94c8-6fac3a6e75f1,CUCA Sardines petites amb oli d'oliva,3.19,3.29,2026-03-16 08:10:08
+9,e00462e6-69da-4fe4-9ada-53c1745378b3,CUCA Tonyina clara en oli d'oliva,3.35,3.39,2026-03-16 08:10:11
+10,8475b82d-0221-464a-9358-e9454ecda522,DEL MONTE Pinya en rodanxes,3.99,4.29,2026-03-16 08:10:11
+11,dd33db30-6562-4eb1-8955-38fa3e15fd5c,KÜHNE Cogombres agredolços,4.95,4.99,2026-03-16 08:10:11
+12,8741fc8a-a073-483e-9412-14b0e0e530a3,DEL MONTE Pinya a rodanxes,4.69,4.95,2026-03-16 08:10:14
+13,beb3471b-b785-42cb-9d36-c1377fb3587e,ISABEL Amanida californiana,1.85,1.89,2026-03-16 08:10:18
+14,7147b72e-8645-454a-b604-c86b851f486a,ISABEL Amanida meditarrània,1.85,1.89,2026-03-16 08:10:18
+15,49c9ca8d-1b8b-40f8-bbfb-1e8186d275db,ISABEL Tonyina en oli de gira-sol,9.49,9.99,2026-03-16 08:10:18
+16,96bae76e-3d89-4d69-a020-49e083828784,MEICA Frankfurt bockwurst,4.69,4.79,2026-03-16 08:10:18
+17,23a7dbaa-9d03-47e0-9d9e-6404eb52c83d,KIKKOMAN Salsa de soja,4.69,4.79,2026-03-16 08:10:24
+18,69589399-3f8a-4650-a4d3-240d545156f4,TABASCO Salsa picant vermella,3.95,3.99,2026-03-16 08:10:24
+19,a3e025e1-71f8-436a-8b74-9c2a6c57064c,MAILLE Mostassa a la mel,3.65,3.69,2026-03-16 08:10:25
+20,0f85f6f7-6825-427d-a50f-fb135ac4edb4,PRIMA Salsa barbacoa Cero,2.19,2.29,2026-03-16 08:10:25
+21,5cbc0e3b-7655-49c3-9314-fcb782120069,KIKKOMAN Salsa Wok,5.75,5.95,2026-03-16 08:10:26
+22,f995ca19-e4c7-4f52-947b-d0ae96aefa54,KIKKOMAN Salsa de soja sense gluten,5.39,5.49,2026-03-16 08:10:26
+23,fcce289a-dd81-46f8-a0ca-92a3f3e6207f,KIKKOMAN Salsa de teriyaki,5.85,5.19,2026-03-16 08:10:26
+24,bfe7d3da-7c16-4bc8-85cc-4903e924a9a5,PRIMA Mostassa,2.25,2.29,2026-03-16 08:10:26
+25,57b037b1-1df0-43bb-9740-22e3fad4b862,PRIMA Salsa Brava,1.79,1.85,2026-03-16 08:10:26
+26,70aea5af-ccc4-458e-9488-7876d5205d0e,PRIMA Salsa burger Cero,2.39,2.45,2026-03-16 08:10:26
+27,ba98c05a-8f1c-4f14-a5fa-9d6d75036361,PRIMA Salsa cheddar Cero,2.19,2.45,2026-03-16 08:10:26
+28,543960d2-4e22-4026-a239-2011964eaaa1,TABASCO Salsa Chipotle,4.25,4.35,2026-03-16 08:10:26
+29,95b6d4af-b6be-4ca1-a8d3-457f7c93f380,MONTBLANC Caixa de vi negre DO Conca de Barberà Km0,23.94,26.94,2026-03-16 08:10:59
+30,adfa9f25-f4df-48b1-8838-b6374d161512,MONTBLANC Caixa de vi blanc DO Conca de Barberà Km0,23.94,26.94,2026-03-16 08:11:00
+31,a66c73f6-a1ce-4497-878c-81615e24ff3a,"DON SIMON ""Tinto de verano"" sense alcohol",1.55,1.39,2026-03-16 08:11:03
+32,461a83b9-a69d-439a-a7cb-9429f77700f2,"DON SIMON ""Tinto de verano"" sense alcohol",1.55,1.39,2026-03-16 08:11:03
+33,bc031776-2946-4f70-a1b6-8018d8d315f2,DON SIMON Sangria,2.29,2.1,2026-03-16 08:11:04
+34,ace0c24e-9bad-4718-87da-53948a299e36,MONTBLANC 362 Vi rosat DO Conca de Barberà Km0,3.99,4.49,2026-03-16 08:11:05
+35,06c1f451-fb82-4a32-ba83-446ce58a7ed4,MONTBLANC 362 Vi blanc DO Conca de Barberà Km0,3.99,4.49,2026-03-16 08:11:06
+36,eede61f6-8ea1-4e75-a7e6-09dc4ba98346,MONTBLANC 362 Vi negre DO Conca de Barberà Km0,3.99,4.49,2026-03-16 08:11:07
+37,58c65509-41c3-4ed9-9f22-1df82ccd86e5,LA BÈSTIA BLANC Vi blanc D.O Empordà Km0,7.59,7.25,2026-03-16 08:11:10
+38,f09a0d66-a29a-4dd9-a798-76561338e1b9,ANÍS DEL MONO Anís dolç,8.45,8.89,2026-03-16 08:11:15
+39,10ef2352-904c-450d-8c33-c50142985620,BONPREU Bacallà al punt de sal,9.99,11.99,2026-03-16 08:11:21
+40,81a5158b-adc2-41f4-a97c-8a0fa9580f4d,BONPREU Filets de bacallà d'Islàndia al punt de sal,6.35,7.99,2026-03-16 08:11:21
+41,bfb0b87a-b1ea-4441-aa0f-95333b8f9108,BONPREU Llom de bacallà al punt de sal,6.99,8.99,2026-03-16 08:11:21
+42,bbbda956-072a-496e-99cb-201aabce211f,ICELANDIC Ventresca de bacallà d'Islàndia en porcions,7.59,8.65,2026-03-16 08:11:21
+43,1f292915-ed98-46fe-89c8-9974a578a917,BANORD Filets de sardines,3.89,5.29,2026-03-16 08:11:23
+44,0cd0fb6e-4143-4ec0-9925-281f23b3578f,NESTLÉ MAXIBON Gelat de nata i xocolata,5.99,4.99,2026-03-16 08:11:30
+45,a6988688-0289-467f-8a02-b2a29d11a849,LA LECHERA Postres delícies de torró,1.65,1.69,2026-03-16 08:11:46
+46,c67f7439-ae65-4743-a06e-d28110dfc3ac,NESTLÉ GOLD Mousse de xocolata,2.99,2.89,2026-03-16 08:11:46
+47,1f28413e-632b-4e84-8116-1e9e4165411a,SVELTESSE Postres de xocolata fondant,2.49,2.59,2026-03-16 08:11:46
+48,a3e10102-e6e1-4843-9294-589abaec3268,NESTLE Quefir natural,2.49,2.65,2026-03-16 08:11:49
+49,393b7381-dddd-4966-a82c-386344096962,LA LECHERA Postres de trufa,1.65,1.69,2026-03-16 08:11:50
+50,ac56e8be-6857-464a-880d-70763298564b,LA LECHERA Iogurt de llimona,1.22,1.29,2026-03-16 08:11:52
+51,26e096de-0bc8-4638-aff6-bbc435393ebe,NESTLÉ GOLD Mousse de vainilla,2.99,2.89,2026-03-16 08:11:53
+52,cedeaa5b-8577-4189-8014-6dbbe3266180,REVLON Condicionador Flex 2 fases,5.79,5.89,2026-03-16 08:11:58
+53,e7aa6e7c-1a7f-443b-93af-38d4449f7b4d,REVLON Condicionador princess Flex 2 fases,5.79,5.89,2026-03-16 08:12:01
+54,faa4eaa0-dc4a-4b28-ad13-1e612f56ac96,LLONGUERAS Tint de color castany clar nº5 Color Advance,7.49,7.65,2026-03-16 08:12:02
+55,ead7acd7-b2c1-4b13-9256-5b66f0c09e55,LLONGUERAS Tint de color ros clar nº8 Color Advance,7.49,7.65,2026-03-16 08:12:02
+56,a249e62a-2ff4-4c36-ac52-97e902f815e0,REVLON Tractament capil·lar sense esbandit,4.99,5.15,2026-03-16 08:12:02
+57,b82a8be8-9d52-4a5b-9ab8-3b98e324b394,LLONGUERAS Tint de color castany fosc nº 3 Color Advance,7.49,7.65,2026-03-16 08:12:03
+58,e9ee9e90-9ff3-4648-b3a7-4320d7da8e12,LLONGUERAS Tint de color negre nº1 Color Advance,7.49,7.65,2026-03-16 08:12:04
+59,f8deae8f-e6e1-428e-9ca9-3566db6ff435,LLONGUERAS Tint de color caoba nº5.6 Color Advance,7.49,7.65,2026-03-16 08:12:05
+60,3ea971fc-ba9b-4cfa-893d-a78715113d88,LLONGUERAS Tint de color marró glacé nº 7.77 Color Advance,7.49,7.65,2026-03-16 08:12:05
+61,d428501f-0062-4b92-8121-f317a40c56e6,LLONGUERAS Tint de color ros daurat nº 7.34 Color Advance,7.49,7.65,2026-03-16 08:12:05
+62,4ca8c501-3e1e-48f2-99b9-eb87e27858ec,LLONGUERAS Tint de color ros mitjà nº 7 Color Advance,7.49,7.65,2026-03-16 08:12:05
+63,2acf9446-195c-44e4-af91-1e6394333eb1,CUTEX Dissolvent d'esmalt,3.59,3.65,2026-03-16 08:12:28
+64,49e76660-1317-45eb-934f-4d22a55af70f,CUTEX Dissolvent d'esmalt sense acetona,3.59,3.65,2026-03-16 08:12:28
+65,8e3e5924-c09b-4042-a826-55eccf89a1d1,CUTEX Dissolvent esmalt per les ungles,3.65,3.75,2026-03-16 08:12:28
+66,c6b4455e-aa1a-41b7-976d-0e1e45fb1433,CUTEX Treuesmalt amb esponja,3.65,3.75,2026-03-16 08:12:29
+67,e3b78d2d-a1fe-4b4a-89ed-4796c35bb5c5,TAURUS Fregidora d'aire digital 7S View,72.99,64.99,2026-03-16 08:13:33
+68,7ca43a4f-b60a-497f-af61-b04b17a8b690,NESTLÉ Iogurt natural ensucrat sense lactosa,1.39,1.45,2026-03-16 08:16:10
+69,bd984178-c7dc-4d0d-9100-2cb23bee412f,NESTLÉ Iogurt sense lactosa amb gust de maduixa i macedònia,1.39,1.45,2026-03-16 08:16:10
