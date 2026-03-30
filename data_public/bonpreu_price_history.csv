@@ -1724,3 +1724,44 @@ id,product_id,name,old_price,new_price,change_date
 1723,6632fc78-5f9d-4f50-8596-6418d2c6ce2e,L'OU DE L'ESTANY Ou dur de gallina a terra,1.89,2.1,2026-03-28 07:54:23
 1724,1321a1f7-1ce9-4e8e-a9a1-e7201f858a6f,Filet de perca del Nil,6.48,6.84,2026-03-28 19:39:37
 1725,82ab89e8-2d98-4a47-af0d-91e170714279,Gamba rosada del Mediterrani,9.99,12.99,2026-03-28 19:39:37
+1726,651b4193-3bde-4480-937c-3d4b26069a30,BONPREU Espatlla enceball 50% ibèrica,5.59,6.75,2026-03-30 09:18:46
+1727,cde34e9c-46a1-4c4b-ac81-31669cf98463,BONPREU Pernil cuit extra a talls,1.95,1.99,2026-03-30 09:18:46
+1728,c9f6be28-9eba-4514-8f56-81e5de8cf2b3,BONPREU Pernil curat a tires fines,1.79,1.89,2026-03-30 09:18:46
+1729,66cb4779-1c49-4978-b1c5-bd5b04de145d,BONPREU Pernil serrano reserva,3.89,3.99,2026-03-30 09:18:46
+1730,c91ace56-f18e-4e9b-8f0b-f9f872c37dea,BONPREU Pernil 50% duroc,3.35,3.4,2026-03-30 09:18:47
+1731,5f3b56a7-8ab5-47f1-8cd8-dc3c0d86f203,BONPREU Pernil d'enceball 50% ibèric,5.89,6.99,2026-03-30 09:18:47
+1732,660e13a5-1433-40ec-83b4-a51e79dd4af2,ESPUÑA Canyetes de fuet d'Olot,1.49,1.55,2026-03-30 09:18:47
+1733,e1c38d2b-2edc-4197-88bb-650c7067a8b0,BONPREU Pernil serrano reserva 50% duroc Bonpreu en talls de 150 g,3.45,3.48,2026-03-30 09:18:48
+1734,b6b92c2c-e8f6-4cc9-82cc-4518cc8cbcc5,ESPUÑA Fils de xoriço extra,1.95,2.09,2026-03-30 09:18:48
+1735,7a0f58a0-5dbe-4f9a-ac87-673adcc563a1,ESPUÑA Pernil serrano reserva,2.55,2.69,2026-03-30 09:18:48
+1736,4ae8e099-0b16-48cd-89b1-5c9cb4ad0a76,ESPUÑA Bloc de pernil curat,3.99,4.15,2026-03-30 09:18:49
+1737,cb70dbec-4ac4-43db-a10a-d60c47e2834c,EPICUM Espatlla d'enceball Epicum en talls de 150 grams,8.55,8.97,2026-03-30 09:18:51
+1738,bb4737cd-58dc-4be7-855d-52c8ac26d6cb,YANG-TSE Vinagre d'arròs,2.29,2.39,2026-03-30 09:19:35
+1739,99ea6ce0-98a1-4311-82f8-33bc24b2e5c6,NOCCIOLATA Crema de cacau i avellanes ecològica,3.99,4.59,2026-03-30 09:20:08
+1740,44d180ec-03bf-4fb3-b35e-2ac3e2932884,NOCCIOLATA Crema de cacau i avellanes ecològica sense llet,4.19,4.79,2026-03-30 09:20:09
+1741,bf3b09fe-1a93-4849-81dc-b88610f979dd,SOUBRY Fideus d'ou instantànis,1.79,1.85,2026-03-30 09:20:30
+1742,d6527c36-75d5-4058-843f-163badb75692,GO-TAN Fideus d'arròs,2.49,2.59,2026-03-30 09:20:38
+1743,790858b1-345b-41e4-8d46-650b870abd80,GO-TAN Tallarines d'arròs,2.49,2.59,2026-03-30 09:20:39
+1744,a31672ee-8933-49ac-98ea-288394da3574,YANG-TSE Alga nori per sushi,1.99,2.09,2026-03-30 09:20:41
+1745,ba7c7f69-6a99-46e3-aa6c-ef274f2d0a3a,YANG-TSE Noodles Vermicelli,2.39,2.49,2026-03-30 09:20:43
+1746,766d45ff-bf60-4a93-a895-e029e60ad413,BOVRIL Brou de carn concentrat,3.15,3.19,2026-03-30 09:20:49
+1747,f2b08439-a322-4665-8025-bb0f709600c3,VE WONG Salsa de soja,2.65,2.79,2026-03-30 09:20:51
+1748,a97c5d93-5225-4ef5-9852-14019d5576a0,GO-TAN Salsa sriracha mayo,3.49,3.59,2026-03-30 09:20:53
+1749,b97e34a5-2723-4945-becb-4911f533636a,PATAK'S Salsa Curry Korma,3.25,3.39,2026-03-30 09:20:53
+1750,da90de93-720c-4ae3-b446-b16e3662be95,PATAK'S Salsa Tikka Masala,3.25,3.39,2026-03-30 09:20:53
+1751,5f523d02-957c-4baa-8df0-e24772017728,YANG TSE Salsa agredolça,1.79,1.89,2026-03-30 09:20:54
+1752,76d1d8b0-8939-4236-bac2-979e586e2bf3,YANG-TSE Salsa d'Ostres,2.39,2.49,2026-03-30 09:20:54
+1753,be19176d-45a6-4775-ae0c-051a4bb4b200,YANG-TSE Pasta wasabi,2.89,2.99,2026-03-30 09:20:55
+1754,da5cd464-86f0-4d40-930b-68b68d372e89,BLUE DRAGON Marinada Teriyaki,2.19,2.29,2026-03-30 09:20:57
+1755,92fe22af-3cf6-4bf1-a176-7a588d32b783,SANTA MARIA Fesols vermells mexicans,2.49,2.55,2026-03-30 09:20:57
+1756,29732a91-c430-494e-a1f2-ba9be68e9a16,YANG-TSE Pasta per a rotllets de primavera,1.99,2.09,2026-03-30 09:20:57
+1757,1f53e106-9f5f-4093-8532-9b08b6b2f358,YANG-TSE Suc de coco,2.49,2.59,2026-03-30 09:20:57
+1758,20da83c7-8291-4109-8d29-f599ad4e63e6,YANG-TSE Suc de coco light,1.99,2.09,2026-03-30 09:20:57
+1759,f8ac71a9-f2e6-499b-8167-c0d54ac69eb9,YANG TSE Pals de bambú,1.1,1.15,2026-03-30 09:20:58
+1760,4ffa9da7-8d2f-4905-8169-daa96338ced1,YANG-TSE Esterilla de bambú per a sushi,3.19,3.29,2026-03-30 09:20:58
+1761,4c41c5a4-d0c5-4be3-9507-d5d787101bf6,YANG-TSE Salsa Gyoza,2.69,2.79,2026-03-30 09:20:58
+1762,78b7294d-1e0a-474a-9782-645a35b33e34,FERRER Bacallà d'Islàndia per esqueixada,7.29,8.17,2026-03-30 09:21:54
+1763,acc1fb4d-d24d-4956-88f7-49243fc2250f,FINISH QUANTUM Rentavaixelles Powerball Quantum de 60 dosis,14.99,12.99,2026-03-30 09:23:40
+1764,724c3ffc-9b4a-40a6-a1cb-5cbcc3bb7a83,AQUILEA Vitamina C més zinc efervescents,11.65,8.95,2026-03-30 09:26:13
+1765,e880d9e3-5fec-4f59-8257-0bb9fb06267e,AQUILEA Complement alimentari Vigor ella,25.95,23.49,2026-03-30 09:26:16
+1766,a00c5692-9adf-4691-a899-7279ab4941a7,ISDIN Desodorant Comfort 24h Ureadin,9.85,8.49,2026-03-30 09:26:33
