@@ -34,6 +34,122 @@ price_changes: list[tuple] = []
 
 
 # ──────────────────────────────────────────────
+# TAXONOMÍA CANÓNICA
+# Mapeo de keywords del category_path (catalán) a categoría unificada.
+# Se evalúan en orden: el primer match gana.
+# ──────────────────────────────────────────────
+
+_CANONICAL_RULES: list[tuple[str, str]] = [
+    # Lácteos — primero para evitar falsos positivos con derivados
+    ("llet ",          "Lacteos"),
+    ("llets ",         "Lacteos"),
+    ("lactis",         "Lacteos"),
+    ("iogurt",         "Lacteos"),
+    ("formatge",       "Lacteos"),
+    ("mantega",        "Lacteos"),
+    ("nata",           "Lacteos"),
+    # Carnes
+    ("carn",           "Carnes"),
+    ("aus",            "Carnes"),
+    ("embotit",        "Carnes"),
+    ("pernil",         "Carnes"),
+    ("xarcuteri",      "Carnes"),
+    # Pescados y Mariscos
+    ("peix",           "Pescados y Mariscos"),
+    ("marisc",         "Pescados y Mariscos"),
+    ("mariscos",       "Pescados y Mariscos"),
+    # Frutas y Verduras
+    ("fruita",         "Frutas y Verduras"),
+    ("verdura",        "Frutas y Verduras"),
+    ("hortalisses",    "Frutas y Verduras"),
+    ("llegums frescos","Frutas y Verduras"),
+    # Panadería
+    ("pa i",           "Panaderia y Bolleria"),
+    ("pastisseria",    "Panaderia y Bolleria"),
+    ("bolleria",       "Panaderia y Bolleria"),
+    ("galetes",        "Panaderia y Bolleria"),
+    # Congelados
+    ("congelat",       "Congelados"),
+    # Bebidas
+    ("begud",          "Bebidas"),
+    ("cervesa",        "Bebidas"),
+    (" vi ",           "Bebidas"),
+    ("vins",           "Bebidas"),
+    ("cava",           "Bebidas"),
+    ("sucs",           "Bebidas"),
+    ("aigü",           "Bebidas"),
+    ("refrescos",      "Bebidas"),
+    ("infusion",       "Bebidas"),
+    ("café",           "Bebidas"),
+    ("cafe",           "Bebidas"),
+    # Conservas
+    ("conserv",        "Conservas"),
+    ("envasat",        "Conservas"),
+    # Pasta, Arroz y Legumbres
+    ("pasta",          "Pasta, Arroz y Legumbres"),
+    ("arròs",          "Pasta, Arroz y Legumbres"),
+    ("llegums",        "Pasta, Arroz y Legumbres"),
+    # Cereales y Desayunos
+    ("cereal",         "Cereales y Desayunos"),
+    ("esmorzar",       "Cereales y Desayunos"),
+    ("muesli",         "Cereales y Desayunos"),
+    # Aceites y Condimentos
+    ("oli ",           "Aceites y Condimentos"),
+    ("olis ",          "Aceites y Condimentos"),
+    ("vinagre",        "Aceites y Condimentos"),
+    ("condiment",      "Aceites y Condimentos"),
+    ("espècies",       "Aceites y Condimentos"),
+    ("salses",         "Aceites y Condimentos"),
+    # Snacks y Aperitivos
+    ("snack",          "Snacks y Aperitivos"),
+    ("aperitiu",       "Snacks y Aperitivos"),
+    ("patates fregid", "Snacks y Aperitivos"),
+    ("fruits secs",    "Snacks y Aperitivos"),
+    # Dulces y Postres
+    ("xocolata",       "Dulces y Postres"),
+    ("dolços",         "Dulces y Postres"),
+    ("postres",        "Dulces y Postres"),
+    ("melmelad",       "Dulces y Postres"),
+    ("mel ",           "Dulces y Postres"),
+    # Higiene Personal
+    ("higiene",        "Higiene Personal"),
+    ("cura personal",  "Higiene Personal"),
+    ("cosmètica",      "Higiene Personal"),
+    ("perfumeria",     "Higiene Personal"),
+    # Limpieza del Hogar
+    ("neteja",         "Limpieza del Hogar"),
+    ("detergent",      "Limpieza del Hogar"),
+    ("llar",           "Limpieza del Hogar"),
+    # Bebés y Niños
+    ("bebès",          "Bebes y Ninos"),
+    ("nens",           "Bebes y Ninos"),
+    ("infantil",       "Bebes y Ninos"),
+    # Mascotas
+    ("mascot",         "Mascotas"),
+    ("gossos",         "Mascotas"),
+    ("gats",           "Mascotas"),
+]
+
+
+def get_canonical_category(category_path: str) -> str:
+    """
+    Mapea el category_path jerárquico de BonPreu (en catalán) a una
+    categoría canónica unificada compartida entre todos los supermercados.
+
+    Ejemplo:
+        "Alimentació > Lactis > Llet" → "Lacteos"
+        "Begudes > Cerveses"          → "Bebidas"
+    """
+    if not category_path:
+        return "Otros"
+    path_lower = f" {category_path.lower()} "  # espacios para matching de palabras enteras
+    for keyword, canonical in _CANONICAL_RULES:
+        if keyword in path_lower:
+            return canonical
+    return "Otros"
+
+
+# ──────────────────────────────────────────────
 # HELPERS DE RED
 # ──────────────────────────────────────────────
 
@@ -64,16 +180,19 @@ def init_db() -> None:
 
     cur.execute("""
         CREATE TABLE IF NOT EXISTS products (
-            id            TEXT PRIMARY KEY,
-            name          TEXT,
-            brand         TEXT,
-            pack_size     TEXT,
-            last_price    REAL,
-            unit_price    REAL,
-            unit_label    TEXT,
-            image_url     TEXT,
-            category_path TEXT,
-            last_update   TIMESTAMP
+            id                 TEXT PRIMARY KEY,
+            name               TEXT,
+            brand              TEXT,
+            pack_size          TEXT,
+            last_price         REAL,
+            unit_price         REAL,
+            unit_label         TEXT,
+            image_url          TEXT,
+            category_path      TEXT,
+            canonical_category TEXT,
+            offer_price        REAL,
+            offer_label        TEXT,
+            last_update        TIMESTAMP
         )
     """)
     cur.execute("""
@@ -87,9 +206,100 @@ def init_db() -> None:
             FOREIGN KEY (product_id) REFERENCES products(id)
         )
     """)
+
+    # Migración segura: añade columnas nuevas en DBs existentes
+    _add_column_if_missing(cur, "products", "canonical_category", "TEXT")
+    _add_column_if_missing(cur, "products", "offer_price",        "REAL")
+    _add_column_if_missing(cur, "products", "offer_label",        "TEXT")
+
     conn.commit()
     conn.close()
     print("✅ Base de datos lista.\n")
+
+
+def _add_column_if_missing(cur: sqlite3.Cursor, table: str, column: str, col_type: str) -> None:
+    """ALTER TABLE solo si la columna no existe (SQLite no soporta IF NOT EXISTS)."""
+    cur.execute(f"PRAGMA table_info({table})")
+    existing = {row[1] for row in cur.fetchall()}
+    if column not in existing:
+        cur.execute(f"ALTER TABLE {table} ADD COLUMN {column} {col_type}")
+        print(f"  🔧 Columna '{column}' añadida a '{table}'")
+
+
+# ──────────────────────────────────────────────
+# DETECCIÓN DE OFERTAS
+# ──────────────────────────────────────────────
+
+def get_offer_data(p: dict) -> tuple[float | None, str | None]:
+    """
+    Detecta si un producto está en promoción y extrae el precio de oferta.
+
+    Convención:
+        last_price  = precio regular (sin oferta)
+        offer_price = precio con oferta (None si no hay)
+        offer_label = descripción de la oferta (None si no hay)
+
+    La API de BonPreu puede devolver la oferta de varias formas;
+    se comprueban los patrones más habituales en orden de prioridad.
+    """
+    price_block = p.get("price", {})
+
+    # Patrón 1: precio tachado en el bloque principal
+    # → price.originalAmount es el precio regular; price.amount es el de oferta
+    original_amount = (
+        price_block.get("originalAmount")
+        or price_block.get("crossedAmount")
+        or price_block.get("wasAmount")
+    )
+    if original_amount:
+        regular_price = float(original_amount)
+        current_price = float(price_block.get("amount", 0))
+        if regular_price > current_price > 0:
+            promo      = p.get("promotion") or p.get("promotions", [{}])
+            promo      = promo[0] if isinstance(promo, list) else promo
+            offer_lbl  = (
+                promo.get("name")
+                or promo.get("description")
+                or promo.get("shortDescription")
+                or "Oferta"
+            )
+            # En este patrón last_price debe ser el regular, no el actual
+            # → indicamos al caller con offer_price = current_price
+            #   y dejamos que process_product sobreescriba last_price
+            return current_price, offer_lbl.strip()
+
+    # Patrón 2: campo promotionPrice separado
+    # → price.amount es regular; promotionPrice.amount es de oferta
+    promo_price_block = p.get("promotionPrice") or p.get("promotedPrice")
+    if promo_price_block:
+        offer_p = float(promo_price_block.get("amount", 0))
+        if offer_p > 0:
+            promo     = p.get("promotion") or p.get("promotions", [{}])
+            promo     = promo[0] if isinstance(promo, list) else promo
+            offer_lbl = (
+                promo.get("name")
+                or promo.get("description")
+                or promo.get("shortDescription")
+                or "Oferta"
+            )
+            return offer_p, offer_lbl.strip()
+
+    # Patrón 3: array de promotions con discountedPrice
+    promotions = p.get("promotions", [])
+    if isinstance(promotions, list) and promotions:
+        promo   = promotions[0]
+        disc    = promo.get("discountedPrice") or promo.get("price") or {}
+        offer_p = float(disc.get("amount", 0))
+        if offer_p > 0:
+            offer_lbl = (
+                promo.get("name")
+                or promo.get("description")
+                or promo.get("shortDescription")
+                or "Oferta"
+            )
+            return offer_p, offer_lbl.strip()
+
+    return None, None
 
 
 # ──────────────────────────────────────────────
@@ -105,7 +315,9 @@ def process_product(p: dict) -> None:
     brand     = p.get("brand", "").strip()
     pack_size = p.get("packSizeDescription", "")
 
-    new_price  = float(p.get("price", {}).get("amount", 0))
+    price_block = p.get("price", {})
+    raw_price   = float(price_block.get("amount", 0))
+
     up_block   = p.get("unitPrice", {})
     unit_price = float(up_block.get("price", {}).get("amount", 0))
     unit_label = up_block.get("unit", "")
@@ -117,7 +329,24 @@ def process_product(p: dict) -> None:
         if imgs:
             image_url = imgs[0].get("src", "")
 
-    category_path = " > ".join(p.get("categoryPath", []))
+    category_path      = " > ".join(p.get("categoryPath", []))
+    canonical_category = get_canonical_category(category_path)
+
+    # Detección de oferta
+    offer_price, offer_label = get_offer_data(p)
+
+    # Si hay oferta detectada por patrón 1 (originalAmount),
+    # raw_price ya contiene el precio de oferta → el regular está en originalAmount
+    original_amount = (
+        price_block.get("originalAmount")
+        or price_block.get("crossedAmount")
+        or price_block.get("wasAmount")
+    )
+    if original_amount and offer_price is not None:
+        new_price = float(original_amount)   # precio regular
+    else:
+        new_price = raw_price                # precio regular (sin oferta)
+
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     conn = sqlite3.connect(DB_PATH)
@@ -142,19 +371,26 @@ def process_product(p: dict) -> None:
             UPDATE products
             SET name=?, brand=?, pack_size=?, last_price=?,
                 unit_price=?, unit_label=?, image_url=?,
-                category_path=?, last_update=?
+                category_path=?, canonical_category=?,
+                offer_price=?, offer_label=?, last_update=?
             WHERE id=?
         """, (name, brand, pack_size, new_price,
               unit_price, unit_label, image_url,
-              category_path, now, product_id))
+              category_path, canonical_category,
+              offer_price, offer_label, now,
+              product_id))
     else:
         cur.execute("""
             INSERT INTO products
                 (id, name, brand, pack_size, last_price,
-                 unit_price, unit_label, image_url, category_path, last_update)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                 unit_price, unit_label, image_url,
+                 category_path, canonical_category,
+                 offer_price, offer_label, last_update)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (product_id, name, brand, pack_size, new_price,
-              unit_price, unit_label, image_url, category_path, now))
+              unit_price, unit_label, image_url,
+              category_path, canonical_category,
+              offer_price, offer_label, now))
 
     conn.commit()
     conn.close()
@@ -252,11 +488,13 @@ def export_to_csv() -> None:
         w = csv.writer(f)
         w.writerow(["id", "name", "brand", "pack_size",
                     "last_price", "unit_price", "unit_label",
-                    "image_url", "category_path", "last_update"])
+                    "image_url", "category_path", "canonical_category",
+                    "offer_price", "offer_label", "last_update"])
         w.writerows(cur.execute("""
             SELECT id, name, brand, pack_size,
                    last_price, unit_price, unit_label,
-                   image_url, category_path, last_update
+                   image_url, category_path, canonical_category,
+                   offer_price, offer_label, last_update
             FROM products ORDER BY name COLLATE NOCASE
         """))
 
