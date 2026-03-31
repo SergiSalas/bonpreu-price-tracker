@@ -1,3 +1,4 @@
+import re
 import requests
 import sqlite3
 import time
@@ -32,6 +33,9 @@ SESSION.headers.update(DEFAULT_HEADERS)
 # Acumula cambios detectados en la ejecución actual
 price_changes: list[tuple] = []
 
+# Regex para extraer el precio de "Abans 1,28€" o "Abans 1.28€"
+_ABANS_RE = re.compile(r"[\d]+[,.]\d+")
+
 
 # ──────────────────────────────────────────────
 # TAXONOMÍA CANÓNICA
@@ -44,6 +48,7 @@ _CANONICAL_RULES: list[tuple[str, str]] = [
     ("llet ",          "Lacteos"),
     ("llets ",         "Lacteos"),
     ("lactis",         "Lacteos"),
+    ("làctics",        "Lacteos"),
     ("iogurt",         "Lacteos"),
     ("formatge",       "Lacteos"),
     ("mantega",        "Lacteos"),
@@ -230,76 +235,38 @@ def _add_column_if_missing(cur: sqlite3.Cursor, table: str, column: str, col_typ
 # DETECCIÓN DE OFERTAS
 # ──────────────────────────────────────────────
 
-def get_offer_data(p: dict) -> tuple[float | None, str | None]:
+def get_offer_data(p: dict) -> tuple[float | None, float | None, str | None]:
     """
-    Detecta si un producto está en promoción y extrae el precio de oferta.
+    Detecta si un producto está en promoción y separa precio regular de precio de oferta.
 
-    Convención:
-        last_price  = precio regular (sin oferta)
-        offer_price = precio con oferta (None si no hay)
-        offer_label = descripción de la oferta (None si no hay)
+    Patrón real de la API de BonPreu (verificado):
+      - Sin oferta: price.amount = precio regular; promotions = None
+      - Con oferta: price.amount = precio rebajado (oferta);
+                   promotions[0].description = "Abans X,XX€" (precio original)
 
-    La API de BonPreu puede devolver la oferta de varias formas;
-    se comprueban los patrones más habituales en orden de prioridad.
+    Retorna: (regular_price, offer_price, offer_label)
+      - Si no hay oferta: (price.amount, None, None)
+      - Si hay oferta:    (precio_original_parsed, price.amount, description)
     """
-    price_block = p.get("price", {})
+    current_amount = float(p.get("price", {}).get("amount", 0))
+    promotions = p.get("promotions") or []
 
-    # Patrón 1: precio tachado en el bloque principal
-    # → price.originalAmount es el precio regular; price.amount es el de oferta
-    original_amount = (
-        price_block.get("originalAmount")
-        or price_block.get("crossedAmount")
-        or price_block.get("wasAmount")
-    )
-    if original_amount:
-        regular_price = float(original_amount)
-        current_price = float(price_block.get("amount", 0))
-        if regular_price > current_price > 0:
-            promo      = p.get("promotion") or p.get("promotions", [{}])
-            promo      = promo[0] if isinstance(promo, list) else promo
-            offer_lbl  = (
-                promo.get("name")
-                or promo.get("description")
-                or promo.get("shortDescription")
-                or "Oferta"
-            )
-            # En este patrón last_price debe ser el regular, no el actual
-            # → indicamos al caller con offer_price = current_price
-            #   y dejamos que process_product sobreescriba last_price
-            return current_price, offer_lbl.strip()
+    if not promotions:
+        return current_amount, None, None
 
-    # Patrón 2: campo promotionPrice separado
-    # → price.amount es regular; promotionPrice.amount es de oferta
-    promo_price_block = p.get("promotionPrice") or p.get("promotedPrice")
-    if promo_price_block:
-        offer_p = float(promo_price_block.get("amount", 0))
-        if offer_p > 0:
-            promo     = p.get("promotion") or p.get("promotions", [{}])
-            promo     = promo[0] if isinstance(promo, list) else promo
-            offer_lbl = (
-                promo.get("name")
-                or promo.get("description")
-                or promo.get("shortDescription")
-                or "Oferta"
-            )
-            return offer_p, offer_lbl.strip()
+    promo       = promotions[0]
+    description = promo.get("description", "")   # ej. "Abans 1,28€"
+    offer_label = description.strip() or "Oferta"
 
-    # Patrón 3: array de promotions con discountedPrice
-    promotions = p.get("promotions", [])
-    if isinstance(promotions, list) and promotions:
-        promo   = promotions[0]
-        disc    = promo.get("discountedPrice") or promo.get("price") or {}
-        offer_p = float(disc.get("amount", 0))
-        if offer_p > 0:
-            offer_lbl = (
-                promo.get("name")
-                or promo.get("description")
-                or promo.get("shortDescription")
-                or "Oferta"
-            )
-            return offer_p, offer_lbl.strip()
+    # Extrae el precio original del texto "Abans X,XX€"
+    # Soporta tanto coma como punto decimal
+    match = _ABANS_RE.search(description)
+    if match:
+        regular_price = float(match.group().replace(",", "."))
+        return regular_price, current_amount, offer_label
 
-    return None, None
+    # Si no se puede parsear el precio original, tratamos como oferta sin precio de referencia
+    return current_amount, None, offer_label
 
 
 # ──────────────────────────────────────────────
@@ -315,9 +282,6 @@ def process_product(p: dict) -> None:
     brand     = p.get("brand", "").strip()
     pack_size = p.get("packSizeDescription", "")
 
-    price_block = p.get("price", {})
-    raw_price   = float(price_block.get("amount", 0))
-
     up_block   = p.get("unitPrice", {})
     unit_price = float(up_block.get("price", {}).get("amount", 0))
     unit_label = up_block.get("unit", "")
@@ -332,20 +296,8 @@ def process_product(p: dict) -> None:
     category_path      = " > ".join(p.get("categoryPath", []))
     canonical_category = get_canonical_category(category_path)
 
-    # Detección de oferta
-    offer_price, offer_label = get_offer_data(p)
-
-    # Si hay oferta detectada por patrón 1 (originalAmount),
-    # raw_price ya contiene el precio de oferta → el regular está en originalAmount
-    original_amount = (
-        price_block.get("originalAmount")
-        or price_block.get("crossedAmount")
-        or price_block.get("wasAmount")
-    )
-    if original_amount and offer_price is not None:
-        new_price = float(original_amount)   # precio regular
-    else:
-        new_price = raw_price                # precio regular (sin oferta)
+    # new_price = precio regular (sin oferta); offer_price = precio rebajado (si hay oferta)
+    new_price, offer_price, offer_label = get_offer_data(p)
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
