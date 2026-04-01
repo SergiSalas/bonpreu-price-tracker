@@ -2518,3 +2518,252 @@ id,product_id,name,old_price,new_price,change_date
 2517,a12f2cd1-13bd-4578-812d-d820e918066b,AIROS Pa de pagès sense gluten,3.75,4.15,2026-03-31 22:31:59
 2518,49ac2d64-dd48-483b-842b-53c20c35e0d2,"CODORNÍU ZERO Escumós alcohol 0,0%",6.99,8.45,2026-03-31 22:32:50
 2519,85390d8e-e845-4555-b8f8-4572b7dda9b4,HUESITOS Barreta de galeta amb xocolata,2.49,2.79,2026-03-31 22:33:49
+2520,c3204531-9984-45cb-aba7-ff814f13597f,LA COLLITA Tomàquet cirerol en branca ecològic en safata de 250 g,2.09,2.25,2026-04-01 09:11:52
+2521,c1d8c236-ae83-48e1-83f8-f48b2722efdd,BONPREU Espatlla curada 100% Duroc,3.99,4.29,2026-04-01 09:11:59
+2522,18560c64-19a7-44df-8d53-ad8d7e75310a,MONTE NEVADO Espatlla Mangalica,6.29,6.49,2026-04-01 09:12:01
+2523,a235eea8-1711-47c9-88a7-4ea0e597add4,AIRESANO Espatlla DO Terol natural,3.49,3.59,2026-04-01 09:12:02
+2524,f773c4cf-6101-41e3-a9a1-0e9c93051db3,BONPREU Espatlla curada Duroc 100% Bonpreu en talls de 150 grams,5.23,5.38,2026-04-01 09:12:03
+2525,31592bec-4886-48e4-85d4-9bd32600d9ff,AIRESANO Espatlla DO Terol natural en maletí,17.49,18.19,2026-04-01 09:12:04
+2526,6328a485-a5db-4ddf-b692-7f7c30244af5,BONPREU Pernil curat Duroc 100% Bonpreu en talls de 150 grams,5.24,5.39,2026-04-01 09:12:04
+2527,e4e927f0-bba5-4825-83bb-6bdf967d14ee,BONPREU LNX Pernil 100% duroc,3.99,4.15,2026-04-01 09:12:05
+2528,9bc0e2ad-2519-4e59-afee-f53d3afd5e79,AIRESANO Espatlla DO Terol,54.95,55.49,2026-04-01 09:12:07
+2529,e77c381f-8e6a-4925-8081-8ef3acf1ca7d,EL PASTOR Formatge de cabra amb papaia,2.55,2.69,2026-04-01 09:12:14
+2530,62f54a5f-c499-40bf-8efa-1a7b04587cfe,EL PASTOR Formatge de cabra amb pinya,2.55,2.69,2026-04-01 09:12:14
+2531,168629fd-6f65-49ee-8345-acec4188a743,EL PASTOR Formatge de cabra sense lactosa,4.19,4.39,2026-04-01 09:12:14
+2532,7d9a405d-1c5f-46df-8156-387d69426f1f,PICOS DE EUROPA Formatge blau IGP de Valdeon al tall,2.7,2.75,2026-04-01 09:12:15
+2533,ef946e3c-29a7-440b-b189-a9b60543977c,EL PASTOR Formatge de cabra semicurat Delícies al tall en porció,7.62,7.92,2026-04-01 09:12:16
+2534,8680fae6-dfdb-451b-a076-4dc16678c460,Sípia bruta,11.99,13.19,2026-04-01 09:12:29
+2535,baeac763-a587-46f6-9acf-2ae52fcfc7f5,Cua de Lluç (unitat).,10.99,13.99,2026-04-01 09:12:31
+2536,89ef7df2-2d58-453c-b327-aae7a5e34ec3,FRIT RAVICH Baies de goji,2.85,3.15,2026-04-01 09:13:02
+2537,75d63909-ed5d-405d-815d-28abdb7b0399,FRIT RAVICH Pinya confitada,2.89,2.99,2026-04-01 09:13:02
+2538,978f7f25-7e12-4573-b2be-b2d5753cf4be,FRIT RAVICH Coco a daus,2.45,2.69,2026-04-01 09:13:03
+2539,494c2fe0-bc7b-4d0f-952b-32411c60d1e3,POMPADOUR Infusió amb melatonina i pasiflora,3.15,3.49,2026-04-01 09:13:09
+2540,89d20131-b053-41d4-a0f1-4ab49d5c46f8,POMPADOUR Infusió amb probiòtics i camamilla,3.15,3.49,2026-04-01 09:13:10
+2541,3d9e24e6-4b46-4a8f-b798-fb316e8af3db,POMPADOUR Infusió amb probiòtics i gingebre,3.15,3.49,2026-04-01 09:13:11
+2542,5c3fea08-243d-4f24-9bfd-4abdfb8f9427,POMPADOUR Infusió magnesi i vitaminca C,3.15,3.49,2026-04-01 09:13:11
+2543,fc568af8-69fd-4440-89d7-1a860e316a8b,POMPADOUR Infusió amb cafeïna i taurina,3.15,3.49,2026-04-01 09:13:12
+2544,ae3ef532-f9e1-4774-b402-5ca96ff1658e,POMPADOUR Infusió pròpolis i equinàcia,3.15,3.49,2026-04-01 09:13:12
+2545,ac989948-b4c5-454f-8b64-a8c692a74905,POMPADOUR Te descafeiïnat,2.15,2.29,2026-04-01 09:13:12
+2546,474f9141-fd32-401b-8eea-dbb35d1eaf37,"JUST LOADING Crema de cacau, dàtil i avellanes",4.99,5.2,2026-04-01 09:13:23
+2547,a28d6cd1-62df-46c3-a579-598fb098c705,JUST LOADING Crema d'ametlla,4.85,5.85,2026-04-01 09:13:24
+2548,b279d32e-67ba-4d86-aece-476db48ffa33,JUST LOADING Crema de festucs i cacauets,6.95,7.15,2026-04-01 09:13:24
+2549,51fd6767-81ae-48b2-8aa2-73237b0716b8,EOS Crema d'avellanes,5.85,6.35,2026-04-01 09:13:25
+2550,2edb15af-7165-452b-8c0b-3e989acc63aa,ARANCA Mongetes cuites Santa Maria,3.65,3.75,2026-04-01 09:13:46
+2551,709e1602-ff2b-4430-80c1-d685e0180150,BONPREU Cavalla del sud amb oli d'oliva,1.49,1.59,2026-04-01 09:13:50
+2552,50c878a7-602a-43f0-ac3f-35cee5d66cdc,BONPREU Cavalla del sud amb oli de gira-sol,1.15,1.19,2026-04-01 09:13:52
+2553,ecfd29df-b272-4a7a-a459-8c1ef2b80946,BLAI Olives negres empeltre Selecció Premium,3.49,3.15,2026-04-01 09:13:53
+2554,2359c809-4688-4da8-905b-9cfa25b3734d,CALVO Sardines baixes en sal,1.95,2.25,2026-04-01 09:13:53
+2555,c07264c9-e4b7-438e-ae43-5169b142b8cc,ORTIZ Sardines a l'antiga en oli d'oliva,6.49,6.19,2026-04-01 09:13:53
+2556,00bd7c55-9bd6-454a-b7c3-4e5ebbceb40d,BLAI Olives arbequines Selecció Premium,2.85,2.65,2026-04-01 09:13:55
+2557,71f539f7-805d-47eb-a105-78e7e87e90a0,ORTIZ Sardines a l'antiga en oli d'oliva,4.79,4.39,2026-04-01 09:13:57
+2558,c60cae53-d5b0-458c-badb-335a4990b6c9,ARANCA Fesols de Santa Pau Km0,4.85,4.95,2026-04-01 09:13:59
+2559,75de7d3d-72e3-429e-9f02-1c1d9e7adf31,BLAI PERIS Olivada empeltre madurada ecològica,2.99,2.65,2026-04-01 09:14:08
+2560,7a21c01b-ac3d-493a-a740-c7184dca2016,BLAI PERIS Olivada arbequina ecològica,2.99,2.65,2026-04-01 09:14:09
+2561,c211afe2-1882-425f-9cde-00f8c82c17e2,GAUTSCHI Salsa Roquefort,3.1,3.25,2026-04-01 09:14:10
+2562,331d4a4b-014e-4ef9-b507-96fa0c15a2c2,GAUTSCHI Salsa Curry,3.1,3.25,2026-04-01 09:14:11
+2563,e0f94043-b7ba-44c4-a1a2-a0ab33af300e,GAUTSCHI Salsa Tàrtara,3.1,3.25,2026-04-01 09:14:11
+2564,70bc4629-b988-4e41-986a-d0d2f44465b6,GAUTSCHI Salsa cafè de París,3.1,3.25,2026-04-01 09:14:11
+2565,9cd524d5-5e98-4d55-b73c-78fcf738ae90,HEALTH 4U Complement alimentari de carxofa,5.25,4.99,2026-04-01 09:14:18
+2566,93049778-4b26-435f-8fa6-e023061bb63f,HEALTH 4U Complement alimentari amb colàgen marí hidrolitzat,6.25,5.29,2026-04-01 09:14:19
+2567,7a478a2a-7082-42c1-942d-0a771da9c760,HEALTH 4U Complement alimentari d'espirulina,4.85,4.95,2026-04-01 09:14:19
+2568,19cb61ad-ac9e-4ec3-959f-deb4e2ee37e9,HEALTH 4U Complement alimentari de Coenzima Q10,6.25,5.15,2026-04-01 09:14:19
+2569,700e0c06-8fcf-401a-bf1b-34fc021dd74c,"VILAJUIGA Aigua carbònica amb gas 1,2 litres",1.39,1.45,2026-04-01 09:14:27
+2570,a884313c-c4f1-45e9-8a9c-caad78c7ef46,VILAJUIGA Aigua carbónica,1.39,1.45,2026-04-01 09:14:28
+2571,2da9493a-ecf7-4854-a836-d1f977188364,"VILAJUIGA Aigua mineral amb gas 6x1,2 L",8.34,8.7,2026-04-01 09:14:28
+2572,0934030e-40ee-4a4e-b81b-9c69e487cbe0,"VILAJUIGA Aigua mineral amb gas 6x1,2 L",8.34,8.7,2026-04-01 09:14:28
+2573,f3d96841-a221-4366-bc37-9fc59fdfe90b,COCA-COLA Refresc de cola sabor original en ampolla,2.76,3.46,2026-04-01 09:14:31
+2574,4ad1853e-fda1-4d8c-8875-eed36acd45d8,COCA-COLA Refresc de cola zero sucre en ampolla,2.4,3.0,2026-04-01 09:14:31
+2575,aa3a968e-1bc8-4948-a1aa-d47638632128,PEDRO XIMENEZ Caixa 6u. vi molt dolç Viña 25 DO. Jerez,61.74,65.7,2026-04-01 09:14:51
+2576,eefcfa8e-48a2-4172-991a-4a18c0e5e4ce,LA BOTERA Vi de taula negre Km0,9.85,9.65,2026-04-01 09:14:54
+2577,d1a55505-722d-4913-a4a9-defb591cc080,PEDRO XIMÉNEZ Vi molt dolç Xerès,10.29,10.95,2026-04-01 09:14:54
+2578,536882af-693a-40e2-975a-b20ab6c3f0ef,LA BOTERA Vi de taula negre,4.65,4.49,2026-04-01 09:14:55
+2579,49b33676-d8a1-4437-8248-a9c9497f4f5e,LA VINYETA Vi negre sense sulfits afegits DO Empordà Km0,7.85,7.99,2026-04-01 09:14:55
+2580,2459df18-6156-46f9-9eb6-f69727b266a7,LLAVORS Vi negre Criança DO Empordà Km0,10.29,10.49,2026-04-01 09:14:55
+2581,c4a9292a-2374-46b4-9e35-0a24fe31753e,HEUS Vi blanc DO Empordà Km0,7.49,7.69,2026-04-01 09:14:56
+2582,f30cdad0-c65b-4e48-b48d-28fc3ad70ea0,HEUS Vi negre DO l'Empordà Km0,7.49,7.69,2026-04-01 09:14:56
+2583,2e8d056f-ab39-4582-be01-02b1459b56db,PEDRO XIMENEZ Vi dolç Xerès PX San Emilio Lustau,22.95,23.65,2026-04-01 09:14:57
+2584,7907a395-049f-4eeb-b6cf-f28ba4f8975c,LLOPART Corpinnat Brut Nature guarda superior reserva ecològic,15.89,16.95,2026-04-01 09:15:00
+2585,1884882d-cf21-4642-ba5f-79c73c89a82e,LLOPART Corpinnat Rosat Brut guarda superior reserva ecològic Km0,17.55,18.69,2026-04-01 09:15:00
+2586,90a64110-ee48-4664-abed-f62175b40a52,LLOPART INTEGRAL Cava Corpinnat Brut Nature Integral ecològic caixa,106.0,109.0,2026-04-01 09:15:00
+2587,16cb89db-d148-477c-adee-90fe960e2975,LLOPART INTEGRAL Corpinnat Brut Nature Integral reserva ecològic,17.69,18.19,2026-04-01 09:15:00
+2588,caa1d040-c950-4fd5-b69c-e91436085763,CUTTY SARK Whisky escocès,16.95,16.45,2026-04-01 09:15:04
+2589,93d18fa9-3e67-4c1f-8c3a-fc9c6bbd0959,JB Whisky escocès,11.95,11.19,2026-04-01 09:15:04
+2590,eda81fae-4fb2-4be3-bf08-8e5c3b93082e,JB Whisky escocès,16.69,15.99,2026-04-01 09:15:04
+2591,17ff8459-b80e-4e5b-8bfb-f083a72857f0,DERA VAL Licor de Cassís Km0,10.89,10.99,2026-04-01 09:15:05
+2592,02361e5a-69c8-4697-abfc-78a4799c2f56,RAIERS Ratafia,10.29,10.49,2026-04-01 09:15:05
+2593,87e8a1af-a883-43e3-8c3a-be3d2febd014,PULEVA Llet sencera Tido Milky en cartró,2.85,2.79,2026-04-01 09:15:31
+2594,45dde2bb-f6f9-4641-bf92-e9fe5667573e,ARIAS Mantega micro-pastilla,2.69,2.29,2026-04-01 09:15:33
+2595,83feae70-9f44-47c2-b4e4-ddd7badf59b6,JUST LOADING Batut de proteïna cookie,1.65,1.69,2026-04-01 09:15:35
+2596,6632fc78-5f9d-4f50-8596-6418d2c6ce2e,L'OU DE L'ESTANY Ou dur de gallina a terra,2.1,2.2,2026-04-01 09:15:45
+2597,b786cf07-0b56-4982-95cb-dc6e6b277556,NATURA SIBERICA Gel de dutxa,5.59,4.45,2026-04-01 09:15:47
+2598,3a87c065-4b31-4c1e-9324-62e24c4cd156,VICHY DERCOS Xampú anti caspa seca,13.99,14.29,2026-04-01 09:15:50
+2599,611646be-e0a2-494d-a217-829d50f2e779,VICHY DERCOS Xampú anticaspa greix,13.99,14.29,2026-04-01 09:15:50
+2600,8266c4ff-ce8f-4d06-82bb-c9352cfda254,VICHY DERCOS Xampú anticaiguda,19.85,20.29,2026-04-01 09:15:51
+2601,af93ab12-7525-47a0-bb05-7e821d384733,VICHY DERCOS Xampú estimulant,14.25,14.59,2026-04-01 09:15:51
+2602,1bc61a3e-72e1-4a95-9276-807b9a518584,VICHY DERCOS Xampú tractament per a cabells grassos,14.65,14.95,2026-04-01 09:15:51
+2603,4b8d6b4e-3f77-4fd2-a8a2-7f1875b1fa7c,NATURA SIBERICA Xampú hidratació intensiva,8.99,6.99,2026-04-01 09:15:55
+2604,c1fb44f2-9160-4358-9fde-5f834f18b443,NATURA SIBERICA Xampú màxim volum,8.99,6.99,2026-04-01 09:15:55
+2605,15ad0e45-2a22-4c5f-bbfd-6f8ad29b431c,NATURA SIBERICA Condicionador hidratació intensa,8.99,6.99,2026-04-01 09:15:56
+2606,37c6a012-beaa-40ee-89e5-e5bf49aecefc,NATURA SIBERICA Escuma moldejadora volum màxim,10.99,8.25,2026-04-01 09:15:56
+2607,939f540f-c7c2-436a-907f-ea3a7a00ff71,NATURA SIBERICA Gel capil·lar cabells arrissats,9.59,7.95,2026-04-01 09:15:56
+2608,95cd1a6b-7cee-4c95-be69-d1f70f65dc1e,NATURA SIBERICA Mascareta capil·lar reparació profunda,7.49,5.45,2026-04-01 09:15:56
+2609,438a04b9-299f-463c-b2f2-ceeb13a92886,NATURA SIBERICA Xampú reparador,8.99,6.99,2026-04-01 09:15:56
+2610,58a4aabb-6a20-417c-b802-5cdc6189c1d9,NATURA SIBERICA Xampú sense sulfats ris definit,9.99,8.75,2026-04-01 09:15:56
+2611,422896c6-8d39-4ef9-bfd5-80272df9c924,NATURA SIBERICA Mascareta reparadora queratina,13.95,12.49,2026-04-01 09:15:57
+2612,d5237f59-ee12-40af-84b0-866e70903924,NATURA SIBERICA Xampú netejador,8.99,6.99,2026-04-01 09:15:57
+2613,c61ea743-befa-4fc5-9ff5-ea39ea9187dc,NATURA SIBERICA Condicionador màxim volum,8.99,6.99,2026-04-01 09:15:58
+2614,904de253-b599-492b-84fc-5d796d137b68,NATURA SIBERICA Condicionador per a cabell sec,8.99,6.99,2026-04-01 09:15:58
+2615,f9f34526-6807-4344-ab03-c9fc98ed1a87,NATURA SIBERICA Condicionador reparador intens,10.99,7.99,2026-04-01 09:15:58
+2616,75be99f2-3a71-441a-87ae-d490da73ba31,NATURA SIBERICA Exfoliant capil·lar,8.49,6.65,2026-04-01 09:15:58
+2617,3aec38e0-27c8-477c-9e0b-f4b2c967e45e,NATURA SIBERICA Oli capil·lar complex,11.49,8.89,2026-04-01 09:15:58
+2618,261f5c19-3f3a-475a-823b-7213f8a5e8f3,NATURA SIBERICA Sérum capil·lar reparador queratina,8.95,7.95,2026-04-01 09:15:58
+2619,f2e7be53-441d-4e81-b9f6-cd618df5b0d8,NATURA SIBERICA Xampú reparador queratina,10.95,9.95,2026-04-01 09:15:58
+2620,bc592cd8-6c76-4e5d-a0f5-9a4b5106b663,NATURA SIBERICA Aigua lamel·lar reparadora queratina,15.95,13.99,2026-04-01 09:16:00
+2621,d183297b-57e6-405b-af4a-3fb9e903c117,NATURA SIBERICA Gel netejador facial escumós,6.89,5.99,2026-04-01 09:16:03
+2622,aa4b0b59-c90d-4af7-aaf7-0f5979d1829a,NATURA SIBERICA Crema antioxidant contorn d'ulls C-Berrica,6.89,5.99,2026-04-01 09:16:04
+2623,fc618b74-36de-44b5-8c92-71a815c315ce,NATURA SIBERICA Crema facial de dia il·luminadora,9.29,8.75,2026-04-01 09:16:04
+2624,dd317068-a82e-4b9a-a8e6-84a888e23ca3,NATURA SIBERICA Desmaquillant en escuma hidratant,8.39,6.99,2026-04-01 09:16:04
+2625,4b7cb39d-7ed7-4310-bdd8-2d2b640c6425,NATURA SIBERICA Netejador facial refinador de poros,6.89,6.39,2026-04-01 09:16:04
+2626,b080c6fb-e470-4199-ae98-48c8994c5ace,NATURA SIBERICA Crema facial de dia Rodhiola Rosea,10.99,8.49,2026-04-01 09:16:05
+2627,a3366894-346d-493e-af37-fdfadae75bfc,NATURA SIBERICA Crema facial nit,9.99,7.49,2026-04-01 09:16:05
+2628,a7ea5fe7-b05c-4e19-8e2b-edc175bedefe,NATURA SIBERICA Discs activadors ultra il·luminadors,10.39,8.75,2026-04-01 09:16:05
+2629,c8c47e52-13a6-4354-ba5c-70e99768c4d9,NATURA SIBERICA Exfoliant facial pell mixta ecològic,7.29,5.99,2026-04-01 09:16:05
+2630,0feccbf3-d3f0-43f7-8b5b-3466ded9e1ce,NATURA SIBERICA Mousse netejador facial ecològic,8.39,6.99,2026-04-01 09:16:05
+2631,f152d4eb-0d89-4f37-adec-2e4cd3a1bde4,NATURA SIBERICA Sèrum facial hidratant,7.59,6.39,2026-04-01 09:16:05
+2632,eb22d892-46fa-4982-9db5-809f4c686f56,NATURA SIBERICA Tònic - mist facial hidratant Blueberry,7.99,7.65,2026-04-01 09:16:05
+2633,77001514-d89d-4d01-b1df-c86fbd8bf257,NATURA SIBERICA Crema de dia facial vigoritzant SPF20,9.29,8.65,2026-04-01 09:16:06
+2634,9f0e5f43-9e31-48f1-878a-685d1f248272,NATURA SIBERICA Crema facial tonificant de dia,8.95,8.75,2026-04-01 09:16:06
+2635,73e6d475-a6bd-4f94-b604-65755a583f31,NATURA SIBERICA Crema i gel facial hidratant,9.29,8.49,2026-04-01 09:16:06
+2636,038d3e2c-001d-45f1-86f9-44a83a2bcb4c,NATURA SIBERICA Estoig facial,13.99,9.49,2026-04-01 09:16:06
+2637,55910357-2519-484d-a570-2022c7bc851e,NATURA SIBERICA Exfoliant corporal orgànic,9.49,6.79,2026-04-01 09:16:06
+2638,617220ac-d677-436d-b7bb-e6293b2077fb,NATURA SIBERICA Mascareta facial reparadora,7.49,6.39,2026-04-01 09:16:06
+2639,b4aa41ae-5e55-40bb-80b0-dad43a9185f0,NATURA SIBERICA Sèrum facial antioxidant,7.59,6.39,2026-04-01 09:16:06
+2640,7b24521b-640c-4b65-8c4c-4cd0fbe49e8a,NATURA SIBERICA Sèrum facial energitzant Vitamina C,7.59,6.39,2026-04-01 09:16:06
+2641,547f0605-f388-4431-8f6b-34de4b0859ad,NATURA SIBERICA Sèrum facial vitamina C,7.99,5.85,2026-04-01 09:16:06
+2642,00eaa79f-a1e2-44ae-a208-9e40080467f8,NATURA SIBERICA Tònic facial anti-edat ecològic,8.39,5.99,2026-04-01 09:16:06
+2643,1dad63f4-466e-4713-9a31-755469bbc08d,NATURA SIBERICA Crema facial de nit reparadora,12.99,9.95,2026-04-01 09:16:07
+2644,3f58c4d0-13d5-4fff-9278-47b9ca2fa33d,NATURA SIBERICA Crema facial netejadora,8.49,7.95,2026-04-01 09:16:07
+2645,66aabbf5-dc40-425b-86dc-8be2ee79f6b8,NATURA SIBERICA Mascareta facial exfoliant,6.89,5.99,2026-04-01 09:16:07
+2646,37c348f0-c93d-4e7d-925f-56ea4cd082ee,NATURA SIBERICA Sèrum facial corrector d'imperfeccions,7.59,6.39,2026-04-01 09:16:07
+2647,a8d0cafc-5a29-46c6-89ad-deaf8d13b4b1,NATURA SIBERICA Sèrum facial renovador Blueberry,8.69,7.95,2026-04-01 09:16:07
+2648,bef5dca9-7d19-4e07-b0df-676b52ac0758,NATURA SIBERICA Exfoliant facial Blueberry,9.29,8.65,2026-04-01 09:16:08
+2649,2c69153c-3825-44db-9ad7-858a4553eaad,NATURA SIBERICA Crema facial de dia lífting rejovenidora,17.79,12.59,2026-04-01 09:16:09
+2650,73d73942-4050-4d10-9272-c254e2ebc7f8,NATURA SIBERICA Crema de mans hidratant,6.59,4.99,2026-04-01 09:16:24
+2651,a7cf0dca-8112-47a4-ade1-894ccd95670e,NATURA SIBERICA Llet corporal nutritiva i hidratant,6.59,5.35,2026-04-01 09:16:34
+2652,dc8c5e83-4993-4573-b5c3-cbd801590576,VAGISIL Gel hidratant íntim,9.95,10.25,2026-04-01 09:16:35
+2653,3a0626b0-013b-4521-b05f-6012f0c876c7,BENETTON Colònia home We Are Tribe Play,18.95,19.95,2026-04-01 09:16:41
+2654,f2e340d3-b3e7-4bc4-86b9-d73cc0030433,TATAY Contenidor hermètic blau 20 cl,1.65,1.69,2026-04-01 09:16:49
+2655,e752c42d-da09-45cd-8462-e4fcce0bd972,"TATAY Contenidor hermètic de vidre 1,1L Cook&Eat",6.75,7.49,2026-04-01 09:16:49
+2656,03d8b6e9-2b9a-4078-8bab-b55505e12b93,"TATAY Contenidor hermètic de vidre 1,5L Cook&Eat",8.35,8.99,2026-04-01 09:16:49
+2657,dfe4da8f-be22-4cbc-a46c-3f168cda865b,TATAY Contenidor hermètic de vidre 37 cl Cook&Eat,4.75,4.99,2026-04-01 09:16:49
+2658,22064f0d-bd39-4027-8bdf-44be079e49f7,TATAY Recipient hermètic de 30 cl,1.75,1.79,2026-04-01 09:16:49
+2659,0bb49117-908e-416c-a271-692925f77d8a,TATAY Recipient hermètic de 60 cl,1.85,1.99,2026-04-01 09:16:49
+2660,8673e7b6-568b-4bf4-8cf9-c1f6e437eed7,"TATAY Recipient hermètic quadrat blau 1,3L",2.85,2.99,2026-04-01 09:16:49
+2661,5e697277-e920-42ea-b0ae-edf82a879229,TATAY Contenidor hermètic blanc 1L,2.95,2.99,2026-04-01 09:16:50
+2662,3fb59441-792c-43c5-bc35-ed13bf67f42e,TATAY Contenidor hermètic blanc 20 cl,1.65,1.69,2026-04-01 09:16:50
+2663,4415caf1-4098-484d-b245-714be4e1ebf5,TATAY Contenidor hermètic blau 1L,2.95,2.99,2026-04-01 09:16:50
+2664,c91f1992-8b72-439c-aab3-1ee5958a62eb,TATAY Contenidor hermètic de vidre 64 cl Cook&Eat,5.75,5.99,2026-04-01 09:16:50
+2665,08c73ca6-19fc-42a3-9f62-94100a2644b7,TATAY Recipient hermètic d'1L,2.35,2.49,2026-04-01 09:16:50
+2666,311e62d5-8adf-4d63-8ffb-32901c6a7339,"TATAY Recipient hermètic de 2,1L",3.95,3.99,2026-04-01 09:16:50
+2667,0efc7a2b-b7be-4c1e-b83c-803fdc7af026,"TATAY Recipient hermètic de 2,9 L",4.25,4.39,2026-04-01 09:16:50
+2668,c408458c-d4b2-4a66-bf01-2e8d1824734a,"TATAY Recipient hermètic de 4,7 L",5.15,5.49,2026-04-01 09:16:50
+2669,2669d7f1-7640-4865-9355-b192d37def82,TATAY Recipient hermètic de 50 cl,1.95,1.99,2026-04-01 09:16:50
+2670,bfc205e9-db1f-4f3b-a293-37a9fd06dcca,TATAY Recipient hermètic portasandvitx,3.95,3.99,2026-04-01 09:16:50
+2671,bc49bbb5-1c00-4b64-a29d-2274cbed992a,TATAY Galleda amb escorredor i rodes,7.95,8.49,2026-04-01 09:17:06
+2672,9235cded-4245-4c4c-9389-831e05100913,TATAY Cubell amb pedal color Hydraulic,15.95,15.99,2026-04-01 09:17:07
+2673,1b07c19a-c003-4280-ab47-17d900069c32,TATAY Cubell amb tapa per a residus orgànics,6.55,6.99,2026-04-01 09:17:07
+2674,f0119efc-2321-4bdf-9195-18294d6fa349,TATAY Cubell d'escombraries reciclatge negre,21.95,22.99,2026-04-01 09:17:07
+2675,4609da5f-caa3-4a55-845b-559bed0cd81e,TATAY Escombreta WC de color blanc,2.85,2.99,2026-04-01 09:17:14
+2676,8b455618-fbf1-40fe-adf3-dfb0164142fd,TATAY Dosificador de sabó color gris,4.95,4.99,2026-04-01 09:17:19
+2677,a6360c88-80e7-4e12-a711-f69946d9b690,TATAY Catifa de bany antilliscant blanca 97x36 cm,14.95,15.99,2026-04-01 09:17:21
+2678,a8a2c41c-ce0d-4079-846e-f65c26a38400,TATAY Got per a raspalls de dents Baobab gris,2.35,2.49,2026-04-01 09:17:21
+2679,a14e6ca6-43fc-4d56-a4e5-1cbbb0f494b5,TATAY Capçal per a la dutxa cromat Pacific,7.75,7.99,2026-04-01 09:17:22
+2680,455b501b-a10e-49c7-aaba-4ba1aa7066cc,TATAY Catifa de bany antilliscant blau 36x70 cm,12.55,12.99,2026-04-01 09:17:22
+2681,e2ad8bc6-39a7-442d-b193-d6aace228843,TATAY Cubell de bany amb pedal blanc,6.95,7.49,2026-04-01 09:17:22
+2682,6618dd41-d0c4-4a84-b40b-e5331e9b4549,TATAY Mànega de dutxa 2 metres Loop,8.95,8.99,2026-04-01 09:17:22
+2683,14d62198-7040-4fcc-a303-cc1e5a1770a0,"TATAY Mànega de dutxa Dual Flex 1,7m",8.95,8.99,2026-04-01 09:17:22
+2684,f91e80f9-a09c-4eab-bf74-5ecc51c4a0b2,TATAY Capçal per a la dutxa cromat Aquafresh,18.95,19.99,2026-04-01 09:17:24
+2685,9db366ea-3fb1-4ebf-8c6d-96ba4d95831e,TATAY Catifa de bany antilliscant blava 97x36 cm,14.95,15.99,2026-04-01 09:17:24
+2686,55a26ee4-d49a-4266-8a8e-e1b44444f1e8,TATAY Escombreta per al bany bambú,21.95,22.99,2026-04-01 09:17:24
+2687,e9f95a54-4afd-47e6-998d-dbc1bef2b35a,TATAY Penjador per escombra clip,5.15,5.29,2026-04-01 09:17:24
+2688,24a3a00f-fdd1-4581-9498-a3c33989f964,TATAY Anelles per a cortina de dutxa,2.25,2.49,2026-04-01 09:17:26
+2689,0d1d9e59-4581-4ba3-92bc-7c44afc1a667,TATAY Barra recta de dutxa ajustable 110 a 190cm,14.95,15.99,2026-04-01 09:17:26
+2690,b60aa9b6-3e4b-4ac9-b5c3-005fe8a5d56f,TATAY Capçal per a la dutxa Bombay,9.55,9.99,2026-04-01 09:17:27
+2691,c9f72330-dfc9-4c0f-b750-98eff5c12d3d,TATAY Capçal per a la dutxa cromat Vanity,10.55,10.99,2026-04-01 09:17:27
+2692,ca6c0312-9fd4-43eb-a2a8-2179d6b6f429,TATAY Tovalloler Olympia color blanc,6.95,7.49,2026-04-01 09:17:27
+2693,8d571097-09fd-451c-aeb3-b63418033923,TATAY Dosificador sabó de bambú,11.95,11.99,2026-04-01 09:17:28
+2694,67d86fd5-ffda-41a4-812b-a6b0a41217c9,TATAY Catifa de bany antilliscant blanca 36x70 cm,12.55,12.99,2026-04-01 09:17:29
+2695,012009f8-0084-4523-84cb-83c9d632f32c,TATAY Tovalloler Olympia color blanc,5.55,5.99,2026-04-01 09:17:29
+2696,4f87396d-0413-4d98-9ee9-fb22aafa07e6,TATAY Kit de dutxa d'acer inoxidable,32.95,33.99,2026-04-01 09:17:30
+2697,6836ce52-024b-471f-8acc-586f0e846629,TATAY Sabonera de bany Baobab,2.35,2.49,2026-04-01 09:17:31
+2698,8cf6c0da-d8e2-4f8a-bfe6-ff1a878b3343,TATAY Cistell amb penjador per a la dutxa,20.95,21.99,2026-04-01 09:17:32
+2699,0f9c5b74-cb1b-4486-a1c3-28165ed451c8,TATAY Got de bambú,8.31,8.99,2026-04-01 09:17:32
+2700,19a54162-24a3-4b93-a336-426c00c70289,TATAY Penjador Olympia color blanc,2.95,2.99,2026-04-01 09:17:32
+2701,a4834cd1-6f51-490f-b66e-49c4cd53d939,TATAY Sabonera de bambú,9.95,10.99,2026-04-01 09:17:32
+2702,cc7136f2-aee3-414f-abec-bcc34b4e7524,TATAY Porta-rotlles amb fixació,4.95,4.99,2026-04-01 09:17:33
+2703,d6e7c99a-dfca-4467-826f-a1ec1817e782,NAN EXPERT PRO Aliment infantil per transtorns digestius,28.49,28.79,2026-04-01 09:19:22
+2704,a3c523cf-fdd9-41b9-976d-b0bb4f97c893,NAN EXPERT PRO Aliment infantil per trastorn digestiu,28.95,30.35,2026-04-01 09:19:22
+2705,39d99743-903c-4aee-822d-eaafbbacd516,NAN OPTI PRO Llet de continuació en pols,21.1,20.95,2026-04-01 09:19:22
+2706,00725f0d-bc71-4662-9ffa-9a27e38a59bc,NAN OPTI PRO Llet per a lactants en pols,21.95,22.89,2026-04-01 09:19:22
+2707,ed6facfc-12bf-4e64-ad74-f2bd33bb7aef,NAN SUPREME PRO Llet de continuació en pols,26.95,27.89,2026-04-01 09:19:22
+2708,9e52d879-b886-40d5-acf7-6926b623de9a,NAN SUPREME PRO Llet de creixement  en pols,25.25,26.65,2026-04-01 09:19:22
+2709,0baa6d0f-a86f-4291-a85d-97b1a51bb405,NAN SUPREME PRO Llet per a lactants en pols,28.75,29.25,2026-04-01 09:19:22
+2710,f781c89e-636d-4083-9023-656a4a50efdf,ALGASIV Adhesiu en tires inferior,13.75,14.19,2026-04-01 09:19:32
+2711,b39c2c05-ab96-40d2-b12b-300f93db22e7,ALGASIV Adhesiu en tires superior,8.85,9.15,2026-04-01 09:19:32
+2712,41bbbabd-af63-4e22-91ed-76a47d68e6ca,HEALTH 4U Complement alimentari Ashwagandha,6.49,5.95,2026-04-01 09:19:34
+2713,e310ff9b-4569-476c-9653-21b715a3828c,HEALTH 4U Complement alimentari de cúrcuma,6.25,4.99,2026-04-01 09:19:34
+2714,2c4e327b-c5f2-4e5e-ad95-38f6976cae26,HEALTH 4U Complement alimentari vitamina B12,4.35,4.19,2026-04-01 09:19:34
+2715,50754a6a-cb37-4f89-a642-29fb8e4e0cc0,HEALTH 4U Complement alimentari de Maca,6.3,5.99,2026-04-01 09:19:35
+2716,31d25747-3d61-4b87-aa92-ccf9697124b2,HEALTH 4U Complement alimentari llevat de cervesa,4.65,4.95,2026-04-01 09:19:35
+2717,d11a023a-879e-4f2e-bdc6-a6136a836102,HEALTH 4U Complement alimentari nabius vermells,6.95,6.65,2026-04-01 09:19:35
+2718,a0c10073-7a04-4d2b-82ce-ad1ff8c9e8a2,HEALTH 4U Complement alimentari de Magnesi i Vitamina B6,2.95,2.49,2026-04-01 09:19:37
+2719,29c7373a-7aa8-4638-9997-706839cc5c42,HEALTH 4U Vitamina C i zinc comprimits efervescents gust de taronja,2.95,2.49,2026-04-01 09:19:37
+2720,b6cdf254-b968-41e9-b283-e84cbb698298,KNEIPP Complement alimentari Son,13.49,12.95,2026-04-01 09:19:37
+2721,7d85d2ce-d1b1-4ed7-af9e-5e1e70ef515d,KNEIPP Complement alimentario de valeriana,7.99,7.29,2026-04-01 09:19:37
+2722,4cc28080-80cc-46e9-ae8f-c38318481e48,HEALTH 4U Complement alimentari,10.85,10.99,2026-04-01 09:19:38
+2723,6b43d96b-4d92-49ef-88be-62a6d0a37390,HEALTH 4U Multivitaminic comprimits efervescents gust a taronja,2.95,2.49,2026-04-01 09:19:39
+2724,3e8ed633-c5bf-4273-b947-4868b2f6f11c,KNEIPP Complement alimentari Magnesi energia,13.25,12.95,2026-04-01 09:19:39
+2725,f8b17b04-a3c5-4d19-a88f-91ebe847eb1f,KNEIPP Complement alimentari de Valeriana Clàssic,6.19,5.59,2026-04-01 09:19:39
+2726,f74c5d3b-f19f-4e92-ace3-1b3fe8e31ab7,KNEIPP Somni complet doble acció,11.49,12.15,2026-04-01 09:19:39
+2727,c08e510c-2881-4e09-9257-f6cab9ef9406,KNEIPP Vitamines i minerals per a dona,4.19,4.59,2026-04-01 09:19:39
+2728,deaa62a2-bbb8-4c77-aa00-00662dabd638,KNEIPP Complement alimentari per a l'estrès Stress Balance,11.65,11.35,2026-04-01 09:19:40
+2729,731d1c11-4da1-483a-b2ae-402155bb7354,KNEIPP Complement alimentari per a la memòria i concentració,9.79,10.35,2026-04-01 09:19:40
+2730,d5bb079b-8b5a-49a9-aee7-f0eb0bbb507c,JUST FOR MEN Xampú reductor de cabells blancs Control GX,11.85,11.99,2026-04-01 09:19:43
+2731,7d53594e-2b80-4934-8346-1707ec456816,JUST FOR MEN Coloració en gel per bigoti i barba,11.69,11.85,2026-04-01 09:19:44
+2732,ec5e0fc1-3fa9-4b22-9fbc-deb15283fa85,JUST FOR MEN Colorant en xampú castany clar,11.69,11.85,2026-04-01 09:19:44
+2733,30db3e7b-81cb-4516-98b5-558805e0f86f,JUST FOR MEN Colorant en xampú castany fosc,11.69,11.85,2026-04-01 09:19:44
+2734,300998b0-97d2-438c-858b-dace0057daf1,JUST FOR MEN Colorant en xampú morè,11.69,11.85,2026-04-01 09:19:44
+2735,4fe4a571-d9a4-4ab1-9d60-ac9734275fbe,JUST FOR MEN Crema colorant per bigoti-barba castany,11.69,11.85,2026-04-01 09:19:44
+2736,cfa57ced-e25e-48b2-a52a-062fbcade84c,JUST FOR MEN Xampú colorant per a barba Controlgx,11.85,11.99,2026-04-01 09:19:45
+2737,a2e7b2a8-d49e-4459-aec4-c8bf9a1e0401,LA ROCHE POSAY Crema facial mat Effaclar,20.35,20.75,2026-04-01 09:19:48
+2738,7dbf2c6c-32d0-44e8-9e96-16c007bd7122,LA ROCHE POSAY Tractament rehidratant Hydraphase,25.5,25.99,2026-04-01 09:19:48
+2739,36bf253f-53d9-43fc-9cc7-28edc5712c9b,LA ROCHE-POSAY Tractament rehidratant reomplidor,24.5,24.99,2026-04-01 09:19:48
+2740,18533bc9-ff9f-4209-869e-26c7672adeee,LA ROCHE-POSAY Tònic Effaclar,20.29,20.75,2026-04-01 09:19:48
+2741,3efe566e-54e1-4260-ac8a-375f239de19e,TOLERIANE Dermonetejador cara i ulls,23.5,23.99,2026-04-01 09:19:50
+2742,3c688cb6-f9b0-4295-8803-bd294497b012,VICHY Desodorant antitranspirant en bola,12.65,12.95,2026-04-01 09:19:56
+2743,e62d6e5b-2337-48f4-91e9-816425b4f9b7,VICHY Desodorant antitranspirant en esprai,13.25,13.49,2026-04-01 09:19:56
+2744,30d2e3c1-b670-4d02-a60a-bacfeb1abc0a,VICHY Desodorant control extrem en bola,12.65,12.95,2026-04-01 09:19:56
+2745,bdf82f75-861f-4818-bcc4-478cb75416c4,VICHY Desodorant stress resist en bola,12.65,12.95,2026-04-01 09:19:56
+2746,a73b5b93-8c19-4bbf-94db-dc81dc469a61,VICHY Tractament anti-transpirant,11.95,12.19,2026-04-01 09:19:56
+2747,380ef631-1f1f-43fb-b68e-2e6e785a3993,VICHY Desodorant antitranspirant en bola,12.65,12.95,2026-04-01 09:19:57
+2748,5ef05bce-6a6b-4d71-bdbb-b42e07450040,VICHY Desodorant efecte calmant en bola,12.65,12.95,2026-04-01 09:19:57
+2749,932c2c41-f634-4657-be18-a79a021c0894,VICHY Desodorant sense sals d'alumini en bola,12.65,12.95,2026-04-01 09:19:57
+2750,ce7de2c7-3911-4b0b-b492-63116fe11edd,"SCHOLL Plantilles Gel Activ talla 40-46,5",16.95,17.15,2026-04-01 09:19:59
+2751,72c431e9-945e-4cd0-8e7c-686ae59e92af,SCHOLL Llima elèctrica,27.95,28.25,2026-04-01 09:20:00
+2752,687c3fea-faa7-4dfb-bdda-e693074a04a3,"SCHOLL Plantilles Gel Activ talla 35,5-40,5",16.95,17.15,2026-04-01 09:20:00
+2753,a209aa32-2997-48e8-a98a-514feb1fbb5f,SCHOLL Recanvis llima elèctrica,12.95,12.99,2026-04-01 09:20:00
+2754,a73dab4b-75ea-4706-8a57-1ade9d367697,VAGISIL Crema de civada prebiòtica,11.35,11.69,2026-04-01 09:20:05
+2755,23d2312a-0300-42a3-86d8-8fed98611a1d,VAGISIL Desodorant íntim gessamí blanc,6.19,6.45,2026-04-01 09:20:05
+2756,7d51204d-bb26-4346-bcf3-e9decc237e78,VAGISIL Lubricant íntim efecte calor,10.29,10.65,2026-04-01 09:20:05
+2757,3160a366-61d7-43c0-8a60-f54e5906e386,HEALTH 4U Complement alimentari col·lagen hialurònic,6.25,5.59,2026-04-01 09:20:07
+2758,c8750804-2741-42fc-a92f-b3ac245bb1e0,JUST LOADING Barreta proteica de xocolata i coco,2.85,2.99,2026-04-01 09:20:34
+2759,23b59533-db82-4c80-bfeb-8aff563fc7d0,JUST LOADING Barreta amb gust de muffin de nabius amb probiòtics,3.49,3.25,2026-04-01 09:20:35
+2760,b3df3e15-3594-4485-bdb0-be5d541b5680,JUST LOADING Barreta proteica de cafè latte,1.59,1.65,2026-04-01 09:20:35
+2761,a5828dea-d782-455a-b14f-760d4c93b7f1,JUST LOADING Barreta energètica de cappuccino,1.29,1.35,2026-04-01 09:20:39
+2762,0ec4c080-bb60-4696-b4a3-af29da0b0f68,JUST LOADING Barreta energètica de fruits vermells,3.09,3.3,2026-04-01 09:20:39
+2763,a793cfe8-5fea-4e9e-a9a9-7335c6453c3d,JUST LOADING Barreta proteica de straciatella,3.29,3.45,2026-04-01 09:20:39
+2764,4cecb801-5755-4a2a-a5de-ab2d6e0df53b,JUST LOADING Barreta proteica de xocolata,3.29,3.45,2026-04-01 09:20:39
+2765,23040098-fd1d-4dd0-82b9-4b340acc8554,JUST LOADING Batut de proteína al cacau,1.65,1.69,2026-04-01 09:20:39
+2766,b8ee2131-b7a3-40c7-8c4a-6a7a6e15c5c9,JUST LOADING Barreta energètica cacauet Padel,1.29,1.25,2026-04-01 09:20:40
+2767,a15844b7-f12b-4964-aba4-98064ed22391,JUST LOADING Barreta proteica amb probiòtics de caramel i cacauet,2.25,1.99,2026-04-01 09:20:40
+2768,d3d6bd17-af27-4711-8a53-67ef47f03630,JUST LOADING Gel energètic gust cola amb cafeïna,2.95,3.05,2026-04-01 09:20:40
