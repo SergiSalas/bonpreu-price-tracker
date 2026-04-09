@@ -3382,3 +3382,282 @@ id,product_id,name,old_price,new_price,change_date
 3381,21ba3fb7-bc59-4bef-8d4b-beb24415f3f0,SEBAMED Gel bany escuma bebé,13.45,9.99,2026-04-08 09:19:52
 3382,ea21b6e2-7757-4a71-ac4e-8963ec4a87a3,SEBAMED Llet corporal per bebé,13.25,9.89,2026-04-08 09:19:52
 3383,93564b8c-41c8-429f-909e-9f8fe8f0b225,JUST LOADING Creatina,13.83,12.99,2026-04-08 09:20:59
+3384,64a2999d-9d24-48fb-8c4b-0e426530ae77,Cogombre curt en malla 1 kg,2.99,2.49,2026-04-09 09:13:44
+3385,89ccb936-8852-4dff-b7ea-8ce0f01a59d3,Col km01 u.,1.99,2.29,2026-04-09 09:13:44
+3386,cde34e9c-46a1-4c4b-ac81-31669cf98463,BONPREU Pernil cuit extra a talls,1.99,1.79,2026-04-09 09:13:52
+3387,66cb4779-1c49-4978-b1c5-bd5b04de145d,BONPREU Pernil serrano reserva,3.99,3.69,2026-04-09 09:13:52
+3388,a58541b5-2101-4c22-afa1-e2efe7a4d1d8,BONPREU Pit d'indiot cuit reduït de sal,1.85,1.79,2026-04-09 09:13:52
+3389,007a7a5c-177a-41c6-8fce-5f25a0d772cb,BONPREU Llonganissa ibèrica extra,2.85,1.99,2026-04-09 09:13:53
+3390,41c6b200-217e-4afa-b466-b4814a88aab8,BONPREU Xoriço ibèric extra a talls,2.85,1.99,2026-04-09 09:13:53
+3391,ca33c4d1-7582-471c-8c73-3b5d58117349,BONPREU Bacó cuit fumat,3.29,2.89,2026-04-09 09:13:55
+3392,4ae8e099-0b16-48cd-89b1-5c9cb4ad0a76,ESPUÑA Bloc de pernil curat,4.15,3.85,2026-04-09 09:13:57
+3393,9cc4dddc-7a6f-4932-9ded-9cc634819290,BONPREU Formatge edam llescat,2.29,2.1,2026-04-09 09:14:07
+3394,c612a629-100d-4606-8dfb-5892594b8a37,BONPREU Formatge emmental,2.3,2.15,2026-04-09 09:14:07
+3395,03bd32a4-a852-41f0-be73-912280067d5a,BONPREU Formatge fresc,1.19,1.15,2026-04-09 09:14:07
+3396,e32bb2ef-88b5-4c39-95a6-57105d81ae13,BONPREU Formatge gouda llescat,2.35,2.15,2026-04-09 09:14:07
+3397,9ab06282-d7da-4faa-99cb-0a6ccf624067,BONPREU Formatge ratllat Emmental,2.19,1.0,2026-04-09 09:14:07
+3398,d0b85395-d149-4c1f-bb1a-5a6929a2d03b,BONPREU Formatge ratllat mozzarella,1.75,1.65,2026-04-09 09:14:07
+3399,36c39d88-851e-454e-8c62-6b7e2c99f51d,BONPREU Formatge semicurat,2.89,2.69,2026-04-09 09:14:07
+3400,e82104b2-d109-4315-886c-13e00220dc6d,BONPREU Formatge tendre d'ovella a talls,2.99,2.89,2026-04-09 09:14:07
+3401,29d4c0cf-cbed-4290-874a-abda878c2fa3,SPIGA Mozzarella fresca,0.97,0.9,2026-04-09 09:14:07
+3402,27177635-6795-4004-bcb1-290256af2b8f,BONPREU Formatge cheddar,2.19,2.0,2026-04-09 09:14:08
+3403,8ebd8839-7e78-44f2-8ed7-1cad4d2eec1b,BONPREU Formatge fresc 0% MG,1.19,1.15,2026-04-09 09:14:08
+3404,4bf95954-6641-4f6f-9f3e-d1c74f5f5493,GARCIA BAQUERO Formatge de cabra tendre,2.99,3.19,2026-04-09 09:14:08
+3405,abbbaf46-af82-49f4-b38b-0eba8f040ae6,BONPREU Formatge cremós llescat,3.29,2.99,2026-04-09 09:14:09
+3406,7b196adc-53ab-4f76-b4dd-c74e443a863b,BONPREU Formatge tendre a talls,3.1,2.99,2026-04-09 09:14:09
+3407,9495bd00-bd78-4e88-885b-e2e6e2510f3c,MARGUI Formatge ratllat mix per fondre i gratinar,1.52,1.25,2026-04-09 09:14:09
+3408,187ebcbc-135a-4fe0-9ba8-88c4a2aa76ba,SPIGA Mozzarella light,1.02,1.0,2026-04-09 09:14:09
+3409,eb47e1a5-c249-48e2-a551-b35d14c4cf07,BONPREU Salmó fumat,3.89,3.8,2026-04-09 09:14:28
+3410,82ab89e8-2d98-4a47-af0d-91e170714279,Gamba rosada del Mediterrani,14.99,11.99,2026-04-09 09:14:30
+3411,fb0c1098-1182-4a85-8837-13ad7617bf18,BONPREU Oli d'oliva verge extra ecològic,4.6,4.65,2026-04-09 09:14:55
+3412,f6e70403-d768-4bd2-9269-13f7f6d44d49,BONPREU Ametlles crues amb pell Km0,2.49,2.4,2026-04-09 09:15:02
+3413,a4b85454-25b2-428c-bd59-1ca017042ca6,BONPREU Anacards crus,4.18,3.99,2026-04-09 09:15:02
+3414,e7e2bd4b-bf4e-4d96-8434-67a60e8de6c4,BONPREU Avellanes repelades torrades sense sal,4.23,3.99,2026-04-09 09:15:02
+3415,c6a08bf3-2c75-4a80-8c2f-7e73f76eff9c,BONPREU Pipes gegants torrades i amb aigua-sal,0.9,0.83,2026-04-09 09:15:02
+3416,ce566b30-abfa-4e42-bde6-635936d8d205,BONPREU Ametlles crues repelades Km0,2.99,2.9,2026-04-09 09:15:03
+3417,05ce02bc-d773-4490-b9de-886fdce146ef,BON PREU Dàtils sense pinyol dessecats,2.09,1.99,2026-04-09 09:15:04
+3418,b6c97ccb-aa9d-4a55-aa81-8e8451b7426d,BONPREU Mango deshidratat,1.45,1.33,2026-04-09 09:15:04
+3419,a8a26ad3-ab96-4e1e-a9ff-0e0a4d3fbf2c,BONPREU Nabius vermells dessecats,2.29,2.2,2026-04-09 09:15:04
+3420,985343d4-4e44-42d3-8e45-c526f0d6f5a0,BONPREU Nous de macadàmia crues,3.15,2.99,2026-04-09 09:15:04
+3421,bd786511-da00-4832-a37d-143d43ad364c,BONPREU Anacards torrats sense sal afegida,2.45,1.99,2026-04-09 09:15:06
+3422,1ae1c8a6-be53-4c7d-8660-702e7e1ea9d7,BONPREU Orellanes d'albercoc dessecades,3.95,3.5,2026-04-09 09:15:06
+3423,ceb749ae-e279-49c9-8ec3-22a453230e9a,BONPREU Pipes salades,0.78,0.72,2026-04-09 09:15:06
+3424,dcf79b6f-1778-4bd0-8863-117d985e34a1,BORGES Prunes sense pinyol,2.99,3.35,2026-04-09 09:15:07
+3425,461e16b2-5ea7-4dc3-92c1-4249f979607e,BONPREU Nous amb closca i obridor,3.07,2.99,2026-04-09 09:15:08
+3426,ba407acf-d7fe-4eab-addc-d3c7920000f3,BARBACANA Cafè amb llet Cappuccino,0.8,0.85,2026-04-09 09:15:15
+3427,7bbad7ba-3af4-42be-a817-06920877698b,BONPREU Cafè soluble,4.4,4.25,2026-04-09 09:15:15
+3428,92f21001-fb57-45f4-890b-a75f43599ea3,L'OR Càpsules de cafè Ristretto,4.29,4.16,2026-04-09 09:15:15
+3429,243ff245-e74a-4c45-9fe1-31571abd1d3a,L'OR Càpsules de cafè descafeïnat Ristretto,4.29,4.16,2026-04-09 09:15:15
+3430,c1ac2d0e-3361-44ed-8f6c-75954650695d,MARCILLA Cafè molt natural Crème Express,5.45,5.65,2026-04-09 09:15:15
+3431,98263d72-9f9a-43f6-996d-0ae2f65a47b1,L'OR Càpsules de cafè Colòmbia,4.29,4.16,2026-04-09 09:15:16
+3432,21c2b4b6-c59c-4faf-8584-adc4a2e02a7b,MARCILLA Cafè molt barrejat Crème Express,5.45,5.65,2026-04-09 09:15:16
+3433,a03632f1-230d-4354-a0db-bba9883328a9,BONPREU Cafè soluble descafeïnat,4.65,4.55,2026-04-09 09:15:17
+3434,8a65c553-b8c3-464d-95a1-a061065e1b26,BONPREU Càpsules de cafè descafeïnat,3.55,3.45,2026-04-09 09:15:17
+3435,3110aa0e-9feb-4624-b97d-f72c58b3a96e,L'OR Càpsules de cafè Forza,4.29,4.16,2026-04-09 09:15:17
+3436,6bb08745-1d9c-4c8b-a9a1-c49408c550b0,MARCILLA Càpsules de cafè Intens,13.99,14.99,2026-04-09 09:15:17
+3437,80c3efb1-2dfd-4948-8066-3bc3d51377b5,MARCILLA Càpsules de cafè Ristretto,13.99,14.99,2026-04-09 09:15:17
+3438,360d9018-b732-4cf3-b1a4-3fa167ae5d3c,L'OR Càpsules de cafè Onyx,4.29,4.16,2026-04-09 09:15:18
+3439,8d0faa13-2ee6-428a-ba87-fa6b1fcc7ab8,L'OR Càpsules de cafè Brazil,4.29,4.16,2026-04-09 09:15:19
+3440,05543630-4141-43b6-935b-c2aeacad6554,BONPREU Càpsules de tallat,3.55,3.45,2026-04-09 09:15:20
+3441,5b999521-580f-4fac-8ffb-157bbfcbc696,EKO Cereals solubles amb mel,4.09,4.15,2026-04-09 09:15:21
+3442,204089e5-b115-4f5c-af91-350d396e4fa3,BONPREU Galetes amb trossets de xocolata sense gluten,1.58,1.54,2026-04-09 09:15:27
+3443,41c86f0e-4647-45ac-9fe6-d38a6a2c866a,SCHÄR Galetes de xocolata sense gluten,3.95,3.85,2026-04-09 09:15:30
+3444,956a12dd-8680-47b0-bc95-fe961b502787,BONPREU Crema de cacauet,2.85,2.75,2026-04-09 09:15:34
+3445,65ca5018-0062-4bec-b124-850e6c44aac2,BONPREU Xocolata negra 72% amb taronja,2.15,1.95,2026-04-09 09:15:34
+3446,64d7a731-ae44-4f32-93a0-ee1173f4b16b,BONPREU Xocolata negra amb ametlles senceres,2.75,2.6,2026-04-09 09:15:34
+3447,315673e2-4466-4ec0-bbb0-1bf9ecf4d21e,BONPREU Xocolata negra especial per fondre,2.39,2.25,2026-04-09 09:15:34
+3448,e50d1988-52e8-4380-8d9f-b1f9dea65b5a,NOCILLA Crema de cacau amb avellanes,6.49,4.99,2026-04-09 09:15:34
+3449,f22521f3-092d-4db1-9d2c-cefddaeeb4ab,NATRULY Crema d'avellanes i cacau,8.39,7.99,2026-04-09 09:15:35
+3450,cd58d0cc-e377-4b5d-b33f-8454deaa8cf6,BONPREU Crema de cacau amb avellanes,2.39,2.35,2026-04-09 09:15:36
+3451,2d8684ef-a15e-4ae0-a3dc-aa29dd82bbf4,NOCILLA Crema de cacau i crema de llet,6.49,4.99,2026-04-09 09:15:36
+3452,c3f6aa1a-25fc-4733-9444-3ffc891f734f,BONPREU Melmelada de maduixa,1.59,1.45,2026-04-09 09:15:41
+3453,1e2b2f40-5d29-43ee-a49a-87ad1fe83620,BONPREU Melmelada de préssec,1.59,1.45,2026-04-09 09:15:41
+3454,2940031c-1994-4b58-bb98-6e0dbf6c45bc,BONPREU Melmelada d'albercoc,1.69,1.65,2026-04-09 09:15:42
+3455,85d80347-e1f0-476e-83f8-0b1716792979,BONPREU Melmelada de nabius,1.95,2.25,2026-04-09 09:15:42
+3456,a8520554-21a9-44da-8498-dfd7dc214e16,BONPREU Barretes de pa,0.79,0.78,2026-04-09 09:15:45
+3457,32c7320b-7d85-4887-83b6-67fee4403d08,BONPREU Bocinets amb cacau,1.42,1.49,2026-04-09 09:15:45
+3458,dc7c0808-9836-42eb-be20-887be1a9d4e5,BONPREU Pa de llet,1.8,1.85,2026-04-09 09:15:45
+3459,6f559a40-5bb7-48e2-a763-e30e4152a4a0,BONPREU Pa de motlle Fogassa,1.37,1.27,2026-04-09 09:15:45
+3460,c633fe02-00d7-4dab-bef0-75d4408591f1,BONPREU Pa de motlle familiar,1.18,1.15,2026-04-09 09:15:45
+3461,9c5f8eff-e96d-4b69-86bc-d885360d0189,BIMBO Bagels Llavors,2.69,2.59,2026-04-09 09:15:47
+3462,a5afa70b-a55a-4acd-ba64-308ee95bd067,BONPREU Mini magdalenes amb trossets de xocolata,1.99,1.89,2026-04-09 09:15:47
+3463,38521052-d0b6-4957-b624-00f5013c3889,BONPREU Coquetes de blat de moro amb xocolata negra,1.8,1.89,2026-04-09 09:15:48
+3464,fe92525f-be4b-4533-ae12-013b6c8ae36f,BONPREU Magdalenes originals,2.19,2.29,2026-04-09 09:15:48
+3465,a633b14a-0a51-4da1-a333-ac18d51fd546,BONPREU Magdalenes sense gluten,2.55,2.65,2026-04-09 09:15:48
+3466,9af12ccf-e227-4384-be70-44947bab309e,DIAT RADISSON Torrades d'arròs i blat de moro sense gluten,2.35,2.39,2026-04-09 09:15:48
+3467,69770080-be42-46af-8d37-257f770c8da5,SCHÄR Brioix dolç sense gluten,3.75,3.79,2026-04-09 09:15:49
+3468,65aea010-1f3a-4864-be20-865d91b9eacd,BIMBO Pa de motlle natural 100% integral sense crosta,2.99,2.85,2026-04-09 09:15:50
+3469,4bd3e09f-2d19-4bb8-a3ea-9eb7c330cd11,BONPREU Baguet sense gluten,1.99,1.95,2026-04-09 09:15:50
+3470,a0ced4f6-036e-4755-b50a-6da8a064d694,BONPREU Coquetes d'arròs integral amb  xocolata  amb llet,1.8,1.75,2026-04-09 09:15:50
+3471,1bf02362-75e9-488d-9826-46cf0c0982b0,BONPREU Croissantets de xocolata,1.19,1.29,2026-04-09 09:15:50
+3472,b653f378-813c-47d0-8d5a-aadee9e1c7f2,ECOCESTA Coquetes d'arròs i fajol ecològiques,1.99,2.15,2026-04-09 09:15:50
+3473,e71318f2-ce84-4c29-85b5-7ad0edb6c665,BONPREU Magdalenes quadrades,1.99,2.25,2026-04-09 09:15:51
+3474,45b19cbc-b084-47c7-a0ec-18bd36ad697f,BONPREU Minibiscotes 100 % integral de blat,1.13,1.14,2026-04-09 09:15:52
+3475,2bdf3ad0-b818-4070-a133-c2e3caadf781,IFA Brioix amb llavors de xocolata,1.58,1.44,2026-04-09 09:15:52
+3476,9233a109-0fde-4063-b482-c538906017d4,IFA Croissants integrals 0% sucres afegits,1.85,1.97,2026-04-09 09:15:52
+3477,ad1d9e73-7eed-4f40-b7e1-01b7d2134128,LA BELLA EASO Croissant,2.25,2.35,2026-04-09 09:15:52
+3478,c4d4da9d-80e7-43b0-926e-086fe1e7fa17,MASTRIGO Pa torrat proteics,2.55,2.49,2026-04-09 09:15:52
+3479,5298566e-c91d-45d6-8dbb-9d6d34153c7d,RECONDO Mini xapata rústica,2.35,2.49,2026-04-09 09:15:54
+3480,5cc17589-0c0c-4d86-aa58-8719ce6fd771,SCHÄR Pastissets sense gluten Pausa Ciok,4.69,4.59,2026-04-09 09:15:54
+3481,684e3113-742f-4806-90ff-e199bd764029,BONPREU Base rodona de Pasta de Full,1.1,1.05,2026-04-09 09:16:00
+3482,8d8fc1b9-f006-4a48-8100-07946eb2abc3,BONPREU Mongetes vermelles cuites extra,1.25,1.2,2026-04-09 09:16:00
+3483,596b65be-26fe-44aa-965b-3cc67008d19a,SCHÄR Gnocchi sense gluten,3.79,3.85,2026-04-09 09:16:03
+3484,cf98dffb-ab55-4d1a-8c2f-1ebe57be0aca,SCHÄR Farina sense gluten,5.49,5.55,2026-04-09 09:16:04
+3485,670a0f78-e368-474f-8f16-2b3ad885fa7e,BONPREU Olives farcides d'anxova,3.15,3.0,2026-04-09 09:16:08
+3486,4fc14d25-2346-4dfd-9eba-85db9b36ec8b,BONPREU Tonyina clara amb oli d'oliva verge,4.99,4.9,2026-04-09 09:16:08
+3487,26d282c2-0f91-4e88-9384-c5453fe0508d,BONPREU Bonítol del nord en oli d'oliva,5.25,4.99,2026-04-09 09:16:10
+3488,8bc56f6b-4538-4b8c-8869-470b2fb46520,BONPREU Olives gaspatxes amb pinyol,2.99,2.5,2026-04-09 09:16:10
+3489,45fed4a0-c37f-4b03-b819-691023b59c17,BONPREU Rodanxes de pinya amb el seu suc,2.69,2.5,2026-04-09 09:16:10
+3490,2a2a6461-e334-4cec-9002-531f964a19b9,BONPREU Tomàquet trossejat,0.79,0.77,2026-04-09 09:16:10
+3491,528e3abd-9821-4658-bee4-94a0496b5bf4,BONPREU Olives amb pinyol adobades amb all,1.95,1.9,2026-04-09 09:16:14
+3492,2acf793d-f469-4cc1-af2b-25b16c53fb72,BONPREU Bledes,1.75,1.8,2026-04-09 09:16:15
+3493,cc330374-4e05-4066-847c-d12791d82922,BONPREU Musclos en escabetx,2.89,2.8,2026-04-09 09:16:16
+3494,c2391c3f-4d0d-4850-8934-1c8928d46e9b,BONPREU Brou de pollastre en pastilles,0.73,0.89,2026-04-09 09:16:25
+3495,ab46324c-9624-48c5-a35b-70ceb986520c,BONPREU Brou de peix i marisc en pastilles,0.79,0.89,2026-04-09 09:16:26
+3496,19af9090-987e-4eea-aba1-128e835e531b,BONPREU Brou sabor de carn en pastilles,0.79,0.89,2026-04-09 09:16:26
+3497,7cc0831f-e829-4aec-bab7-832151a61366,BONPREU Tomàquet fregit,0.95,0.9,2026-04-09 09:16:29
+3498,c8394d2c-2ee8-4e38-b669-91e3afbd3e78,BONPREU Crema Tahina,2.95,2.94,2026-04-09 09:16:30
+3499,38f01d34-2cd4-4e11-9e68-56a729b661e0,BONPREU Maionesa,1.45,1.29,2026-04-09 09:16:30
+3500,93e1362a-be9b-4e88-87a1-4fca50f3a3e4,ROYAL Gasificant en pols,2.39,2.25,2026-04-09 09:16:39
+3501,a42cdee1-a632-4c6d-b9e1-544304b3f0f0,RESPIRAL Caramels d'eucaliptus mentolats,1.99,1.95,2026-04-09 09:16:48
+3502,19edae32-952f-4b83-9942-69b81b1f2cc9,RESPIRAL Caramel de regalèssia mentol,1.99,1.95,2026-04-09 09:16:49
+3503,778ce671-8e5c-46ff-8bde-33b6420189c4,RESPIRAL Caramel llimona mentol refrescant,1.99,1.95,2026-04-09 09:16:49
+3504,2ee0b77e-858f-42ff-b1d5-f6d5f0abd237,ISOSTAR Beguda isotònica de llimona en pols,10.89,10.59,2026-04-09 09:17:02
+3505,d3449a1c-32d2-44eb-8207-410f0aef5084,BIFRUTAS Beguda de llet i fruites Tropical en cartró,2.59,2.52,2026-04-09 09:17:05
+3506,0b03232f-8fec-4266-a388-0fabab796d37,ESTRELLA GALICIA Cerveza especial 10 x 33 cl en llauna,8.65,8.79,2026-04-09 09:17:10
+3507,0fb93f44-f134-447e-acc9-a8d760fe5555,VICTORIA MÁLAGA Cervesa en llauna,0.77,0.75,2026-04-09 09:17:10
+3508,ba6bb135-114d-4128-af0c-dcd2a80104a7,PONY Beguda malta,1.52,1.44,2026-04-09 09:17:13
+3509,794035cf-5225-46ec-94d4-26ded5d5a988,JOHNNIE WALKER Whisky escocès Black Label,28.89,25.95,2026-04-09 09:17:41
+3510,b2b0926c-26e2-4e81-bf13-b94d8dcc3f04,BONPREU Beguda de civada 0% sucres en cartró,0.8,0.75,2026-04-09 09:17:45
+3511,c430305d-2697-4a66-ae15-9287795dc41d,BONPREU Beguda de soja calci i vitamines 6x1L en cartró,4.5,4.14,2026-04-09 09:17:46
+3512,9a995900-1f3f-4c01-afa4-6c84043a5211,BONPREU Beguda de soja en cartró,0.75,0.69,2026-04-09 09:17:46
+3513,4714787c-9a9f-4ee6-b76a-fb624f841b68,BONPREU Filet de lluç arrebossat amb ou,4.95,5.15,2026-04-09 09:17:48
+3514,8bcec18b-e97f-418f-b190-aed076474e66,BONPREU Filets de lluç Argentí sense pell,4.1,4.15,2026-04-09 09:17:48
+3515,e3aec874-9871-42b4-9481-812b28a0bec8,BONPREU Rodanxes de lluç argentí,4.62,4.69,2026-04-09 09:17:48
+3516,c1f6bf1a-435d-476d-8e20-da2b2e1a305d,FERRER Cloïsses blanques del Pacífic,1.89,1.99,2026-04-09 09:17:48
+3517,5b8800de-cbd9-41ef-9ebc-376b74ab2a99,BONPREU Rabas de canana gegant arrebossades,4.11,4.09,2026-04-09 09:17:49
+3518,7dcfaef2-27b5-4fc0-a605-7eff27e29493,BONPREU Samfaina,1.74,1.79,2026-04-09 09:17:52
+3519,f764ef0a-277c-4aeb-894f-9ebd98e54383,BONPREU Faves fines,1.36,1.29,2026-04-09 09:17:53
+3520,6d541bb3-d220-45a0-bd9f-1ccd08524f54,CN Alvocat a daus,3.59,2.95,2026-04-09 09:17:53
+3521,603747bc-9da0-47db-bc02-917a64d75f85,MCCAIN Patates fregides Mediterranean Potatoes,3.95,3.47,2026-04-09 09:17:53
+3522,a69c5ee6-d1a1-4a2d-8e7e-5da296e0c1d1,"BONPREU Saltat d'espàrrecs, alls i gambes",2.99,2.9,2026-04-09 09:17:54
+3523,5f1fd3b0-96b3-4309-8802-eb1e12db42f9,BONPREU Saltat de verdures,1.15,1.16,2026-04-09 09:17:54
+3524,f5ea22e7-37b6-4ee5-8b44-c24d6cd883c1,BONPREU Arròs precuit,1.99,1.89,2026-04-09 09:17:55
+3525,9cbac6ff-6e74-4883-a810-89c739b034ea,BONPREU Canelons d'espinacs 3u.,1.79,1.73,2026-04-09 09:17:55
+3526,5efebcb3-147d-4aae-b95c-6da3e1e6c648,BONPREU Lasanya de carn anb beixamel,2.59,2.12,2026-04-09 09:17:55
+3527,269dc6a7-477b-41e2-a207-3a685407765e,BONPREU Varetes de lluç,3.75,4.78,2026-04-09 09:17:57
+3528,7a2e3116-07fe-4f20-8226-e7bff62923ef,PESCANOVA Filet de lluç arrebossat,4.34,4.35,2026-04-09 09:17:57
+3529,880c9b56-626c-40ee-a28b-fac5481a8380,PESCANOVA Nuggets de lluç,2.79,2.89,2026-04-09 09:17:57
+3530,64bee908-8220-458b-ae98-5dc76ee10259,SCHÄR Tires de pit de pollastre sense gluten,5.85,5.99,2026-04-09 09:17:57
+3531,47e4ab43-2859-461c-a3db-73124699f8d5,BONPREU Barra de gelat sabor de vainilla,1.95,1.9,2026-04-09 09:18:04
+3532,c9fdb1de-c2da-4eea-8040-9c14643db8ed,"BONPREU Gelat amb sabor de vainilla, nata i xocolata",1.95,1.9,2026-04-09 09:18:04
+3533,f763bccb-15e4-4fe7-96a8-7fad299b619b,BONPREU Barra de gelat sabor de nata,1.95,1.9,2026-04-09 09:18:05
+3534,8165ecba-31eb-4684-87c8-ee0da0fa98c5,BONPREU Gelat amb sabor de maduixa i nata,1.95,1.9,2026-04-09 09:18:05
+3535,64dc5a90-6bee-4eb4-8255-1830b12aaf82,BONPREU Gelat amb sabor de vainilla i xocolata,1.95,1.9,2026-04-09 09:18:05
+3536,0ff7199a-9541-4f46-aef6-d7f9637451d4,ARDO Maduixes,2.69,2.25,2026-04-09 09:18:08
+3537,01930566-e3aa-451a-a506-4ec624f737d9,BONPREU Llet semidesnatada 6x1L en cartró,5.28,5.04,2026-04-09 09:18:12
+3538,1948dcfb-fe74-4441-8613-2a63ec353aa3,BONPREU Llet semidesnatada UHT sense lactosa,0.96,0.94,2026-04-09 09:18:12
+3539,0ac61b94-f9d8-4f4d-8f2e-92755f5d75cb,BONPREU Llet semidesnatada en cartró,0.88,0.84,2026-04-09 09:18:12
+3540,9353f60a-95c7-4dea-ae61-50b1baf13c05,BONPREU Llet semidesnatada sense lactosa 6x1L en cartró,5.76,5.64,2026-04-09 09:18:12
+3541,6f57a0e4-c823-458f-9e79-02dc94e91c29,BONPREU Llet sencera 6x1L en cartró,5.82,5.76,2026-04-09 09:18:12
+3542,38fe4e0d-81fe-494c-9d54-3b38ec09e01e,BONPREU Llet sencera en cartró,0.97,0.96,2026-04-09 09:18:12
+3543,3381ee23-6df0-4e2c-bd83-1d4499439725,BONPREU Llet desnatada 6x1L en cartró,5.04,4.92,2026-04-09 09:18:13
+3544,9b180a6e-7ca1-4bd4-9b7c-75b6c5e4623d,BONPREU Llet desnatada en cartró,0.84,0.82,2026-04-09 09:18:13
+3545,3eae7b30-7df2-4596-ac09-c3194e30768f,IFA Llet sencera sense lactosa,1.04,1.03,2026-04-09 09:18:13
+3546,2590d15b-2eec-42f4-a14f-3ca524f28469,GAZA Llet semidesnatada d'ovella en cartró,2.59,2.69,2026-04-09 09:18:15
+3547,98c38dad-edf8-42c1-ae08-fc272e28b6fd,PASCUAL Llet desnatada amb calci en cartró,1.79,1.76,2026-04-09 09:18:16
+3548,67f76e91-3450-47b8-a4d2-20ad3d1cc6df,GAZA Llet semidesnatada d'ovella 6 x1 L en cartró,15.54,16.14,2026-04-09 09:18:17
+3549,c626339f-daf0-4d34-a021-7499bf98c304,PASCUAL CALCI Llet semidesnatada amb calci 6x1L en cartró,10.74,10.56,2026-04-09 09:18:17
+3550,67540fe6-1988-4a9a-97f9-7625f2e95f6c,PASCUAL Llet semidesnatada amb calci en cartró,1.79,1.76,2026-04-09 09:18:17
+3551,5c6c6468-7477-438f-90ea-4333448709f8,PULEVA MAX Beguda làctia sense lactosa en cartró,1.89,1.95,2026-04-09 09:18:17
+3552,c85a217b-19fb-4bcc-949e-b7903761f8ee,PASCUAL CALCI Llet desnatada amb calci 6x1L en cartró,10.74,10.56,2026-04-09 09:18:18
+3553,92a9ae8c-faeb-4e5b-990f-ed4cd8e8a286,PULEVA MAX Llet sense lactosa 6x1L en cartró,11.34,11.7,2026-04-09 09:18:18
+3554,a1d6a6e4-a905-4a0b-9066-8bb1c8160d68,GERVAIS Natilles de vainilla,1.1,1.05,2026-04-09 09:18:23
+3555,dcfad001-c348-4638-869e-3924b96aa572,PERALADA Recuit d'ovella by Jordi Roca,2.49,1.99,2026-04-09 09:18:24
+3556,f6b140b5-4012-445e-984a-690886dbd92e,BONPREU Iogurt grec amb stracciatella,1.49,1.29,2026-04-09 09:18:25
+3557,9e1c989f-c3b4-40ae-b7a5-f983f9d25692,BONPREU Iogurt grec natural,1.25,1.15,2026-04-09 09:18:25
+3558,b18e516d-e43a-427e-a3ff-8ef0e138e9da,DANONE Iogurt natural,1.7,1.99,2026-04-09 09:18:25
+3559,40857452-2a85-4623-adbb-0101bfa45045,BONPREU Iogut natural desnatat,0.79,0.77,2026-04-09 09:18:26
+3560,a6dd0059-4260-416f-9502-42f2ac6fdd72,DANONE Iogurt natural ensucrat,1.7,1.99,2026-04-09 09:18:27
+3561,d52ccaf8-0c82-4420-8aa6-0744b6993f90,MARGUI Iogurt grec natural lleuger,1.5,1.55,2026-04-09 09:18:27
+3562,429ca30c-34a6-4bad-b9f3-3e1020334dd8,ALPRO Producte vegetal a base de soja de mango sense sucre,2.6,2.55,2026-04-09 09:18:28
+3563,9d58a0c6-bfd0-4d90-b3c4-015c1ce4a18c,ALPRO Producte vegetal de soja i maduixa,2.6,2.55,2026-04-09 09:18:28
+3564,d7b83c3a-a15c-47f5-a8e7-9babb58d11ff,ALPRO Producte vegetal de soja natural,2.6,2.55,2026-04-09 09:18:28
+3565,51697f5c-64f5-4608-bd1f-1c37931cf4a9,BONPREU Iogurt amb gust de coco,0.77,0.75,2026-04-09 09:18:28
+3566,39754983-7897-4a1c-a890-5888166b9ed9,BONPREU Iogurt amb gust de llimona,0.77,0.75,2026-04-09 09:18:28
+3567,1e350db8-6862-4e4c-943f-b3360e022361,BONPREU Iogurt líquid de maduixa i plàtan semidesnatat,1.4,1.5,2026-04-09 09:18:28
+3568,91391c5f-2b91-4765-9643-d5d16e04ccef,EL PASTORET Iogurt artesà ecològic de plàtan i galeta,1.09,1.1,2026-04-09 09:18:28
+3569,bccce763-9436-40f3-b03b-1e91891ec362,ALPRO Producte vegetal de soja i fruites del bosc,2.6,2.55,2026-04-09 09:18:29
+3570,91141482-30a3-4a91-86c2-fbffc07e36ca,BONPREU Beguda làctia Lactocol de maduixa 0%,2.55,2.5,2026-04-09 09:18:29
+3571,c28e549b-9e1f-4536-80d6-23d51fdd56ef,BONPREU Iogurt amb gust de macedònia,0.77,0.75,2026-04-09 09:18:29
+3572,78602766-851a-4f6d-9372-7354979a7404,BONPREU Iogurt amb gust de maduixa,0.77,0.75,2026-04-09 09:18:29
+3573,fea179cf-e3db-4408-8f2f-51ac755516f8,BONPREU Iogurt líquid de maduixa semidesnatat,1.4,1.5,2026-04-09 09:18:29
+3574,3a0cacf6-9075-4fb9-b0a8-a91244048348,ALPRO Producte vegetal soja exòtic,2.6,2.55,2026-04-09 09:18:30
+3575,82ccbb99-44b0-49b8-bd66-8bb2c3b2c648,BONPREU Beguda làctia Lactocol natural 0%,2.55,2.5,2026-04-09 09:18:31
+3576,ebe46ce6-1d3e-46b9-a78d-36eaa1488ee2,SANEX Gel de dutxa cura Expert Protector,3.89,3.8,2026-04-09 09:18:35
+3577,aee74de7-d93a-40c4-b69c-3e3550e374f5,BONPREU Mascareta nodreix i repara,1.99,2.39,2026-04-09 09:18:42
+3578,065c1998-99ee-4390-b3b4-7603f5f7adfd,ELVIVE Mascareta Total Repair,4.89,4.4,2026-04-09 09:18:42
+3579,3c0bf04a-127f-4c29-a074-cf8177d5fc25,ELVIVE Mascareta hidra hialurònic,4.89,4.4,2026-04-09 09:18:42
+3580,dfc8af4c-3381-4aed-b8d0-5056166de6bd,BONPREU Laca forta,1.8,1.89,2026-04-09 09:18:43
+3581,b25fd3c1-d6b0-4ad4-a71f-364a940948e7,BONPREU Mascareta hidratació,1.99,2.39,2026-04-09 09:18:44
+3582,3079a90a-99fb-417b-8cce-58eb4712b496,ELVIVE Mascareta Color Vive,4.89,4.4,2026-04-09 09:18:44
+3583,a17bbe6a-5b61-42e4-acc9-1e46aac1ee71,ELVIVE Mascareta Dream Long,4.89,4.4,2026-04-09 09:18:44
+3584,ad1a5b5c-6e78-4238-af56-5f6e9e97bbfe,PANTENE Ampolles rescat 1 minut,4.45,4.35,2026-04-09 09:18:46
+3585,9f5ee6d8-0ea0-41a6-9dd3-178a21d4603a,BONPREU Mascareta fortificant,1.99,2.39,2026-04-09 09:18:47
+3586,8427bd7e-de9e-4700-81b3-eca6123b0bf1,L'ORÉAL PARIS Retoca arrels castany Magic Retouch,6.49,6.1,2026-04-09 09:18:47
+3587,92f43fee-d66a-4f3b-8377-cbc02cab2d45,L'ORÉAL PARIS Retoca arrels color castany fosc Magic Retouch,6.49,6.1,2026-04-09 09:18:47
+3588,959ccb64-da7c-4332-bd66-65ca694f18ea,L'ORÉAL Retoca arrels ros Magic Retouch,6.49,6.1,2026-04-09 09:18:47
+3589,ec93d21d-9d28-4511-b43c-69ed652c35dd,PANTENE Ampolles rescat 1 minut llis,4.45,4.35,2026-04-09 09:18:48
+3590,73028ae1-a62c-4dff-ad81-0efecd1bc939,BONPREU Bastonets higiènics 100% cotó,0.9,0.85,2026-04-09 09:18:54
+3591,dd628968-d9bb-4db8-83a2-6855e28af322,BONPREU Discs desmaquilladors rodons,0.84,0.79,2026-04-09 09:18:54
+3592,acbfa98d-da0f-4774-bc8c-48695df3c3bf,BONPREU Aigua micel·lar,2.99,2.89,2026-04-09 09:18:55
+3593,a50839d2-b9d4-45d6-b604-31cc37f6bf11,L'OREAL MEN EXPERT Crema facial Hydra Energètic,8.95,6.95,2026-04-09 09:18:55
+3594,1cf56a1e-fb2c-4cb1-a8f6-35a650a200f4,BONPREU Elixir bucal protecció antiplaca,1.35,1.29,2026-04-09 09:19:14
+3595,a023e84c-e8d7-459f-9474-90e9f6b82371,BONPREU Elixir bucal protecció contra la càries,1.35,1.29,2026-04-09 09:19:14
+3596,e1d7a770-94fd-49e0-853c-f3334d95fd9d,LISTERINE Elixir bucal amb fluor Cura Total,5.65,5.4,2026-04-09 09:19:14
+3597,3046e4f2-e99c-4b2f-acff-fc479c38de95,ORAL B Dentifrici Protecció Professional,2.95,2.85,2026-04-09 09:19:14
+3598,70415860-5e9e-4dc8-bc7c-2cade523fdab,ORAL B Recanvi per a raspall de dents elèctric,14.95,14.5,2026-04-09 09:19:14
+3599,bdfcd107-6d89-443f-83a7-bd4d25d7c970,LISTERINE Elixir bucal dents i genives,5.65,5.4,2026-04-09 09:19:15
+3600,f309d338-3fb4-4add-b695-433ab6fc20b2,BONPREU Elixir bucal júnior maduixa,1.59,1.4,2026-04-09 09:19:16
+3601,0e2d1bf2-b0cd-4c29-a1c8-6a70ac3f0e40,BONPREU Raspall de dents per a genives sensibles suau,1.59,1.29,2026-04-09 09:19:16
+3602,10b11919-74dc-48df-a2c1-117b00abeb4f,BONPREU Raspall de dents premium mitjà,1.35,1.29,2026-04-09 09:19:16
+3603,7eb9e211-08b1-4a0d-9fe2-4caffcc18b63,BONPREU Raspall de dents premium suau,1.35,1.29,2026-04-09 09:19:16
+3604,7002164b-d681-4d20-964b-49ef4bb65d54,BONPREU Sabó de mans dermo,1.49,1.4,2026-04-09 09:19:20
+3605,835cf0e7-54f2-48f4-83ac-854079c30848,BONPREU Raspall per a ungles,1.95,1.89,2026-04-09 09:19:21
+3606,5f9c733b-28b2-46c2-999d-fa8265d62f86,BONPREU Tallacutícules,2.3,2.1,2026-04-09 09:19:22
+3607,06605c87-5ac8-463f-b7d7-c05ff8d8cb5b,BONPREU Bandes de cera per depilar facials,1.1,0.99,2026-04-09 09:19:28
+3608,4623e750-26fb-49e6-a02e-3cf3ae11d06f,BONPREU Desodorant àloe vera,1.69,1.65,2026-04-09 09:19:28
+3609,0691348c-bf4e-402e-8ec5-7db2634ec1a9,CAREFREE Protector íntim Flexiform,2.05,1.95,2026-04-09 09:19:28
+3610,1b9f3269-6e95-4b81-96b9-9ae55a888bcd,EVAX Compresa súper amb ales Cottonlike,4.2,4.35,2026-04-09 09:19:28
+3611,6599875e-bdb0-4a2d-acb7-1997a7841bb9,BONPREU Bandes de cera per depilar corporals,1.4,1.29,2026-04-09 09:19:29
+3612,c14fc636-400e-48c0-9326-0d9966e132e6,BONPREU Compresa normal sense ales,0.87,0.85,2026-04-09 09:19:29
+3613,0acc4753-9185-4180-b809-ce4c11a63c74,BONPREU Desodorant i esprai corporal Temptació,1.69,1.29,2026-04-09 09:19:29
+3614,f08bd5e8-ae6f-4a86-81da-1745576107fa,BONPREU Maquinetes basculants d'afaitar 3 fulles,2.15,1.95,2026-04-09 09:19:29
+3615,46e65d74-ca21-4b33-820f-0e66de664adb,BONPREU Maquinetes basculants per depilar 3 fulles,2.45,2.15,2026-04-09 09:19:29
+3616,b326a5f4-b832-4732-b349-a9b19ac4d1c9,BONPREU Maquinetes d'afaitar 2 fulles,1.05,1.1,2026-04-09 09:19:29
+3617,e446d4ae-f1f5-4e03-94e3-be31adaf030e,BONPREU Desodorant dermo,1.69,1.65,2026-04-09 09:19:30
+3618,7a8453fe-1bed-4637-9e2f-8d1c5e519801,BONPREU Desodorant i esprai corporal Luxúria,1.69,1.29,2026-04-09 09:19:30
+3619,7acdfe81-e06a-471b-9e22-195293a06458,BONPREU Maquinetes per depilar 2 fulles,1.95,1.4,2026-04-09 09:19:30
+3620,c5708782-d59e-4788-a7ea-8739039ca4b3,SANEX Desodorant Zero % en esprai,2.99,2.9,2026-04-09 09:19:30
+3621,73e1ffcb-bf00-4df2-b6f0-b7b02ba5c64a,BONPREU Desodorant invisible perfum intens,1.69,1.65,2026-04-09 09:19:31
+3622,0e03dbc0-91bf-4e65-a4ed-c13334242c67,BONPREU Desodorant sedós,1.69,1.65,2026-04-09 09:19:31
+3623,44736367-491f-44f4-8229-d150b73f1115,IFA Crema depilatòria per a pells sensibles,2.8,2.65,2026-04-09 09:19:31
+3624,4cbf369d-c3b9-428f-92c4-4908d7ab9555,BONPREU Desodorant invisible perfum floral,1.69,1.65,2026-04-09 09:19:32
+3625,af311953-3961-4197-95a8-d1adae870689,BONPREU Maquinetes d'afaitar,1.95,1.4,2026-04-09 09:19:35
+3626,f7509c64-172d-4219-bdb9-b465a41892a6,VICTORIO & LUCCHINO Aigua de colònia V&L nº17 Flor Sensual per a dona,14.95,14.99,2026-04-09 09:19:42
+3627,fba378ad-648e-4ff8-a5de-ea399bb871da,VICTORIO & LUCCHINO Aigua de colònia nº 13 Naturaleza Salvaje,14.95,14.99,2026-04-09 09:19:43
+3628,2c9d1f8f-5114-4290-8904-bc6eda7aa3a2,BONPREU Lleixiu blanquejant,1.2,1.25,2026-04-09 09:20:04
+3629,ea0a9f70-8870-4999-a5fd-f6befe7e4946,BONPREU Lleixiu dens marí,1.2,1.25,2026-04-09 09:20:05
+3630,1a231167-ef2d-4cd5-ba68-cfb91a073d8d,BONPREU Netejador multiús,1.09,1.2,2026-04-09 09:20:08
+3631,19a5f6d7-bd98-43d4-800f-cd0be6585d7c,BONPREU Netejavidres,1.09,1.2,2026-04-09 09:20:09
+3632,3cbd0f65-5bfc-4e16-8ab1-39f4f1e022c3,BONPREU Netejador terres floral concentrat,1.69,1.6,2026-04-09 09:20:10
+3633,55c39457-01f6-4950-b105-e2bb7e8d88e4,BREF Netejador WC Blue Active Floral,3.85,4.15,2026-04-09 09:20:12
+3634,468eb86d-9039-4407-b245-8bb61fb1e531,BREF Netejador WC Moments Relax Armonía,3.85,4.15,2026-04-09 09:20:12
+3635,010eb7df-fa35-416e-a389-9a6d69b30d52,BREF Netejador WC Moments Relax Serenitat,3.85,4.15,2026-04-09 09:20:12
+3636,f838c16c-267f-4d12-9679-f9187e3faec5,BREF Netejador wc oceà àrtic,3.85,4.15,2026-04-09 09:20:12
+3637,850ae4f5-aff4-490a-a77e-79020366e380,BREF WC Netejador WC Blue Active,3.85,4.15,2026-04-09 09:20:12
+3638,db4aee51-8525-4cd3-ac43-22f253eb4040,BONPREU Raspall bàsic sense pal,1.15,1.39,2026-04-09 09:20:14
+3639,d55c4244-e17f-41da-ad1e-f2c222ba2145,BONPREU Sacs escombraries industrials 100 L,1.89,1.49,2026-04-09 09:20:14
+3640,59cdb6ac-0cf7-44ec-9b78-f4ebc1e4ff18,BONPREU Baieta microfibra multiús,3.99,4.25,2026-04-09 09:20:15
+3641,c075121c-ba91-43ea-a9cd-eb1d3408f505,BONPREU Raspall para cops sense pal,2.29,1.99,2026-04-09 09:20:15
+3642,ae16c885-efe8-4ced-9409-f4c2398ab645,BONPREU Pal llarg universal,0.99,1.19,2026-04-09 09:20:17
+3643,b8b57c7c-0b22-4e34-bf90-c0e168f310a6,BONPREU Pal metàl·lic per baieta,0.89,1.15,2026-04-09 09:20:17
+3644,f9628e78-b90c-42ba-b883-467568f72a9a,BONPREU Ambientador per a armaris aroma roba neta,1.15,0.99,2026-04-09 09:20:19
+3645,07bb161d-6be8-4a0a-bc3d-468ebce66124,BONPREU Ambientador per armaris aroma flor de cotó,1.15,0.99,2026-04-09 09:20:19
+3646,911f5fb6-7207-4e94-bda1-3ff856d3102d,BONPREU Ambientador per a armaris aroma espígol,1.15,0.99,2026-04-09 09:20:20
+3647,19151ec9-c380-4b87-a8b4-0b8439b34c01,BONPREU Ambientador per a armaris aroma fruits vermells,1.15,0.99,2026-04-09 09:20:20
+3648,6d5f2a5b-e880-46cb-bab6-d7888ed9010c,BONPREU Difusor elèctric i recanvi ambientador roba neta,3.75,3.79,2026-04-09 09:20:20
+3649,6011f62c-22ba-41f2-a067-e055612cb4a8,BONPREU Espelmes blanques,1.99,1.85,2026-04-09 09:20:25
+3650,66764d14-01d5-4b98-b0bc-e15d05595fe3,BONPREU Llumins extrallargs,2.69,1.99,2026-04-09 09:21:56
+3651,bbf566b1-038e-43f0-a82d-2525d263941d,BONPREU Insecticida mosques i mosquits,2.25,2.35,2026-04-09 09:22:35
+3652,2137b9c4-9cfe-4bb4-96df-add0d9909306,BONPREU Aliment complet per a gos adult,10.99,10.79,2026-04-09 09:23:04
+3653,54307aa4-287a-4815-aa63-82bff0bfb728,"BONPREU Menjar de salmó, truita de riu i verdures per a gat adult",0.79,0.73,2026-04-09 09:23:11
+3654,9b083483-53bd-495f-bf94-0cdc4b836ade,NIDINA 2 Llet de continuació en pols,17.95,17.2,2026-04-09 09:23:30
+3655,be81ecdf-dde2-4eef-9cf9-aa85d5207588,NATIVA 1 Llet per a lactants en pols,11.95,11.7,2026-04-09 09:23:32
+3656,73155deb-f394-4ce4-8395-16c666a8a440,NIDINA 1 Llet per a lactants en pols,14.9,14.0,2026-04-09 09:23:32
+3657,946fff8f-6ead-4dea-850e-2eda9cca24b0,BONPREU Tovalloletes humides per a nadó pells sensibles,0.9,0.75,2026-04-09 09:23:33
+3658,be2f4d8e-0951-4229-a033-86a525da7dd4,HAPPY BEAR Pitets llisos colors,6.99,9.99,2026-04-09 09:23:35
+3659,e162dfe1-e770-4ed8-9070-70fb1c1b75fe,BONPREU Bolquer calcetes T.6 (16-22 kg),6.39,5.95,2026-04-09 09:23:37
+3660,b0a13113-16af-44ea-9fcc-aa6d87cd216e,BONPREU Bolquer calcetes T.5 (12-18 kg),6.15,5.75,2026-04-09 09:23:38
+3661,407317bf-ff84-4b22-8f85-c448370ab5c6,ALPRO Producte vegetal de coco,2.6,2.55,2026-04-09 09:24:56
+3662,4a93d252-db70-4018-b17d-53bf3c076773,SCHÄR Panets sense gluten,4.05,4.09,2026-04-09 09:25:00
