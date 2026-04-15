@@ -3780,3 +3780,31 @@ id,product_id,name,old_price,new_price,change_date
 3779,52ace6cb-324b-46c6-ac49-4fe050f7b6d5,"DON SIMON ""Tinto de verano"" clàssic en ampolla",1.39,1.49,2026-04-14 09:24:42
 3780,bebce0a5-5e11-455f-b062-995b2dd2f0bc,BELWEYS Crema de licor amb whisky,6.25,5.85,2026-04-14 09:24:47
 3781,8b60d0f1-9317-4b01-91b4-fca559f1d027,BONPREU Alcohol de cremar,3.19,3.5,2026-04-14 09:26:42
+3782,05ab4fa2-999b-424e-8a00-9b02e513f697,Pebrot dolç verd italià 1 u.,0.68,0.59,2026-04-15 09:21:49
+3783,9392b333-2687-49d5-b1e3-c010b373018a,Pruna vermella 1 u.,0.58,0.71,2026-04-15 09:21:51
+3784,972ec5c9-07b2-404e-a9c7-840952ed451e,AZUAGA Espatlla ibèrica d'enceball,7.49,7.79,2026-04-15 09:21:58
+3785,ab4e662b-2ffa-4316-8f51-7a19c8022a01,AZUAGA Espatlla ibèrica de gla,8.99,9.89,2026-04-15 09:22:00
+3786,1d8a94da-48d3-4012-9ac5-5b9f54ba36bf,AZUAGA Pernil ibèric d'enceball llescat,6.99,7.29,2026-04-15 09:22:00
+3787,8680fae6-dfdb-451b-a076-4dc16678c460,Sípia bruta,14.39,13.19,2026-04-15 09:22:26
+3788,cd1dbe3a-c8d0-4045-b08c-e0dbf257c5ec,Salmó superior sencer,37.48,34.98,2026-04-15 09:22:28
+3789,66817176-49d2-426b-b33b-5cc8de801a60,MANOLETE Oli d'oliva,11.59,12.39,2026-04-15 09:22:51
+3790,651e4462-be6a-485a-8cc8-db8db0355007,BONPREU Xocolata extrafina negra 85% cacau,2.25,2.19,2026-04-15 09:23:20
+3791,5dfe84b9-ed11-4894-8969-4c9ed7661e44,GR-171 Vi blanc DO Terra Alta,8.65,7.95,2026-04-15 09:24:52
+3792,339821c1-df04-4010-821e-132c7befc17c,PROA Cava Brut Nature guarda caixa,34.74,31.74,2026-04-15 09:24:56
+3793,378c8d3e-6a96-4214-999d-85f291fcecd2,PROA Cava rosat Brut guarda,5.79,5.29,2026-04-15 09:24:57
+3794,a085b6b9-690d-4335-8381-3d941222d8c9,PROA Cava Brut Nature guarda,5.79,5.29,2026-04-15 09:24:58
+3795,8bd98cef-7d9f-4792-9acc-8a90dc039120,PERELADA CUVÉE Cava Brut Nature guarda,11.25,10.95,2026-04-15 09:24:59
+3796,27b75b2c-c0f4-4e7a-a5a0-6408df336b3a,CARLES ANDREU Cava Brut Nature guarda superior reserva Km0,10.35,10.69,2026-04-15 09:25:00
+3797,62de3df3-bf45-4d54-b0a5-88ee693a63af,BALLANTINE'S Whisky escocès,14.1,13.25,2026-04-15 09:25:01
+3798,2931276a-8927-457b-ae57-e4c82a2192e5,BEEFEATER Ginebra,14.49,13.45,2026-04-15 09:25:01
+3799,1ca34c48-9a94-45ba-a067-be03fb4b599f,LA FAGEDA Iogurt grec natural,2.89,2.99,2026-04-15 09:25:37
+3800,47f5223f-054d-4b8f-8a80-350d6e978c87,LA FAGEDA Iogurt grec natural ensucrat,2.89,2.99,2026-04-15 09:25:37
+3801,165521f5-ba47-48a1-83b6-95704fdfe7b9,LA FAGEDA Iogurt natural desnatat,1.95,1.99,2026-04-15 09:25:37
+3802,d0c98bba-4d08-4e69-8f0d-60f74aa14b86,LA FAGEDA Iogurt grec de maduixa,2.89,2.99,2026-04-15 09:25:38
+3803,c68cdee0-bbaa-4670-9f26-0b1f34050196,LA FAGEDA Iogurt desnatat de llimona,1.95,1.99,2026-04-15 09:25:40
+3804,bef52d46-75fa-47a1-8ab1-7f6cb7df1a65,LA FAGEDA Iogurt desnatat de maduixa,1.95,1.99,2026-04-15 09:25:40
+3805,51912b32-3b51-4692-976b-82fcc0f0ed8c,LA FAGEDA Iogurt grec lleuger natural,2.69,2.79,2026-04-15 09:25:40
+3806,a653503e-ac80-4a2d-abf1-ba6f38664c55,HAPPYBIO Gel de dutxa hidratant de açai i aloe ecològic,4.95,5.89,2026-04-15 09:25:46
+3807,29058eb3-bd4c-4934-be2c-413a0df50d04,HAPPYBIO Xampú i condicionador d'aranja i aloe ecològic,5.95,6.49,2026-04-15 09:25:50
+3808,8f761b53-8dea-47e2-b31c-9ea66a819138,APIVITA Mascareta hidratant,20.5,4.6,2026-04-15 09:25:59
+3809,fd0645eb-dc6c-4b1a-a5d1-4030e10a8f11,HAPPYBIO Loció corporal d'açai i aloe ecològic,6.95,7.49,2026-04-15 09:26:34
