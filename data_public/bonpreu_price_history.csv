@@ -3808,3 +3808,82 @@ id,product_id,name,old_price,new_price,change_date
 3807,29058eb3-bd4c-4934-be2c-413a0df50d04,HAPPYBIO Xampú i condicionador d'aranja i aloe ecològic,5.95,6.49,2026-04-15 09:25:50
 3808,8f761b53-8dea-47e2-b31c-9ea66a819138,APIVITA Mascareta hidratant,20.5,4.6,2026-04-15 09:25:59
 3809,fd0645eb-dc6c-4b1a-a5d1-4030e10a8f11,HAPPYBIO Loció corporal d'açai i aloe ecològic,6.95,7.49,2026-04-15 09:26:34
+3810,79cbc81d-ac9b-4a72-a60c-1e9a2a245cb7,"LA COLLITA Plàtan ""Plátano de Canarias IGP"" ecològic manat 800 g",3.29,3.55,2026-04-16 09:22:04
+3811,777b3c53-efd8-405b-80b0-bae35f59b03a,"LA COLLITA Plàtan ""Plátano de Canarias IGP"" extra 1 u.",0.54,0.59,2026-04-16 09:22:05
+3812,3e255ffb-4f74-4de1-8fc2-d1093ee78840,LA COLLITA Pruna vermella en safata de 600 g,2.99,3.59,2026-04-16 09:22:05
+3813,a0f830ca-fb1e-4cf7-a517-5f7cea6582ea,"LA COLLITA Plàtan ""Plátano de Canarias IGP"" Extra en cinta",2.54,2.8,2026-04-16 09:22:06
+3814,a602983c-9e87-4907-88d1-a96ad519191b,"LA COLLITA Plàtan ""Plátano de Canarias IGP"" ecològic en cinta",2.4,2.53,2026-04-16 09:22:07
+3815,14d1558c-22c4-4a25-913e-8c35c9765eef,Tomàquet de pera 1 u.,0.49,0.54,2026-04-16 09:22:07
+3816,99696e00-0af2-4002-93fc-971bad2ee0ed,Mongeta Perona,1.8,1.5,2026-04-16 09:22:10
+3817,eb7d46f4-d35e-4207-8d44-aca31c9f1e63,BONPREU Costelles de xai,15.49,15.75,2026-04-16 09:22:32
+3818,e93fa36d-394e-4940-95df-5f6cd540c527,BONPREU Cuixa i mitjana de xai,14.49,14.75,2026-04-16 09:22:32
+3819,acf92d34-a546-4a5d-a50f-1f93ad7b0e13,BONPREU Cabrit per arrebossar,17.99,18.25,2026-04-16 09:22:33
+3820,7174ff99-c453-4d65-8351-9fe3952f0348,BONPREU Espatlla de xai,28.99,29.49,2026-04-16 09:22:34
+3821,92e105a3-3cfe-483c-b320-9185b78ef007,BONPREU Xai amb torna 5 o 6 talls,12.99,13.25,2026-04-16 09:22:34
+3822,2ece3e6f-498c-4401-81af-0230e39f2a29,BONPREU Xai del país,22.09,22.52,2026-04-16 09:22:34
+3823,e1271268-e868-4510-8f68-9147159ffdd0,BONPREU Costella i mitjana de xai,24.69,25.02,2026-04-16 09:22:35
+3824,f3d00975-085b-4a93-a6e2-b195183e077b,BONPREU Costelles de xai,14.25,15.66,2026-04-16 09:22:35
+3825,cf75d10f-2932-47d7-8d94-9a0e6df52c0d,BONPREU Cuixa tallada amb os de xai,10.0,10.2,2026-04-16 09:22:35
+3826,cb2d2e58-ffda-43ce-ab1d-52f861a39137,BONPREU Braó de xai,10.0,10.25,2026-04-16 09:22:36
+3827,d659ee5f-b9d8-4224-aa93-7aca8e286d79,BONPREU Mitjana de xai,10.35,10.5,2026-04-16 09:22:36
+3828,3151546e-5188-43c9-82ec-ecd931fe6c1a,BONPREU Cabrit,18.0,18.25,2026-04-16 09:22:37
+3829,6932c6f9-02d7-4a67-821c-b5191dea16e7,BONPREU Cabrit per arrebossar,18.5,18.75,2026-04-16 09:22:37
+3830,8110e685-ae3b-45b0-a09d-686f45fd8656,BONPREU Coll de xai,8.0,8.2,2026-04-16 09:22:37
+3831,acf03f8e-7c76-4861-b82a-c8bf4f1df621,BONPREU Cuixa i mitjana de xai,14.5,14.75,2026-04-16 09:22:37
+3832,24a257e7-6f41-4113-92e6-670fb5e82206,BONPREU Espatlla de cabrit,17.55,17.77,2026-04-16 09:22:37
+3833,f1a456bc-2370-4b33-a5ec-50f2c00f0ba0,BONPREU Espatlla de xai,13.5,13.72,2026-04-16 09:22:37
+3834,cdab9686-61c0-418e-865f-df84d3cd0375,BONPREU Espatlla de xai,28.99,29.49,2026-04-16 09:22:37
+3835,c749f34b-48ae-42cf-b4c6-0966da6adb1d,BONPREU Fetge de cabrit,5.49,5.77,2026-04-16 09:22:37
+3836,255d4f4b-a795-4ad6-ae53-beaadb8fc17b,BONPREU Pit de xai,3.11,3.37,2026-04-16 09:22:37
+3837,baeac763-a587-46f6-9acf-2ae52fcfc7f5,Cua de Lluç (unitat).,19.99,18.99,2026-04-16 09:22:40
+3838,82ab89e8-2d98-4a47-af0d-91e170714279,Gamba rosada del Mediterrani,11.99,12.99,2026-04-16 09:22:40
+3839,0156db62-fc40-4a06-a4e5-f924f78abb2e,EKO Soluble de cereals,3.6,3.5,2026-04-16 09:23:14
+3840,d738d413-7f84-4df5-9038-9d79da0daabd,CHOVI Allioli fresc extra suau,1.35,1.25,2026-04-16 09:24:09
+3841,fd07ffcb-24a7-413e-92c9-b761958c243a,VINYES POBOLEDA Caixa de vi negre DOQ Priorat Km0,77.7,80.7,2026-04-16 09:24:46
+3842,ed1c3cb1-a936-481b-9ee1-98b64a569fea,ROUREDA Caixa 6u. vi rosat Km0 DO Tarragona,26.94,27.9,2026-04-16 09:24:47
+3843,fc918e42-903c-4cc8-8543-f814a59d514e,OLLA NEGRA Vi negre DO Montsant Km0,5.95,6.15,2026-04-16 09:24:49
+3844,8c8e9a7d-a80b-4994-bf57-3b9fe4189a54,VINYES DE POBOLEDA Vi negre DOQ Priorat Km0,12.95,13.45,2026-04-16 09:24:52
+3845,9ff8ad74-37e8-4c7a-bb49-28ca73d297fd,ROUREDA Vi blanc DO Tarragona km0,4.49,4.65,2026-04-16 09:24:53
+3846,eb2636b4-a316-40c1-a512-99afe3b459dd,ROUREDA Vi negre reserva DO Tarragona Km0,5.59,5.99,2026-04-16 09:24:53
+3847,594c4e10-03d2-4c01-92d2-4526853c8631,ROUREDA Vi rosat DO Tarragona Km0,4.49,4.65,2026-04-16 09:24:53
+3848,4c7e0b5e-8bad-4c8c-97f4-6ed70c3721e6,MARAGDA Vi negre DO Empordà Km0,7.19,7.95,2026-04-16 09:24:54
+3849,93525966-ec3d-4734-b71c-618c70b2011f,MARAGDA Vi blanc DO Empordà Km0,7.19,7.95,2026-04-16 09:24:55
+3850,77655748-cf58-4236-8e24-52d67d92e374,ÀNIMA NUA COR VIU Vi blanc ecològic DO Conca de Barberà Km0,7.75,7.99,2026-04-16 09:24:55
+3851,6afb3828-8df7-4fe3-8bd9-19d5d9ed5165,ÀNIMA NUA COR VIU Vi negre ecològic DO Conca de Barberà Km0,7.75,7.99,2026-04-16 09:24:55
+3852,62de3df3-bf45-4d54-b0a5-88ee693a63af,BALLANTINE'S Whisky escocès,13.25,13.49,2026-04-16 09:24:59
+3853,abd06e44-5891-4806-9198-30b8cdf33fa7,SEAGRAM'S Ginebra Extra Dry Gin,16.29,16.65,2026-04-16 09:24:59
+3854,5885d1d7-2752-4b9b-90ee-fc8295cbc6a5,MACALLAN Whisky de malta 12 Double Cask,76.75,77.49,2026-04-16 09:25:01
+3855,c3481f3d-4b69-4b57-846f-dfc3f036d770,MOUSSEL Gel de dutxa,3.79,3.85,2026-04-16 09:25:39
+3856,60912db6-068b-4a87-bbfa-2e43f52faf59,MOUSSEL Gel de dutxa Llima i Menta,3.79,3.85,2026-04-16 09:25:40
+3857,04cb0302-834f-4645-a5f5-0316d8566424,MOUSSEL Gel de dutxa dermo hidratant,3.79,3.85,2026-04-16 09:25:40
+3858,aec58121-46da-43de-8105-9d957ebf1ae4,MOUSSEL Gel de dutxa espígol,3.79,3.85,2026-04-16 09:25:40
+3859,9257e278-22c7-46f9-b042-69c3c9215358,MOUSSEL Gel de bany de viatge,1.45,1.49,2026-04-16 09:25:41
+3860,1ae79a8d-06a5-49f0-8f3f-2d90873e877f,SENSILIS Perles regeneradores nit peptide,55.85,56.95,2026-04-16 09:26:06
+3861,e76913d6-9e26-4448-9896-09ca6c4d4021,LICOR DEL POLO Dentifrici anti-càries amb col·lutori 2en1,2.35,2.39,2026-04-16 09:26:09
+3862,e4580a78-5a17-476e-81d7-f870a529c24f,LICOR DEL POLO Dentifrici en gel 2en1 menta fresca,2.35,2.39,2026-04-16 09:26:09
+3863,8c6c4f4e-bdf5-46d1-bb17-d1f7b85cb9d7,LICOR DEL POLO Dentifrici en gel 2en1 blanquejador,2.35,2.39,2026-04-16 09:26:10
+3864,d71a7ff1-0bb6-490e-a715-ca2be359fa65,VADEMECUM Crema dental protecció complerta eco,3.75,3.85,2026-04-16 09:26:10
+3865,2f2bee2b-e62b-4cb4-a6eb-9c60ffbb79d4,MOUSSEL Sabó de mans,2.95,2.99,2026-04-16 09:26:14
+3866,f2836485-449b-4c94-9ad8-7b1b7f519849,SCOTTEX Paper higiènic Megarotlle 2 capes 18 un.,13.55,11.99,2026-04-16 09:26:37
+3867,50ab3155-3b3d-40bd-b7aa-24b05cd90c13,RAYEN Estenedor per a radiador,7.19,7.49,2026-04-16 09:26:44
+3868,0df43302-215d-4cf4-b609-9dd12984a0a5,RAYEN Funda per a taula de planxar 47x130 cm,16.99,17.49,2026-04-16 09:26:44
+3869,bfdcfb16-811b-40ce-a368-c2779f55b72e,RAYEN Funda per planxar 43X130 cm,10.99,11.49,2026-04-16 09:26:44
+3870,9a151f8f-76fb-42d6-8c0e-5c481e581308,RAYEN Funda roba delicada,8.49,8.99,2026-04-16 09:26:44
+3871,7c26bef4-4449-4932-ac46-30c050badd44,RAYEN Netejador de planxes aroma a llimona,6.79,6.99,2026-04-16 09:26:44
+3872,2f5f19b8-1237-4c58-98e4-c57907317bd9,RAYEN Taula planxar 120x41cm,77.99,79.99,2026-04-16 09:26:44
+3873,1f10a4d6-d759-4ccf-80f5-63efa3290d7a,RAYEN Bossa per a pinces de la roba,7.49,7.79,2026-04-16 09:26:45
+3874,7838e32e-7be2-40b6-a091-4ced7bb86dcd,RAYEN Cistella per a la bugada,23.99,24.99,2026-04-16 09:26:45
+3875,14086cdb-4b02-4f2a-b4df-21c7812a4511,RAYEN Corda elàstica amb pinces,7.99,8.15,2026-04-16 09:26:45
+3876,7e179b15-3808-44a8-ad80-db7d4bd0c040,RAYEN Sac protector renta roba 40x30,2.19,2.29,2026-04-16 09:26:45
+3877,6f75e48c-d97f-4c3c-bca4-f2c52495f41d,RAYEN Filtre per a campana extractora,7.99,8.19,2026-04-16 09:26:48
+3878,c3d07c49-843d-4d64-ac7e-150c0b11e613,RAYEN Eliminador de cal,7.79,7.99,2026-04-16 09:26:50
+3879,fbef23a1-f9ac-4f29-8587-d0444b495b65,RAYEN Estoreta escorreplats,7.49,7.79,2026-04-16 09:26:54
+3880,5915e167-4166-4221-a978-e3ec252adafb,RAYEN Estoreta per a l'aigüera 32cm,6.99,7.49,2026-04-16 09:26:54
+3881,51f28dd3-d8dc-474d-9bd9-8c22e102231e,RAYEN Raspall de cuina,2.79,2.89,2026-04-16 09:26:54
+3882,04175661-ccad-4d8c-abe0-fa8fbed41e76,RAYEN Protector d'estenedor per a la pluja,3.19,3.29,2026-04-16 09:27:08
+3883,8ece32b4-29eb-4b20-8082-8c13edf7e91b,RAYEN Base conservant,7.49,7.79,2026-04-16 09:27:11
+3884,22ecab08-d09c-4b25-89b4-a717c064225b,RAYEN Drap per planxar,5.99,6.19,2026-04-16 09:27:15
+3885,a3dfee63-3d3a-48a9-a47f-4962be084764,RAYEN Set de fundes guarda-roba anti pols i arnes,4.79,4.89,2026-04-16 09:27:15
+3886,f82bbcfd-fdf6-4f41-afcf-ec2c9ec4cdaa,RAYEN Prestatge d'acer apilable,12.99,13.49,2026-04-16 09:27:19
+3887,4b2677cc-087c-47b7-baef-321c89ea344c,RAYEN Funda frontal per a rentadora,12.99,13.49,2026-04-16 09:27:23
+3888,ebfb2e83-76a6-4b34-9703-3164637f599e,KANDOO Paper higiènic humit amb aroma a meló,5.49,5.85,2026-04-16 09:29:18
