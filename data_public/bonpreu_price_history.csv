@@ -4546,3 +4546,64 @@ id,product_id,name,old_price,new_price,change_date
 4545,8f842456-bd3f-4048-a393-90f459d7a716,NENUCO Llet corporal hidratant infantil,3.99,4.25,2026-04-29 10:18:52
 4546,8ce9b6e6-e778-4852-b615-242f960a3006,NENUCO Motxilla de passeig granota,14.95,14.99,2026-04-29 10:18:54
 4547,3b80029a-dd30-43cc-93fc-126ac36973f1,LACER Raspall dental i crema dental,4.95,4.25,2026-04-29 10:19:15
+4548,141121ea-aed2-4426-a9fd-544340e2bdb4,Taronja 1 u.,0.59,0.55,2026-04-30 10:08:52
+4549,0081730f-0c82-4d18-befe-59b1aa8e7c7b,Ceba rosada en malla d'1 kg,1.99,2.49,2026-04-30 10:08:53
+4550,d05fdccc-bc96-4b13-b36a-046947aeea49,LA COLLITA Mandarines en malla de 2 kg,3.99,3.89,2026-04-30 10:08:55
+4551,0cc68ca9-0c9d-4add-9d6e-ee3a0b0965c9,BONPREU Pit d'indiot cuit Bonpreu en talls de 200 grams,2.66,2.6,2026-04-30 10:09:09
+4552,bb87b947-6bc8-4f19-a4ff-34cc3c713a7d,Gamba llistada (mida mitjana),10.0,39.99,2026-04-30 10:09:36
+4553,7f7ad012-5f6c-4052-8638-9bbf52042ef0,BONPREU Oli d'oliva sabor intens,4.35,4.15,2026-04-30 10:10:00
+4554,dd845f39-15cb-4492-a545-ea6f6efb8794,BONPREU Oli d'oliva sabor suau,4.1,3.9,2026-04-30 10:10:00
+4555,dd61a82e-d444-4282-b9b8-c0af81510725,BONPREU Oli d'oliva suau,8.19,7.79,2026-04-30 10:10:00
+4556,5d1b262e-b682-486b-aee7-26b2e79fbed2,BONPREU Oli d'oliva intens,8.69,8.3,2026-04-30 10:10:02
+4557,fb0c1098-1182-4a85-8837-13ad7617bf18,BONPREU Oli d'oliva verge extra ecològic,4.65,4.75,2026-04-30 10:10:02
+4558,6542813e-a9b1-48db-a048-93b0bfb9b05b,L'OR Càpsules de cafè Ristretto,8.15,7.89,2026-04-30 10:10:19
+4559,4626148f-77bf-4028-9a70-25c4efc3abed,BONPREU Cafè molt descafeïnat de torrat natural,2.7,2.65,2026-04-30 10:10:20
+4560,35133cef-f7d0-43e1-9705-05d6ae4271ea,L'OR Càpsules de cafè Colombia Andes,8.15,7.89,2026-04-30 10:10:20
+4561,7d23bcb8-1656-4047-99b3-ca33cbe6f13b,L'OR Càpsules de cafè descafeïnat Ristretto,8.15,7.89,2026-04-30 10:10:20
+4562,55f9226a-7eee-4158-9067-aef3609fcf3c,L'OR Càpsules de cafè Selection Barista,8.15,7.89,2026-04-30 10:10:21
+4563,8ec607e8-492c-4773-b7f7-b7ab8566ca24,L'OR Càpsules de cafè Sontuoso,8.15,7.89,2026-04-30 10:10:21
+4564,d36e905e-a4d4-4986-b898-4f4324398415,BONKA Cafè en gra natural,10.29,10.45,2026-04-30 10:10:22
+4565,b733dd44-d11a-46ed-b1cf-12d0863221a1,BONPREU Càpsules de cafè amb llet,3.55,3.45,2026-04-30 10:10:22
+4566,d34fac5a-bfeb-488b-8258-5d15aa6ec231,L'OR Càpsules de cafè Onyx,8.15,7.89,2026-04-30 10:10:22
+4567,89b30e81-22e9-4733-9ff1-db8d44b31ec5,L'OR Càpsules de cafè Lungo Profondo,8.15,7.89,2026-04-30 10:10:23
+4568,e22e5281-f874-4988-8366-3801c8772669,L'OR Càpsules de cafè Splendente,8.15,7.89,2026-04-30 10:10:25
+4569,558af804-49e4-40de-a01a-7153b4b9619a,LA MASROJANA Olives amb pinyol,1.99,1.49,2026-04-30 10:11:23
+4570,807c02f9-26bb-4ab9-9ea6-abc4abc0a671,TERRA I TAST Gaspatxo,2.99,2.85,2026-04-30 10:11:24
+4571,bab05bd5-ccff-4a48-9a6c-28f9c5c0f981,BEZOYA Aigua mineral natural 8 L,3.75,3.55,2026-04-30 10:11:49
+4572,f7fbacd3-c83d-4546-a29a-b253fe8b9613,LAIMON Refresc de llima-llimona amb menta en llauna,0.85,0.93,2026-04-30 10:11:54
+4573,30344f64-78fe-4d0b-a20b-971207298d22,ESTRELLA GALICIA Cervesa sense gluten en llauna,0.9,0.95,2026-04-30 10:12:05
+4574,2a617928-9d2c-4a5a-892d-d95a9ae65afd,MOLEN BIER Cervesa lager en ampolla,1.05,0.99,2026-04-30 10:12:05
+4575,3b2f7247-b666-4996-a735-8ff772ee7654,ANNA CODORNÍU Cava Brut guarda caixa,59.7,58.5,2026-04-30 10:12:28
+4576,075fda2b-fd81-4fa8-85e1-90be1d140054,ANNA CODORNÍU Cava Brut guarda,9.95,9.75,2026-04-30 10:12:29
+4577,93d18fa9-3e67-4c1f-8c3a-fc9c6bbd0959,JB Whisky escocès,11.95,11.79,2026-04-30 10:12:32
+4578,1b7e6115-26de-454e-9900-1f699dfe77ef,JAGERMEISTER Licor d'herbes,15.25,14.25,2026-04-30 10:12:34
+4579,9cea0490-829f-45c8-91f6-af0287e8e48e,BONPREU Beguda d'ametlles en cartró,1.15,1.1,2026-04-30 10:12:37
+4580,ed24dc24-ccf1-42be-82c8-9f56fd019af8,BONPREU Beguda d'arròs en cartró d'1 litre,1.1,1.05,2026-04-30 10:12:37
+4581,dc5fab3a-7ce4-4909-9b82-ad3ef6e5c878,BONPREU Beguda de soja ecològica en cartró d'1 litre,1.19,1.14,2026-04-30 10:12:37
+4582,3ac938fc-a74e-4626-a24a-5b049172d721,YOSOY Beguda d'arròs i coco en cartró,2.1,2.15,2026-04-30 10:12:37
+4583,8db733ad-95f0-4091-b074-bcfe733d66a4,BONPREU Beguda d'arròs  6x1L en cartró,6.6,6.3,2026-04-30 10:12:38
+4584,2f3fb389-e151-44dd-a17c-5e5ff58d8998,YOSOY Beguda d'arròs i coco 6x1L en cartró,12.6,12.9,2026-04-30 10:12:38
+4585,cfdbdc84-4047-4db1-919e-f2576af3aabd,BONPREU Llet desnatada UHT sense lactosa,0.93,0.91,2026-04-30 10:13:02
+4586,0fbbf7ec-018e-4d03-83cc-1f120580fdca,BONPREU Llet sense lactosa desnatada UHT 6x1L en cartró,5.58,5.46,2026-04-30 10:13:02
+4587,8eae6d3b-326a-4cd8-91f2-8465df8d8c11,BONPREU Beguda d'ametlla 6x1L en cartró,6.9,6.6,2026-04-30 10:13:06
+4588,b82b533d-8602-4fd7-8f53-7e398ca18eb6,IFA Llet condensada sencera,2.59,2.55,2026-04-30 10:13:06
+4589,19c0dc06-5501-45d0-8f29-0ec6ed265c9a,IFA Llet condensada desnatada,2.59,2.55,2026-04-30 10:13:07
+4590,8df3a3b6-5292-418a-bbce-7dd4e1ba3566,PULEVA OMEGA 3 Llet desnatada amb civada en cartró,1.95,1.93,2026-04-30 10:13:07
+4591,120a43d9-dc4e-47b5-b09a-94da074fa44f,ASTURIANA Nata líquida per cuinar,2.85,2.65,2026-04-30 10:13:08
+4592,6a810b23-c66f-4205-be43-d4bf309ad701,ASTURIANA Nata líquida per muntar,2.85,2.65,2026-04-30 10:13:08
+4593,3aa6b33a-ddde-4345-87d9-9ac0f767a00f,ATO Nata líquida UHT per cuinar,3.05,2.99,2026-04-30 10:13:08
+4594,e84606d4-bd70-4d4a-bd19-445e84b37817,ATO Nata líquida UHT per cuinar,1.65,1.49,2026-04-30 10:13:08
+4595,205ac32f-478d-4aba-b329-62a019d3da2c,ASTURIANA Nata líquida per cuinar,4.99,4.89,2026-04-30 10:13:09
+4596,9b14ca83-b205-499c-9835-aa9e7c4b112d,ATO Nata líquida per cuinar,1.75,1.69,2026-04-30 10:13:09
+4597,b18e516d-e43a-427e-a3ff-8ef0e138e9da,DANONE Iogurt natural,1.99,1.7,2026-04-30 10:13:15
+4598,a6dd0059-4260-416f-9502-42f2ac6fdd72,DANONE Iogurt natural ensucrat,1.99,1.7,2026-04-30 10:13:18
+4599,93410ba3-2e9e-491e-af53-0df10cd3399c,BONPREU Ous frescos de guatlla,1.25,1.19,2026-04-30 10:13:23
+4600,b24d5f9c-14b7-477b-8dd3-259aecee724d,NATURVITAL Xampú Arbre del te Happy Kids,3.75,3.99,2026-04-30 10:13:35
+4601,28ef4b42-3915-453d-94d6-209156f3dc69,BATISTE Xampú en sec volum immediat,3.85,3.99,2026-04-30 10:13:36
+4602,ea30a50f-986d-461d-8393-28f6111b2dd1,NATURVITAL Xampú anticaiguda cabell gras,4.29,4.89,2026-04-30 10:13:36
+4603,46c6541d-a8c3-4e12-a3e0-9cc55dc46d5e,NATURVITAL Xampú anticaiguda cabell normal,4.29,4.89,2026-04-30 10:13:40
+4604,028af1ff-34c7-4932-95be-618c2bcb1830,NATURVITAL Esprai capil·lar Arbre del te Happy Kids,5.8,6.19,2026-04-30 10:13:42
+4605,ec0e3d7f-9528-4005-b2b5-88148c07ef61,SAPLEX Fundes guarda-roba,2.29,2.49,2026-04-30 10:14:52
+4606,e567ea48-8fad-4e79-aca7-eb46387d4ac0,SAPLEX Tendal salvapluges,2.19,2.39,2026-04-30 10:14:53
+4607,cd69186d-36e4-4054-95d3-8ac4f18f28fb,SAPLEX Bosses Mini Plus Saplex 10 L 15 unitats,1.45,1.65,2026-04-30 10:15:03
+4608,aaac5143-9f47-44a4-aea8-70604453c2f9,SAPLEX Sac escombraries jardí 100 L,4.39,4.85,2026-04-30 10:15:04
