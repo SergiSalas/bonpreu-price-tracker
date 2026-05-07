@@ -5157,3 +5157,52 @@ id,product_id,name,old_price,new_price,change_date
 5156,99c46c7e-a154-40ee-8a07-9c1164ac1c46,EUCERIN Crema de mans Hyaluron elasticity,11.69,9.75,2026-05-06 10:21:02
 5157,eaae5c3f-7e64-41c9-8684-b077b9a6ca37,EUCERIN Oleogel bany,19.59,15.49,2026-05-06 10:21:02
 5158,80bca4e1-75cc-40fa-a8ca-026f207f7a64,Tomàquet tipus banya 1 u.,0.49,0.45,2026-05-06 21:44:09
+5159,123a0ac6-7b1e-49f4-910a-7638c8c61e68,Pebrot dolç verd italià 1 u.,0.69,0.35,2026-05-07 10:23:02
+5160,3853d9e0-17e1-488e-a6f9-a69f2fb171bc,LA COLLITA Bròcoli 1 u.,1.59,1.29,2026-05-07 10:23:03
+5161,f31cc293-7d26-4dad-8754-522399c9ddcd,LA COLLITA Espàrrecs verds prims en manat de 250g,2.45,2.25,2026-05-07 10:23:03
+5162,e33b1376-28db-414d-9de0-2d625abfbae5,LA COLLITA Enciam Iceberg sencer 1 u.,1.09,1.05,2026-05-07 10:23:04
+5163,05ab4fa2-999b-424e-8a00-9b02e513f697,Pebrot dolç verd italià 1 u.,0.59,0.46,2026-05-07 10:23:04
+5164,14d1558c-22c4-4a25-913e-8c35c9765eef,Tomàquet de pera 1 u.,0.49,0.51,2026-05-07 10:23:05
+5165,252cc25d-6fb7-4217-885f-06e45ba343b1,Tomàquet madur 1 u.,0.43,0.4,2026-05-07 10:23:05
+5166,12dbdf0c-da66-4bc0-8cfd-ec54356e6143,Tomàquet banya 1 u.,0.93,0.75,2026-05-07 10:23:07
+5167,a116294a-f87f-4aff-8ae6-40833c1fc405,Síndria Fashion 1 u.,13.99,11.99,2026-05-07 10:23:09
+5168,c37eb4b1-b222-404e-9d3e-7fffcc281362,CASA TARRADELLAS Espetec extra,2.49,2.44,2026-05-07 10:23:11
+5169,22f9494d-0119-4e05-9ecf-6f69ebd3e3ad,Llamàntol blau (unitari),29.99,24.99,2026-05-07 10:23:42
+5170,df8153d6-45ff-4b3c-bbec-d9da82aab395,ARKOPHARMA Complement alimentari Chitosan Extraforte,27.49,28.49,2026-05-07 10:25:23
+5171,f3ccb665-92db-42bb-b92c-31f4b4dc5a48,ARKOPHARMA Complement alimentari carxofa forte Arkofluidos,24.95,23.95,2026-05-07 10:25:23
+5172,fd13a18c-7cd6-44e6-9119-6bda17052530,IFA Nèctar de taronja sense sucre,1.05,0.99,2026-05-07 10:25:40
+5173,92ae9fa6-3b43-4e94-b90d-b5917dbda91e,EL COTO Caixa vi negre DOQ Rioja criança,38.1,39.54,2026-05-07 10:25:47
+5174,b85c103c-6765-4194-9c6e-a429cbe7b9f7,EL COTO Caixa 6u. vi blanc DOQ Rioja,25.5,26.94,2026-05-07 10:25:48
+5175,6249844c-a84a-49e1-aded-4397d63f7ffa,COTO DE IMAZ Caixa 6u. vi negre Rioja reserva,51.9,53.1,2026-05-07 10:25:49
+5176,d8a6bc37-b544-467a-aa6d-6d6944869bdd,BARON DE LEY Caixa vi negre DO Rioja,62.7,64.5,2026-05-07 10:25:51
+5177,93076695-2f62-4d3f-b85c-8e8fefca6346,EL COTO Vi negre DOQ Rioja criança,6.35,6.59,2026-05-07 10:25:52
+5178,67b5281e-621a-4d6c-8eb5-77e06bd1d6be,COTO DE IMAZ Vi negre Rioja reserva,8.65,8.85,2026-05-07 10:25:54
+5179,a66e17a3-dee1-49de-88b5-59c26fc12c18,EL COTO Vi blanc DOQ Rioja,4.25,4.49,2026-05-07 10:25:56
+5180,5c472901-c7b0-4f2b-ba96-5892f2aff8f1,BARON DE LEY Vi negre DO Rioja reserva,10.45,10.75,2026-05-07 10:25:57
+5181,77086da7-c82e-4215-89eb-e76e5afef0f2,BENGALA BAY Ginebra London Dry,6.25,5.89,2026-05-07 10:26:05
+5182,6d541bb3-d220-45a0-bd9f-1ccd08524f54,CN Alvocat a daus,2.95,2.39,2026-05-07 10:26:15
+5183,0ff7199a-9541-4f46-aef6-d7f9637451d4,ARDO Maduixes,2.25,2.69,2026-05-07 10:26:26
+5184,10e658c3-1c7e-4aa3-9eb3-fb1b86c30d9e,VALIRA Grill antiadherent d'alumini fos de 28 cm,51.95,54.95,2026-05-07 10:28:20
+5185,e44a371b-d778-49a9-b63d-64675d0de33c,VALIRA Paella antiadherent d'alumini fos de 20 cm,31.95,33.95,2026-05-07 10:28:26
+5186,6fe79635-f47c-404e-83ea-64f11ef37cc5,VALIRA Paella antiadherent d'alumini fos de 28 cm,45.95,47.95,2026-05-07 10:28:28
+5187,06485694-a7d0-4d15-b3bf-dd06d22c086f,VALIRA Paella Wok antiadherent d'alumini fos de,47.95,49.95,2026-05-07 10:28:29
+5188,b724b883-77a2-4954-b8f7-6663da9c591d,VALIRA Paella antiadherent d'alumini fos de 26 cm,37.95,39.95,2026-05-07 10:28:29
+5189,3414f1fb-9ab3-4798-9741-b71fd2ca022c,VALIRA Crepera antiadherent d'alumini fos de 28 cm,43.95,44.95,2026-05-07 10:28:32
+5190,5051b117-55ec-4bfc-9901-af95e6112718,VALIRA Paella antiadherent d'alumini fos de 18 cm,33.95,34.95,2026-05-07 10:28:32
+5191,140d0873-b024-40b9-85f0-ecce51c69dee,VALIRA Paella antiadherent d'alumini fos de 24 cm,34.95,35.95,2026-05-07 10:28:32
+5192,b2245a88-e374-4cef-91a2-76ca05c24c88,VALIRA Paellera antiadherent d'alumini fos de 30 cm,57.95,59.95,2026-05-07 10:28:32
+5193,f88500ac-3b1a-428e-8f36-b16f44270f8b,VALIRA Paella antiadherent d'alumini fos de 22 cm,35.95,39.95,2026-05-07 10:28:34
+5194,4f209d3c-6b71-4903-9376-2add486b96ef,VALIRA Paella antiadherent d'alumini fos de 28 cm,41.95,43.95,2026-05-07 10:28:34
+5195,bb3abdb2-e628-4f81-8cdd-bddd73aad2f6,ARKOPHARMA Complement alimentari de vitamina C,8.25,8.99,2026-05-07 10:30:50
+5196,2d7b8742-d1f9-4271-8d12-b6699e2c6d1e,ARKOPHARMA Esprai de pròpolis,10.35,11.25,2026-05-07 10:30:50
+5197,c468c412-291f-4dbb-a747-e4784e633c49,ARKOPHARMA Complement alimentàri Arkosueño son forte 8h,13.49,14.39,2026-05-07 10:30:51
+5198,ab8e8f3a-dd6e-400a-b70f-db3ca9320ce2,ARKOPHARMA Gelea reial Arkoreal sense sucre,19.99,20.89,2026-05-07 10:30:51
+5199,9eed3fec-d6af-444b-9ae7-9a89e4819de0,ARKOPHARMA Gelea reial amb gingseng sense sucre Arkorea,21.49,20.89,2026-05-07 10:30:51
+5200,6c1d986e-32d9-402c-9ba6-a643aad93b44,ARKOPHARMA Complement alimentari Ashwagandha,14.95,15.99,2026-05-07 10:30:52
+5201,0b2641af-a380-4461-8a59-37056d5b5a13,ARKOPHARMA Complement alimentari crema greixos Arkofluido,24.95,25.95,2026-05-07 10:30:52
+5202,f76eb0e6-a00b-48a3-aed2-0c9176ea985e,ARKOPHARMA Complement alimentari Arkosterol Plus Complete,24.7,25.95,2026-05-07 10:30:53
+5203,58932b60-3fdb-4411-805f-f4348b6accf1,ARKOPHARMA Complement alimentari col·lagen Total Arkoflex,29.9,33.49,2026-05-07 10:30:53
+5204,46e402cd-97c9-4360-bda2-8fe89b9e6d9b,ARKOPHARMA Caramels Pròpolis de mel i llimona Arkovox,9.95,9.35,2026-05-07 10:31:17
+5205,083da38c-98c9-4304-9497-6a76d802ebbb,ARKOPHARMA Complement alimentari col·lagen Sport Arkoflex,26.5,29.99,2026-05-07 10:31:18
+5206,cca08be9-8542-4f7d-a115-6d86cb91b345,ARKOPHARMA Complement alimentari col·lagen Sport Arkoflex,39.75,44.95,2026-05-07 10:31:19
+5207,f635ca88-1441-45c9-9b21-946277d37007,ARKOPHARMA Complement alimentari col·lagen Total Arkoflex,44.85,49.95,2026-05-07 10:31:19
