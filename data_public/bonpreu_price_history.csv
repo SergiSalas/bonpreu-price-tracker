@@ -5885,3 +5885,43 @@ id,product_id,name,old_price,new_price,change_date
 5884,1e359497-3d74-4553-9cfb-885904a89d2a,HEINEKEN Cervesa holandesa suau 6 x 25 cl en ampolla,3.35,3.1,2026-05-19 21:52:40
 5885,2931276a-8927-457b-ae57-e4c82a2192e5,BEEFEATER Ginebra,14.49,13.45,2026-05-19 21:53:02
 5886,63ae367c-4c23-44e4-af5d-d1dd4e5a2e02,FELIX Menjar en gelatina amb carn per a gat,41.97,13.99,2026-05-19 21:57:36
+5887,2d9c9b56-716a-4a67-a4b4-0ce7bbcb6ed6,LA COLLITA Maduixot en terrina de 500 g,2.39,2.49,2026-05-20 10:56:41
+5888,f31cc293-7d26-4dad-8754-522399c9ddcd,LA COLLITA Espàrrecs verds prims en manat de 250g,2.25,1.99,2026-05-20 10:56:42
+5889,d8192935-02dc-414d-8a4f-3dbcb98d7d50,LA COLLITA Gerds en safata de 125 g,2.59,2.29,2026-05-20 10:56:42
+5890,76f31d46-1148-4eff-b15c-5da11de7b3ff,LA COLLITA Llimona ecològica en malla 500 g,1.99,1.89,2026-05-20 10:56:44
+5891,252cc25d-6fb7-4217-885f-06e45ba343b1,Tomàquet madur 1 u.,0.37,0.31,2026-05-20 10:56:44
+5892,14d1558c-22c4-4a25-913e-8c35c9765eef,Tomàquet de pera 1 u.,0.47,0.41,2026-05-20 10:56:45
+5893,fdb1cbea-a8cd-46c4-bfdb-95eec80e693e,Tomàquet branca,1.26,1.03,2026-05-20 10:56:48
+5894,cad8a847-0f82-40d1-8fc9-7cba2ccf9c7b,Cueta de rap (ració),11.05,25.99,2026-05-20 10:57:24
+5895,bda196fe-8cdb-4aa3-ae5e-05ef2a8ac5d8,Seitó (costa),1.4,1.2,2026-05-20 10:57:26
+5896,82ab89e8-2d98-4a47-af0d-91e170714279,Gamba rosada del Mediterrani,13.99,11.99,2026-05-20 10:57:27
+5897,38ea8a22-06be-4f9e-8deb-3faa5d136f28,BONPREU Llenties pardines,1.05,0.99,2026-05-20 10:58:53
+5898,1a6d247a-5627-47c8-b345-c4ab85a0d3e5,RANA Raviolis de prosciutto di parma i burrata,4.39,3.59,2026-05-20 10:58:56
+5899,f0788e8f-7cd1-4717-bc05-3fcecd4fa4bc,BONPREU Cigrons,2.19,2.15,2026-05-20 10:58:58
+5900,fd565dcf-7ed3-4b47-b598-d2c9e1686bdc,RANA Tortellini farcits de formatge La vaca que rie,2.95,2.69,2026-05-20 10:58:58
+5901,23a7dbaa-9d03-47e0-9d9e-6404eb52c83d,KIKKOMAN Salsa de soja,4.79,4.89,2026-05-20 10:59:24
+5902,e90cc560-dd4c-4a49-a506-33840cfa95c9,PRIMA Mostassa Original,1.79,1.89,2026-05-20 10:59:25
+5903,a8b30228-2a98-4d5b-877c-574eea7839d0,SAN PELLEGRINO Aigua amb gas mineral  natural 6x1 L,5.56,8.34,2026-05-20 10:59:46
+5904,1e359497-3d74-4553-9cfb-885904a89d2a,HEINEKEN Cervesa holandesa suau 6 x 25 cl en ampolla,3.1,3.35,2026-05-20 11:00:00
+5905,e8ea7296-2953-48c4-a409-8f4e68a638d4,BALLANTINE'S Whisky,18.79,19.89,2026-05-20 11:00:30
+5906,0023cf1c-bcb0-43b7-8c13-5b2f7ef93555,ESSENTIAL Cua de rap,6.95,7.45,2026-05-20 11:00:39
+5907,4acd43b6-2560-490d-a0b6-df4502994319,EXKIMO Salmó sense pell,6.35,6.15,2026-05-20 11:00:39
+5908,6a8e5729-0be9-41ab-b417-984fd7d96cc2,BONPREU Llagostí blanc cuit i pelat,3.99,4.09,2026-05-20 11:00:40
+5909,e3214aa0-72fe-47b8-950b-fa4597799541,BONPREU Llenguado sencer,9.25,9.99,2026-05-20 11:00:40
+5910,54090f0f-f58b-41b8-a6d9-3b6ac36eee10,BONPREU Rodanxes de lluç del Cap,4.91,4.95,2026-05-20 11:00:40
+5911,c3ebcf66-2b77-4e6d-9002-44b155dbb803,BONPREU Supremes de salmó de Noruega sense pell,9.49,9.19,2026-05-20 11:00:40
+5912,e3295d68-bfe0-44dd-a7d7-debea308d171,FERRER Lloms de bacallà,8.39,9.99,2026-05-20 11:00:40
+5913,1a1471e0-1970-4050-9213-cd69422ec270,FERRER Lloms de lluç del Cap,4.95,5.59,2026-05-20 11:00:40
+5914,b8cb46d6-6ccd-4bb7-b20d-e6421035c147,IFA Filets de bacallà al punt de sal,6.59,6.99,2026-05-20 11:00:40
+5915,78b7294d-1e0a-474a-9782-645a35b33e34,FERRER Bacallà d'Islàndia per esqueixada,8.17,8.99,2026-05-20 11:00:41
+5916,ff79c90f-6798-44fb-ad02-439310311a1a,FERRER Anelles de calamar a la romana,6.29,6.99,2026-05-20 11:00:47
+5917,b89f5690-06a5-4c37-9bff-3d26cacb82ad,GILLETTE Maquineta d'afaitar 3 fulles 1 rec. Mach3,9.85,8.95,2026-05-20 11:02:27
+5918,9600b8c3-035f-4ecd-b49f-61603753615d,KETER Test apilable blanc i verd Ivy,10.95,9.95,2026-05-20 11:05:33
+5919,7ab53133-2c20-4448-8bc8-ca4f7be2fc42,CEGASA Pila AAA LR03.15V,2.49,3.95,2026-05-20 11:06:04
+5920,8f35dd64-4f5c-4c35-b198-1ba8ad275ed1,"CEGASA Pila LR06.1,5V AA",2.49,3.95,2026-05-20 11:06:04
+5921,f59221ab-4f9b-4575-a710-ce085d03b2e2,TALQUISTINA Crema,16.19,13.49,2026-05-20 11:06:52
+5922,33af5ac2-b399-4944-a090-7e4c89c84552,"BLEVIT Infusió til·la, melissa y camamilla",10.59,9.49,2026-05-20 11:07:06
+5923,d2c5354a-9a69-4c85-aebf-abe4f5ed880f,ISDIN Pomada per bolquers,15.45,13.49,2026-05-20 11:07:07
+5924,2bb8ee92-608d-41c0-8ec6-968c1c4e088d,MUSTELA Llet corporal hidratant per nadó,14.45,13.59,2026-05-20 11:07:07
+5925,21ba3fb7-bc59-4bef-8d4b-beb24415f3f0,SEBAMED Gel bany escuma bebé,13.45,11.95,2026-05-20 11:07:09
+5926,74326ce6-8d6b-452f-acef-187efee4ebcc,TALQUISTINA Crema irritacions,11.59,9.99,2026-05-20 11:07:30
