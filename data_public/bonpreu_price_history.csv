@@ -6804,3 +6804,108 @@ id,product_id,name,old_price,new_price,change_date
 6803,b2988bbb-40aa-491b-b03b-5e917f17774d,BONPREU Tovallons de paper color 33x33 cm,1.35,1.45,2026-06-10 11:47:55
 6804,662bfbfb-edfa-4e2a-8e3d-da6f675145f4,BONPREU Tovallons de paper color 33x33 cm,1.35,1.45,2026-06-10 11:47:55
 6805,90dea777-d3f5-4aec-9e38-f589a598f6aa,Tomàquet cor de bou 1 u.,1.05,1.09,2026-06-10 22:27:59
+6806,eb93987a-11b2-4295-8af9-c7c52628bb2d,Nectarina  1 u.,0.79,0.74,2026-06-11 12:12:20
+6807,56813b28-afcb-40d1-953c-e63f0d2e568d,Papaia gegant 1 u.,6.66,6.04,2026-06-11 12:12:27
+6808,9392b333-2687-49d5-b1e3-c010b373018a,Pruna vermella 1 u.,0.71,0.54,2026-06-11 12:12:27
+6809,1801dea8-0ce5-4943-a433-f16ce0da0749,AZUAGA Espatlla d'enceball 50% Ibèrica,95.79,89.0,2026-06-11 12:12:39
+6810,90b6cb3f-cd6d-4c91-a7fc-30909a06ead7,BONPREU Alons de pollastre,2.69,2.75,2026-06-11 12:12:54
+6811,ef7584e3-f3f8-45b4-8fe6-c59b41c520e1,BONPREU Carn magra,3.99,4.15,2026-06-11 12:12:54
+6812,643dc4b4-a34e-445b-a742-dff2631ad29c,BONPREU Cuixes de pollastre per a la brasa,2.99,3.15,2026-06-11 12:12:54
+6813,7201a851-9f72-45e3-ab11-a233c20fe8a2,BONPREU Cuixetes de pollastre,2.89,2.99,2026-06-11 12:12:54
+6814,fee676f2-9a6c-4586-8b56-8ed2497cfe32,BONPREU DE L'ERA Bistec 1ªA de vedella,6.65,6.85,2026-06-11 12:12:54
+6815,28df0c23-b0a4-4e09-87cd-0f1190933a24,BONPREU DE L'ERA Medalló de vedella ecològica,5.75,5.99,2026-06-11 12:12:54
+6816,39b5cae2-9465-4e82-a8ca-4d8995bcb7bb,BONPREU Filet de porc,4.25,4.35,2026-06-11 12:12:54
+6817,c4b2fdd6-6dd2-4718-a2e8-ebb18ffbbce6,BONPREU Llom de porc extra fi,2.99,3.15,2026-06-11 12:12:54
+6818,c6cc9998-f41e-4b4e-9c76-ac6882bca813,BONPREU Llom porc,4.49,4.75,2026-06-11 12:12:54
+6819,75867605-5d97-481c-b65d-0e7756c2e2fe,BONPREU Pit de pollastre arrebossat,3.99,4.15,2026-06-11 12:12:54
+6820,dcebd9e5-2e6c-40d9-bd07-e7502243ba89,BONPREU Quarts de cuixa de pollastre,4.39,4.49,2026-06-11 12:12:54
+6821,8e55b85b-7761-4c38-a1a5-56d5d9fde05d,BONPREU Xurrasco de vedella ecològica,3.49,3.65,2026-06-11 12:12:54
+6822,254e8be2-c4f2-4abb-b86a-26aa50c125be,BONPREU Ales de pollastre partides,3.5,3.6,2026-06-11 12:12:55
+6823,0529720e-0722-4369-a8c9-4428ce08dcb4,BONPREU Blanqueta de pollastre,2.99,3.15,2026-06-11 12:12:55
+6824,3b190cd3-1235-4d7a-83d6-ba770fd0e6f4,BONPREU Cuixetes de pollastre,5.29,5.45,2026-06-11 12:12:55
+6825,ab05321e-a7af-4c9d-9e43-adfc7a8a608d,BONPREU DE L'ERA Entrecot de vedella madurat,9.99,10.25,2026-06-11 12:12:55
+6826,311da5c2-62de-4364-b39c-00c06806421f,BONPREU DE L'ERA Estofat de vedella,6.49,6.65,2026-06-11 12:12:55
+6827,348df55f-f864-430a-b116-8150d48e9c6d,BONPREU DE L'ERA Fricandó de vedella,6.25,6.3,2026-06-11 12:12:55
+6828,82f88877-0749-49dc-963b-fc67f469f182,BONPREU DE L'ERA Pit de pollastre filetejat ecològic,7.49,7.75,2026-06-11 12:12:55
+6829,97fdff8c-cfdc-4b78-b246-89c7541d3ef8,BONPREU Lloms de conill,4.95,5.2,2026-06-11 12:12:55
+6830,3255f507-82b5-4592-a523-80a75c745e94,BONPREU Llonzes porc,3.69,3.85,2026-06-11 12:12:55
+6831,b30b4f14-94b6-475e-95ca-bf333ee618c6,BONPREU Pit d'indiot filetejat extra fi,5.29,5.39,2026-06-11 12:12:55
+6832,2694ac28-1e32-498e-86d1-5737e1a36bda,BONPREU Pit de pollastre al buit,7.99,8.25,2026-06-11 12:12:55
+6833,0205d0f4-513d-4a6e-b47e-e2ed9be2c8f9,BONPREU Pit de pollastre filetejat,6.29,6.45,2026-06-11 12:12:55
+6834,97647ab7-1f5a-4d6d-8aa7-2e029ca40691,BONPREU Tira de costella de porc,4.69,4.75,2026-06-11 12:12:55
+6835,9d39005a-a207-4bce-b471-e182a7ea6576,BONPREU Conill trossejat,11.99,12.49,2026-06-11 12:12:56
+6836,1251e438-ba3f-46c0-acd5-bf79b95d0adb,BONPREU Peus de porc precuinats,7.25,7.45,2026-06-11 12:12:56
+6837,91a1d61e-e222-48e8-8669-1a91d8b59d83,FINURA DE IBÉRICO Llom de porc ibèric filetejat,12.49,12.75,2026-06-11 12:12:57
+6838,554197e6-57ce-419e-a432-a083881e8c7c,BONPREU Cafè molt mescla,2.55,2.5,2026-06-11 12:13:54
+6839,e1a58aae-e4af-4211-99b4-1143b006899d,BONPREU Cafè molt natural de torrat natural,2.55,2.5,2026-06-11 12:13:54
+6840,b733dd44-d11a-46ed-b1cf-12d0863221a1,BONPREU Càpsules de cafè amb llet,3.45,3.35,2026-06-11 12:13:55
+6841,8a65c553-b8c3-464d-95a1-a061065e1b26,BONPREU Càpsules de cafè descafeïnat,3.45,3.35,2026-06-11 12:13:55
+6842,05543630-4141-43b6-935b-c2aeacad6554,BONPREU Càpsules de tallat,3.45,3.35,2026-06-11 12:13:57
+6843,fa87f0dc-5ca6-4d54-bcca-42ca5ecf3ca0,BONPREU Salsa bolonyesa,1.4,1.45,2026-06-11 12:15:09
+6844,0d50406e-c6e4-4d9b-83fa-a63690dcd11a,BONPREU Salsa pesto,1.99,1.89,2026-06-11 12:15:09
+6845,7cc0831f-e829-4aec-bab7-832151a61366,BONPREU Tomàquet fregit,0.9,0.95,2026-06-11 12:15:09
+6846,93d70f4b-931b-4c58-bac9-230b8726e84d,BONPREU Salsa carbonara,1.55,1.45,2026-06-11 12:15:10
+6847,a4cbe3f9-7736-4052-a3e1-4e85354ab533,BONPREU Salsa de formatge,1.55,1.45,2026-06-11 12:15:10
+6848,b50ed423-f32a-473d-a55a-8b4332cf0a06,BONPREU Mostassa a l'estil americà,1.39,1.25,2026-06-11 12:15:11
+6849,8483f101-5758-49e6-a58f-1e8300d1f8c1,BONPREU Salsa bolonyesa,1.55,1.45,2026-06-11 12:15:11
+6850,466e91a7-3b95-47f8-850e-9b12f4e90f3a,IFA Salsa còctel,1.25,1.15,2026-06-11 12:15:12
+6851,0ec3104b-abbe-4c35-ace0-97b52c5fdd65,SCHWEPPES Refresc tònica en ampolla,2.05,1.99,2026-06-11 12:15:36
+6852,115b31a5-bc36-481e-8661-e3baf265799f,SCHWEPPES Refresc tònica Zero en ampolla,2.05,1.99,2026-06-11 12:15:37
+6853,7abf9851-5aa0-441e-8658-44b528382c74,SCHWEPPES Refresc Ginger Ale en ampolla,2.05,1.99,2026-06-11 12:15:39
+6854,f65ceabf-d27d-4043-864b-1040d68d0f56,SCHWEPPES Refresc tònica Pink Zero en ampolla,2.05,1.99,2026-06-11 12:15:39
+6855,b18e516d-e43a-427e-a3ff-8ef0e138e9da,DANONE Iogurt natural,1.99,1.7,2026-06-11 12:17:00
+6856,a6dd0059-4260-416f-9502-42f2ac6fdd72,DANONE Iogurt natural ensucrat,1.99,1.7,2026-06-11 12:17:02
+6857,9beddce6-f9cb-4947-8638-896a6be417c1,MAYBELLINE Base de maquillatge to 115 cobertura mat Fit Me,7.0,7.59,2026-06-11 12:17:37
+6858,58b89b19-92dd-423a-a4e9-664985cb3446,MAYBELLINE Base de maquillatge to 128 cobertura mat Fit Me,7.0,7.59,2026-06-11 12:17:37
+6859,03c382f1-a162-492f-ae88-16ee3f4b6e7d,MAYBELLINE Base de maquillatge to 120 cobertura mat Fit Me,7.0,7.59,2026-06-11 12:17:39
+6860,f41f32af-7687-49dd-be5b-510ef25b9ad3,MAYBELLINE Base de maquillatge to 118 cobertura mat Fit Me,7.0,7.59,2026-06-11 12:17:41
+6861,0d0871d4-c2cf-4681-9bc9-7e9734d2fbec,MAYBELLINE Pintallavis líquid to 15 Super Stay Matte Ink,8.95,9.55,2026-06-11 12:17:41
+6862,37d93261-e4db-4717-8837-b97c7e81d56e,MAYBELLINE Pintallavis líquid to 50 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:41
+6863,deb0f7e2-4ed7-424e-8124-f7a225c28a61,MAYBELLINE Pintallavis líquid to 35 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:42
+6864,4347c4ff-870d-4c23-b5c1-dbbea86ceddd,MAYBELLINE Base de maquillatge to 130 cobertura mat Fit Me,7.0,7.59,2026-06-11 12:17:43
+6865,59f33b4d-9c1f-4e7b-a96b-3553c668fb92,MAYBELLINE Base de maquillatge to 250 cobertura mat Fit Me,7.0,7.59,2026-06-11 12:17:43
+6866,def62908-9c40-4bc9-8465-0afc59f5ec8e,MAYBELLINE Pintallavis líquid to 110 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:43
+6867,caf2a779-5b78-4661-ad76-74e2e89e469d,MAYBELLINE Pintallavis líquid to 50 Super Stay Matte Ink,8.95,9.55,2026-06-11 12:17:43
+6868,eab067cc-b82c-4f14-ad03-56d7917b9589,MAYBELLINE Pintallavis líquid to 65 Super Stay Matte Ink,8.95,9.55,2026-06-11 12:17:43
+6869,0e9e1b8e-0994-4e53-8f48-71b2165076c1,MAYBELLINE Pintallavis líquid to 100 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:45
+6870,646ce2ab-1ce6-431c-8e1e-289c6c03cb21,MAYBELLINE Pintallavis líquid to 20 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:45
+6871,24f936c7-b2a6-445f-b782-b9c89cd06955,MAYBELLINE Pintallavis líquid to 55 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:45
+6872,24ff5272-a3d5-40a8-b907-a567bd69ff36,MAYBELLINE Pintallavis líquid to 70 Super Stay Matte Ink,8.95,9.55,2026-06-11 12:17:45
+6873,5441f393-4521-4399-b421-a0b39d67cc89,MAYBELLINE Base de maquillatge to 110 cobertura mat Fit Me,7.0,7.59,2026-06-11 12:17:46
+6874,170a4b45-ed27-4691-a453-ce7889eff02e,MAYBELLINE Pintallavis líquid to 10 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:46
+6875,1d8f09f6-4f90-4602-b70b-bc9b707eed2d,MAYBELLINE Pintallavis líquid to 105 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:46
+6876,ebc39105-5c2c-4e0c-b1d2-c01b2b219697,MAYBELLINE Pintallavis líquid to 80 Super Stay Matte Ink,8.95,9.55,2026-06-11 12:17:46
+6877,15a46011-ee0a-447e-8058-1b21f7e87866,MAYBELLINE Pintallavis líquid to 15 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:47
+6878,ce321624-fb77-4535-922a-a65efc6f869d,MAYBELLINE Base de maquillatge to 220 cobertura mat Fit Me,7.0,7.59,2026-06-11 12:17:48
+6879,e23949b4-a6e6-42a5-837d-992a06061875,MAYBELLINE Pintallavis líquid to 35 Super Stay Matte Ink,8.95,9.55,2026-06-11 12:17:48
+6880,06ace538-540f-424a-9247-21b07031db65,MAYBELLINE Pintallavis líquid to 60 Super Stay Matte Ink,8.95,9.55,2026-06-11 12:17:48
+6881,1eced8e6-e235-4022-a2f3-96cca70c75b1,MAYBELLINE Pintallavis líquid to 125 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:50
+6882,02ec4308-aad3-4060-8075-f047a4ba72ac,MAYBELLINE Pintallavis líquid to 130 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:50
+6883,d0d87543-9f43-4c4b-9c80-f016f1fef169,MAYBELLINE Pintallavis líquid to 25 Super Stay Vinyl Ink,12.95,11.25,2026-06-11 12:17:50
+6884,155c92b4-df66-42a3-9799-61ee06c99021,MAYBELLINE Pintallavis s.matte ink 325,8.95,9.55,2026-06-11 12:17:50
+6885,21098d34-fc91-4768-a6bc-0aef354e0aa8,MAYBELLINE Pintallavis líquid to 20 Super Stay Matte Ink,8.95,9.55,2026-06-11 12:17:51
+6886,7605e8a8-26ca-46ae-9671-40120dc9e920,BONPREU Gel d'higiene íntima,1.25,1.29,2026-06-11 12:18:10
+6887,9ad2ba80-8723-451b-8f49-14c0dac95f79,BONPREU Baieta de pal microfibra,2.7,2.8,2026-06-11 12:18:47
+6888,68b1306d-85ff-4070-8128-c81a06cf044f,TATAY Penjador mànega 25m,3.45,3.75,2026-06-11 12:21:04
+6889,8ef18c9c-014c-4111-a16d-0c9ddf5f9ce9,TATAY Pistola universal amb 7 posicions per a mànega,9.95,10.25,2026-06-11 12:21:08
+6890,b9cac90b-1a41-467f-b50c-4359320168e4,"TATAY Mànega per a regar extensible 7,5m",17.95,18.95,2026-06-11 12:21:09
+6891,d4e97438-e806-4881-9be2-524e559cab0c,TATAY Racor aixeta 2 vies,9.75,9.95,2026-06-11 12:21:09
+6892,87200c84-7532-422b-86a9-11e36219c184,TATAY Racor d'aixeta femella,1.75,1.85,2026-06-11 12:21:09
+6893,2c949c7b-b502-42bf-a096-9acd0bec2f56,TATAY Aspersor de 3 braços amb base,5.75,5.95,2026-06-11 12:21:10
+6894,f436001b-6aa8-4145-ac34-27596991917a,TATAY Aspersor sectorial,3.25,3.75,2026-06-11 12:21:10
+6895,be6cc16e-3404-4d8a-b8ea-4c5300eeb22b,"TATAY Connector ràpid 3/4"" premium",2.65,2.75,2026-06-11 12:21:10
+6896,dc62e66a-0a1a-4511-b13f-6408ef1c026a,TATAY Kit mànega 15 metres 5/8,24.95,25.95,2026-06-11 12:21:10
+6897,98dc81bb-a8e8-4be1-8d25-d15793bb215a,TATAY Pistola 2 posicions,8.75,8.95,2026-06-11 12:21:12
+6898,7d895960-c4f5-4fb3-9963-1081db30a667,TATAY Pistola 2 posicions,17.75,17.95,2026-06-11 12:21:12
+6899,d437236d-b6f7-4585-a107-98183304c935,TATAY Programador  analògic,28.75,28.95,2026-06-11 12:21:12
+6900,2f242e49-aea6-47cd-9665-e59d4143f1f3,TATAY Mànega amb kit de reg,17.95,18.95,2026-06-11 12:21:14
+6901,145d65da-df2d-4316-a2ff-b73d08a19592,TATAY Pistola 8 posicions,19.25,19.95,2026-06-11 12:21:14
+6902,194d47ad-0228-4768-bbd9-7355620bf328,TATAY Aspersor impuls,6.95,7.45,2026-06-11 12:21:16
+6903,de007754-d6b0-4980-804e-6e4f96281ae5,TATAY Connector ràpid Premium per a mànegues,2.25,2.45,2026-06-11 12:21:16
+6904,3fbd7064-011f-456a-8492-8c8e5c8d2c9a,TATAY Kit mànega espiral 15m,29.75,29.95,2026-06-11 12:21:16
+6905,4202ebc5-d6d1-4db7-86e9-821fd017dd42,TATAY Mànega extensible 15m,24.95,25.95,2026-06-11 12:21:17
+6906,4c7487a6-d2e5-4a37-a0a9-5562baa48aef,"TATAY Reparador mànega 3/4""",2.45,2.55,2026-06-11 12:21:18
+6907,fabbf9ae-354b-4256-9701-4772e25db1ee,TATAY Broquet Premium per mànega,2.95,3.25,2026-06-11 12:21:19
+6908,84755e4d-cfa4-46bc-a62f-a51c5ab2627c,TATAY Kit mànega 25 metres 5/8,34.95,35.95,2026-06-11 12:21:19
+6909,504f8801-6e52-4476-ae39-4ff56392998f,BONPREU Tovalloletes humides aloe vera per a nadó,1.75,1.85,2026-06-11 12:22:27
+6910,b4e2136f-6d07-4a72-9725-1b46c11d2bb3,BONPREU Tovalloletes humides infantils pells sensibles,1.59,1.65,2026-06-11 12:22:27
