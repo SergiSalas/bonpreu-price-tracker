@@ -6947,3 +6947,70 @@ id,product_id,name,old_price,new_price,change_date
 6946,35f7ecb2-d242-464b-8c4f-2ead892c2a8e,BRUGAL Rom anyenc,13.49,15.39,2026-06-14 11:25:42
 6947,19c32ff3-865f-44f6-a436-deb2e3c1308b,JIM BEAM Whisky Bourbon Kentucky Straight,10.49,15.75,2026-06-14 11:25:42
 6948,c8bc9e72-5d41-4a60-85ea-2d4133dbbf94,LA CASTELLANA Anís dolç,7.89,9.35,2026-06-14 11:25:44
+6949,09e17579-46eb-482e-b7bb-6a8514051b68,BONPREU Llenties vermelles ecològiques,2.39,2.89,2026-06-15 13:52:42
+6950,12fe0709-debf-4b16-b35f-5f8896a501b6,FERRER Pebrot escalivat,3.29,3.5,2026-06-15 13:52:52
+6951,150e2756-5c67-4dcf-a674-bb8d6f9e81c1,FERRER Variat de bolets,2.65,2.75,2026-06-15 13:52:53
+6952,3795b86f-0806-4f2d-9797-007a512aad13,BONPREU Rovellons silvestres al natural trossejats,2.99,3.29,2026-06-15 13:52:56
+6953,4000c875-809d-485d-9c6f-b866c7d507c0,BONPREU Bolets variats cultivats,2.49,2.59,2026-06-15 13:52:57
+6954,32577880-3ea7-417b-8cf4-dc215123c8ee,BONPREU Rovellons silvestres al natural sencers,3.29,3.99,2026-06-15 13:53:02
+6955,38f01d34-2cd4-4e11-9e68-56a729b661e0,BONPREU Maionesa,1.29,1.35,2026-06-15 13:53:10
+6956,5031c835-f67b-4478-b5b1-e2aa7ae336dd,EL GAITERO Sidra clàssica,2.69,2.79,2026-06-15 13:54:05
+6957,d5f655b1-7256-4be4-9f12-628c7b93ac98,PESCANOVA Calamar net,6.79,6.99,2026-06-15 13:54:23
+6958,bad9c4d2-8600-4f91-b295-55e849fa534c,PESCANOVA Angurinyes,2.35,2.39,2026-06-15 13:54:25
+6959,dbb13e62-c1da-42b8-85c4-6cdb6ed66b4d,PESCANOVA Cors de lluç del Cap,7.55,7.75,2026-06-15 13:54:25
+6960,65ec02e3-0fcb-4acd-8a1f-81b946d42fd4,PESCANOVA Filets de lluç sense pell,5.89,6.15,2026-06-15 13:54:25
+6961,1f1dc5f2-f0f1-41db-801e-63c04b8595f5,PESCANOVA Gamba vermella pelada,9.69,9.79,2026-06-15 13:54:25
+6962,2e08f225-305b-4f12-b8fd-484bd76f9af9,PESCANOVA Llagostí pelat cru,4.89,4.99,2026-06-15 13:54:25
+6963,970c72c1-c476-413a-ad5b-8e78b955dab0,PESCANOVA Lloms de lluç del Cap,8.29,8.59,2026-06-15 13:54:25
+6964,c2a02992-20ee-4207-95a3-b93531812ce4,PESCANOVA Medallons de salmó,5.19,5.99,2026-06-15 13:54:25
+6965,0b7d99a6-a357-4f7c-b878-4ca488770c9a,PESCANOVA Sípia Faraònica trossejada neta,6.65,6.75,2026-06-15 13:54:25
+6966,0a78a440-f0fe-4116-b943-629774d35184,PESCANOVA Capritxos a la romana,4.69,4.75,2026-06-15 13:54:30
+6967,1f53ae19-0a1b-48b9-ace1-72e113990469,PESCANOVA Anelles a la romana sense gluten,3.69,3.79,2026-06-15 13:54:32
+6968,54126334-9348-4a95-a385-eccb09053606,PESCANOVA Cuixeta de cranc,2.65,2.75,2026-06-15 13:54:32
+6969,880c9b56-626c-40ee-a28b-fac5481a8380,PESCANOVA Nuggets de lluç,2.89,2.99,2026-06-15 13:54:32
+6970,3490a85b-4377-4ef1-8bbf-5e3fa75d97b9,PESCANOVA Varetes de lluç,3.55,3.89,2026-06-15 13:54:32
+6971,697c167b-7ec4-4c28-8ccd-7ad4cf71d3f1,PESCANOVA Varetes de lluç arrebossat,4.29,4.69,2026-06-15 13:54:32
+6972,185dff90-616a-4c7a-a2be-bcdf47f4bad2,DANONE La Copa de nata i xocolata,1.99,2.09,2026-06-15 13:54:54
+6973,c4ad89e8-27c7-4e4f-a3c7-d7c3d0f36ea7,DANONE Quallada,1.49,1.59,2026-06-15 13:54:54
+6974,c629eb18-4804-4171-8ab1-3168c794be4d,DANET Natilles amb Twix,2.49,2.59,2026-06-15 13:54:55
+6975,07ade73a-3e5c-4d4a-b184-5b69cbb5e120,DANONE Flam de formatge,3.89,3.99,2026-06-15 13:54:55
+6976,bd8bac1c-6e12-4900-bbba-6ab14d641181,DANONE Quallada amb sucre,1.49,1.59,2026-06-15 13:54:55
+6977,cea622ec-343a-499a-8858-68a9e356eeb7,YOPRO Postres làcties cremós desnatat natural,3.29,3.49,2026-06-15 13:54:55
+6978,b16c0c00-b7da-4228-a234-b1416db3a2a6,DANET Natilles gust xocolata i festuc Dubai,2.49,2.59,2026-06-15 13:54:56
+6979,72c96edd-2d8b-4f93-8b83-11853dd64893,ACTIVIA Iogurt cremós amb gust de llima i llimona,2.69,2.89,2026-06-15 13:54:59
+6980,b506b832-6dde-47e6-8460-bffbcd91b048,ACTIVIA Iogurt natural,3.89,3.99,2026-06-15 13:54:59
+6981,8e1d4230-720b-44b0-bd49-8516d22890d1,ACTIVIA Iogurt natural 0%,3.89,3.99,2026-06-15 13:54:59
+6982,910e4a02-8f5a-4eb4-9bb2-79993ee3b7ac,ALPRO Producte vegetal de soja amb gustos mixts,2.8,2.99,2026-06-15 13:54:59
+6983,2fa86eb7-89b6-4ba4-b6fb-c96946ef1f57,ALPRO Producte vegetal de soja natural,2.5,2.6,2026-06-15 13:54:59
+6984,c7e7c2dc-dfd0-4484-9720-4bb92fcac54c,ALPRO Producte vegetal soja fruites vermelles,2.8,2.99,2026-06-15 13:54:59
+6985,287c7d8a-c558-493c-9fa4-f7b970ee7c74,DANONE Iogurt grec Stracciatella,1.69,1.79,2026-06-15 13:54:59
+6986,1233b0f6-6808-4db0-b29c-d4a41035731c,DANONINO Iogurt per beure de maduixa,2.59,2.69,2026-06-15 13:54:59
+6987,1f1cc57c-daa4-45d0-a973-c04963e27258,ACTIVIA Iogurt natural desnatat edulcorat amb probiòtics,3.89,3.99,2026-06-15 13:55:00
+6988,d84ceddb-ce88-4e7d-8c8c-1f870c2923a4,ALPRO Producte vegetal de coco amb stracciatella,2.6,2.99,2026-06-15 13:55:00
+6989,eb883db9-c47b-4049-af57-1254a94c9b4b,DANACOL Iogurt per beure de llima i llimona,4.49,4.59,2026-06-15 13:55:00
+6990,47b3acaa-8199-4b8e-a989-3b5af9c58bb0,DANONINO Iogurt maxi de maduixa,2.29,2.39,2026-06-15 13:55:00
+6991,eb8eb146-ceb1-48e9-a9ff-309eb6ab97fe,DANONINO Iogurt maxi de maduixa i plàtan,2.29,2.39,2026-06-15 13:55:00
+6992,deee0eef-374e-44bf-9983-a6ff52319c75,ACTIVIA Iogurt cremós amb gust de maduixa,2.69,2.89,2026-06-15 13:55:01
+6993,69b34924-7fd5-4dd2-93e2-f7d36944cccb,DANONE Iogurt grec amb gust de maduixa,1.69,1.79,2026-06-15 13:55:01
+6994,2e0e4a2a-fdd3-459c-bb2e-dee47bfd8fe3,VITALINEA Iogurt desnatat natural,2.29,2.49,2026-06-15 13:55:01
+6995,3b823dd5-5e35-4941-8080-410c841e40f2,ACTIVIA Iogurt natural 0%,2.69,2.89,2026-06-15 13:55:02
+6996,a03065ff-9758-4524-8abf-858665e614ac,DANACOL Iogurt per beure desnatat de fruits vermells,4.49,4.59,2026-06-15 13:55:02
+6997,4fe28235-46a4-474f-bbd0-51b712569e2e,DANACOL Iogurt per beure natural,4.49,4.59,2026-06-15 13:55:02
+6998,c264f0c6-d7da-47da-acb1-5cff848d5642,DANONE Iogurt grec gust a coco,1.69,1.79,2026-06-15 13:55:02
+6999,8a3f7143-e307-4b38-a9ca-eb2e5fcc8a83,DANONE Iogurt grec gust a llima llimona,1.69,1.79,2026-06-15 13:55:02
+7000,09076ae0-68b9-4c18-aad5-0b3739a68ae7,DANONINO Iogurt per beure de maduixa,2.59,2.69,2026-06-15 13:55:02
+7001,6f469e90-fa94-4375-bebc-d5550491d2fa,DANONE Iogurt grec amb caramel,1.89,1.79,2026-06-15 13:55:03
+7002,99a33b0d-9d6d-41ad-b140-6a31ea9fc21c,DANONE Iogurt grec amb poma i canyella,1.89,1.79,2026-06-15 13:55:03
+7003,1e6c29b9-4d11-42ee-8bee-ea1fafdaff7c,VITALINEA Iogurt amb gust de fruits del bosc 0%,2.29,2.49,2026-06-15 13:55:03
+7004,db449089-4d87-4baf-b079-3682abfce7f7,ACTIVIA Iogurt cremós amb gust de préssec,2.69,2.89,2026-06-15 13:55:04
+7005,1be40450-4b39-4fb1-a660-bbcbc0c02731,ACTIVIA Iogurt cremós amb trossets de xocolata,2.69,2.89,2026-06-15 13:55:04
+7006,7051e444-4007-4a1e-85cc-882732d00e90,DANACOL Iogur per a beure gust a préssec i albercoc,4.49,4.59,2026-06-15 13:55:04
+7007,aa079a83-4c85-47d2-9498-79d3a5e8934b,DANACOL Iogurt per beure de civada,4.49,4.59,2026-06-15 13:55:04
+7008,71b307a4-72c0-45af-9880-4e5f42ba3d21,DANONINO Iogurt per beure de maduixa i plàtan,2.59,2.69,2026-06-15 13:55:04
+7009,c469459d-b2bb-4577-84d9-ba91967d5c7f,MAXI PRODUCTS Tovallons de paper 40x40 cm Blau,2.99,1.49,2026-06-15 13:56:22
+7010,ca4097e3-7040-4a4a-9ef7-8cdb170cd19b,MAXI PRODUCTS Tovallons de paper 40x40 cm Espígol,2.99,1.49,2026-06-15 13:56:22
+7011,e88a2b20-14cb-4e8b-9003-272c2a374d10,MAXI PRODUCTS Tovallons de paper 40x40 cm Groc,2.99,1.49,2026-06-15 13:56:22
+7012,b247ed80-f1a7-47cc-a7a5-059b4e0576c9,MAXI PRODUCTS Tovallons de paper 40x40 cm Rosa,2.99,1.49,2026-06-15 13:56:22
+7013,9db16337-9848-45b7-b86d-9c1696e6581d,MAXI PRODUCTS Tovallons de paper 40x40 cm Vermell,2.99,1.49,2026-06-15 13:56:22
+7014,ef81dc3f-e13a-47ef-bbb7-47b3d30a15c5,Tovallons de paper premium color verd 40 x 40 cm,2.99,1.49,2026-06-15 13:56:22
+7015,50c8771b-4ffc-4246-90d8-f50a03de4736,ORTOLACER Cera d'ortodòncia en barres,5.65,4.49,2026-06-15 14:00:29
