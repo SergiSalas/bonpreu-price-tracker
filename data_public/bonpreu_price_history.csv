@@ -7689,3 +7689,472 @@ id,product_id,name,old_price,new_price,change_date
 7688,e3e88ac8-07e3-40dc-a802-a27340db5bf0,PESCANOVA Filets de bacallà,7.89,9.25,2026-06-27 10:32:47
 7689,0ec4c080-bb60-4696-b4a3-af29da0b0f68,JUST LOADING Barreta energètica de fruits vermells,3.29,3.39,2026-06-29 12:30:11
 7690,722dea77-506e-4c55-8beb-158ed819527a,FERRER Tomàquet doble concentrat,2.29,1.99,2026-06-29 12:30:56
+7691,1ace8755-dcdc-44d8-afb4-ba3d6e11719d,Albercoc  1 u.,0.52,3.49,2026-06-30 11:21:18
+7692,5ec1984a-0570-4d52-9efc-6945a94c57a7,Carbassó km0 1 u.,0.75,1.79,2026-06-30 11:21:18
+7693,a1dc0ffc-c60d-467d-87ab-13bc18661da0,LA COLLITA Alvocat en safata de 450 g,2.99,5.99,2026-06-30 11:21:18
+7694,6362f7c3-5018-4a7f-b3d1-90b142351fac,LA COLLITA Patata per fregir bossa 2 kg,3.59,16.95,2026-06-30 11:21:18
+7695,388054e1-58b5-4cb7-8947-496aa4845a8a,Meló Bollo 1 u.,9.21,2.79,2026-06-30 11:21:18
+7696,99696e00-0af2-4002-93fc-971bad2ee0ed,Mongeta Perona,1.8,5.99,2026-06-30 11:21:18
+7697,eb93987a-11b2-4295-8af9-c7c52628bb2d,Nectarina  1 u.,0.65,3.49,2026-06-30 11:21:18
+7698,9392b333-2687-49d5-b1e3-c010b373018a,Pruna vermella 1 u.,0.54,3.99,2026-06-30 11:21:18
+7699,13a22d11-3a94-482f-b1e9-b5810148dc22,Préssec paraguaià 1 u.,0.42,3.49,2026-06-30 11:21:18
+7700,3f44c6a6-3ab9-4e3b-807f-57095dd901e5,Síndria Fashion 1 u.,10.27,1.69,2026-06-30 11:21:18
+7701,45b16d79-fab3-4bb8-9b43-b53a017f9cad,Síndria taronja 1 u.,10.95,1.99,2026-06-30 11:21:18
+7702,46544092-e49d-4d43-905c-0ea2bb814718,Tomàquet Rosa Km0 1u.,1.33,4.99,2026-06-30 11:21:18
+7703,63f3a57a-f836-46c1-8b64-95a6be73e547,BOLLO Meló tallat,4.94,3.09,2026-06-30 11:21:19
+7704,c6123710-251a-4803-9de2-9dba5bfb9f51,LA COLLITA Tomàquet per sucar pa en capsa de 500 g,2.89,2.99,2026-06-30 11:21:19
+7705,7dae93de-3803-487c-ac06-3feb5dc3a9d4,Alvocat 1 u.,4.99,1.35,2026-06-30 11:21:20
+7706,7dd1518a-55a2-44e0-8f35-a9eace27d55e,Cogombre 1 u.,1.75,0.66,2026-06-30 11:21:20
+7707,c0c733dc-a57e-40eb-9ee5-b576827c1059,Tomàquet rosa 1 u.,3.99,1.07,2026-06-30 11:21:21
+7708,806ccd0e-8395-4cab-b691-b1ed1f1d7ced,LA COLLITA Pinya madurada 1 u.,1.99,3.78,2026-06-30 11:21:24
+7709,4dcaeed5-0e4d-44c3-ab26-e2827dab8e90,Meló Gàl·lia 1 u.,2.99,3.55,2026-06-30 11:21:24
+7710,a4fcf377-dbb3-4107-b0bc-45580b21a526,BONPREU Llonganissa extra de pagès Bonpreu en talls de 150 grams,2.92,19.49,2026-06-30 11:21:25
+7711,fec5ed60-35a0-49fe-a13c-1ff5fc539efd,BONPREU Pernil cuit extra Bonpreu en talls de 200 grams,2.2,10.99,2026-06-30 11:21:25
+7712,52fdf16b-3d42-429b-a205-249f65642fb3,FERRARINI Guanciale a cintes,2.49,2.99,2026-06-30 11:21:25
+7713,c5cc11a9-82e2-455c-a63c-1fc4d900d0b3,LEGADO Espatlla d'enceball ibèrica en maletí,49.95,54.99,2026-06-30 11:21:25
+7714,612e6516-16e5-4629-ad2c-b53a05b65146,ALEJANDRO Xoriço Alejando en talls de 100 grams,2.6,25.95,2026-06-30 11:21:26
+7715,f8a008a4-f928-41b3-99c5-f8558b8e1736,CAMPOFRIO Pernil cuit extra Campofrio en talls de 200 grams,3.0,14.99,2026-06-30 11:21:26
+7716,78a3bb0f-1b43-42c2-a7e9-1257f2396d03,CASA CRUELLS Botifarra negra Casa Cruells en peça de 350 grams,5.2,14.85,2026-06-30 11:21:26
+7717,208d0bb0-2359-4cdc-9708-5957eea6b0cc,SALGOT Somaia Salgot en peça de 200 grams,6.0,29.99,2026-06-30 11:21:26
+7718,5f1e8cc9-82d0-4b1c-ace7-583fb71ea7a5,BONPREU Pernil cuit extra 50%Duroc pètals,4.95,2.45,2026-06-30 11:21:27
+7719,a3023fd7-7107-40dc-bf43-ff0614f3f532,BONPREU Botifarra catalana extra Bonpreu en talls de 150 grams,11.95,1.79,2026-06-30 11:21:31
+7720,9e60dc96-27f7-4d18-a871-540acac2cf06,CARLIT Baiona de la Cerdanya Carlit en talls de 100 grams,19.99,2.0,2026-06-30 11:21:31
+7721,7999fee0-ee95-4f0d-84ce-06753673fa1a,CASA FÍGOLS Llonganissa Casa Fígols en talls de 150 grams,29.85,4.48,2026-06-30 11:21:31
+7722,a69671af-48e3-41ae-a8ad-0af5138a0a38,REVILLA Xoriço tradició extra Revilla en talls de 100 grams,16.99,1.7,2026-06-30 11:21:31
+7723,ef8ac54f-f09f-4cb1-b2c5-bd0a434cbf4b,CAMPOFRIO Salami gegant Campofrío en talls de 150 grams,15.99,2.4,2026-06-30 11:21:32
+7724,700585f0-e411-4d8c-b7c7-d2a32bc59a4f,LA SELVA Xop de porc a la llauna La Selva en talls de 150 grams,11.49,1.72,2026-06-30 11:21:32
+7725,a7729923-5b6e-404c-9af1-7bfd8cc8e7a2,SALGOT Llardons Salgot en paperina de 150 grams,29.85,4.48,2026-06-30 11:21:32
+7726,1f892d21-a1d9-477a-bece-9cf86a68b94b,BONPREU Formatge de cabra rotlle al tall en tros,3.2,15.99,2026-06-30 11:21:35
+7727,ef946e3c-29a7-440b-b189-a9b60543977c,EL PASTOR Formatge de cabra semicurat Delícies al tall en porció,7.92,26.39,2026-06-30 11:21:35
+7728,4b375b00-5394-47f4-952b-2a3d1b69c3f7,EL PASTOR Formatge de vaca i ovella semicurat al tall en porció,3.08,11.19,2026-06-30 11:21:35
+7729,f33d8ab9-f954-4aa6-9019-748461f06afb,EL VENTERO Formatge tendre al tall llescat,3.6,17.99,2026-06-30 11:21:35
+7730,b0f52821-9d75-46c4-9e87-66d81b088a96,ENTREMONT Formatge Brie al tall en porció,3.0,14.99,2026-06-30 11:21:35
+7731,ff97eab3-6371-4636-90c9-82632350939c,OLD AMSTERDAM Formatge de vaca al tall en porció,3.28,21.89,2026-06-30 11:21:35
+7732,7339dc97-afe5-4712-a98d-f220a4383c33,PAZO QUEIXO Formatge tetilla DOP al tall,4.08,13.59,2026-06-30 11:21:35
+7733,1f5c0512-e301-4962-8f57-c419fbd561ef,POK Formatge d'ovella anyenc al tall en porció,6.73,26.9,2026-06-30 11:21:35
+7734,22f09e64-2b25-48d6-be46-cb9a37306c55,PRÉSIDENT Formatge Brie francès al tall,3.4,19.99,2026-06-30 11:21:35
+7735,3f74fc8f-3010-4ac7-bbbc-2550210d9415,PRÉSIDENT Formatge especial pizza,4.95,3.29,2026-06-30 11:21:35
+7736,6a961533-7052-49e5-be2e-fa3af6ae9ac6,RONKARI Formatge d'ovella DOP al tall en porció,4.2,27.99,2026-06-30 11:21:35
+7737,684b4665-0683-4924-bfe3-79d3e64fa106,SOMBRERO DE COPA Formatge maasdam al tall en porció,5.36,13.39,2026-06-30 11:21:35
+7738,33eaac3f-d93f-48dc-87cd-682dce61c91c,EMMI ROSETTES Formatge Tete de Moine,5.29,5.99,2026-06-30 11:21:38
+7739,bf59d09f-07c3-4833-b558-ccba6667f3d7,CADÍ Formatge crema al tall llescat,11.99,2.4,2026-06-30 11:21:39
+7740,583f25ad-678d-474e-bced-a3d004bb77ee,MONTBRÚ Formatge sarró de cabra Km0 al tall en porció,29.95,7.49,2026-06-30 11:21:39
+7741,cb3f4c34-7d82-4b49-bc1d-5f60ba688622,SWITZERLAND Formatge Emmentaler,4.75,5.19,2026-06-30 11:21:39
+7742,6b80d6af-9660-464b-af59-1ef794c6382c,BONPREU Formatge anyenc d'ovella al tall en porció,16.95,4.24,2026-06-30 11:21:40
+7743,d03e244f-d209-48ba-8a04-2375903d6653,BONPREU Formatge curat al tall en porció,12.69,3.81,2026-06-30 11:21:40
+7744,ca205379-5e13-4f07-8dde-b3d8a63a5ec8,BONPREU Formatge de cabra al tall en porció,16.99,3.4,2026-06-30 11:21:40
+7745,a0f85777-5094-4f7f-99da-198bbacd186f,CADÍ Formatge madurat light al tall llescat,12.49,1.87,2026-06-30 11:21:40
+7746,4edd88b5-8005-4aa9-a780-66f828000e46,MAS ROVIRA Formatge de cabra Rústic Km0 al tall en porció,27.79,4.17,2026-06-30 11:21:40
+7747,44499347-3a6d-4eda-b348-dccc95df6aaa,MONTBRÚ Formatge tendre de cabra Lleugeret Km0 al tall porció,28.79,4.32,2026-06-30 11:21:40
+7748,876ae29e-3944-4ea0-8451-381555c5b2cc,SWITZERLAND Formatge tête de moine AOP Suís al tall en flors,33.75,5.1,2026-06-30 11:21:40
+7749,3528fb4f-006d-4fe9-8767-5b378e42ea33,BETARA Formatge d'ovella ecològic Km0 al tall en porció,28.49,5.13,2026-06-30 11:21:41
+7750,67909f62-d124-4577-9ce1-311825ee5cb8,BETARA Formatge semicurat de cabra farcell Km0 al tall en porció,26.05,7.82,2026-06-30 11:21:41
+7751,ea47f024-7420-4d79-a242-737a2f1f31db,BOFFARD Formatge vell d'ovella reserva al tall en porció,26.29,6.57,2026-06-30 11:21:41
+7752,b27cfde7-7f27-4c1f-989d-a2998b597194,CANTOREL Formatge Camembert gegant al tall,14.99,3.75,2026-06-30 11:21:41
+7753,55926cd7-397c-499e-9723-584f28913a3d,CHAMOIS D'OR Formatge Brie al tall,27.85,4.18,2026-06-30 11:21:41
+7754,39d23b43-deb1-4344-aca8-fbceb36536f1,EL PASTOR Formatge d'ovella amb tòfona al tall en porció,28.75,5.75,2026-06-30 11:21:41
+7755,af6bb577-a1f4-4eb6-bbcc-fc8f03f7cbe6,EMMI Formatge gruyère Kaltbach AOP,33.95,6.79,2026-06-30 11:21:41
+7756,bd52c8e1-d3ae-49e0-8832-d1ef4c4b03d4,EMMI Formatge gruyère suís AOP al tall,29.59,6.0,2026-06-30 11:21:41
+7757,5ba5ad48-6bd0-42f5-9e97-8d53300a2358,ERMITA SAN LORENZO Formatge de cabra i vaca al tall llescat,19.95,2.99,2026-06-30 11:21:41
+7758,c386a82a-fab5-4bc4-81e8-ab97b94d3376,GARCIA BAQUERO Formatge de barreja semicurat amb tòfona al tall en porció,21.9,4.38,2026-06-30 11:21:41
+7759,82e45c6a-1523-4190-bbd2-3763708dc242,LA CLEDA Formatge d'ovella semicurat Km0 al tall en porció,29.99,9.9,2026-06-30 11:21:41
+7760,3e0c1932-76ba-4c26-aab7-e2c7994ab74f,MANTEQUERÍAS ARIAS Formatge blau Sant Agur al tall en porció,29.89,4.48,2026-06-30 11:21:41
+7761,326d9165-4cdb-4e2d-a0b0-a34121f42d18,MONTBRÚ Formatge de cabra novell Km0 al tall,26.79,5.36,2026-06-30 11:21:41
+7762,03e1639e-a7ce-4677-9482-fcfb88ce3212,MUNTANYOLA Formatge ecològic curat amb cervesa Km0 al tall en porció,21.95,3.29,2026-06-30 11:21:41
+7763,336c1f02-ee1c-4853-a8c6-5cc7b4686125,SOCIÉTÉ Formatge rocafort DOP al tall,34.25,5.14,2026-06-30 11:21:41
+7764,cb6f633d-8383-40c0-b9ce-257da3f62823,TROS DE SORT Formatge Roi curat Km0,25.95,5.61,2026-06-30 11:21:41
+7765,a8a5874b-0f66-44ce-8dd0-62b99d82e875,TROS DE SORT Formatge de vaca Kuadrat Km0 al tall,20.9,4.52,2026-06-30 11:21:41
+7766,c7fae4fe-b808-4d38-856b-d1c5d233a177,UBACH Formatge curat de cabra 349 Km0 al tall en porció,29.49,6.64,2026-06-30 11:21:41
+7767,f47ff6c0-0389-42d2-bf4b-2c5aad136f3b,UBACH Formatge curat de vaca Pastura Km0 al tall en porció,17.95,4.31,2026-06-30 11:21:41
+7768,834cd65e-7390-471d-b8ff-fb46301676bb,UBACH Mató Km0 al tall,7.65,1.53,2026-06-30 11:21:41
+7769,9be78bad-f6ce-4cf2-9381-65cfe7c8fa2f,BETARA Formatge d'ovella super or Km0 al tall en porció,26.49,4.77,2026-06-30 11:21:42
+7770,091d5bbe-5e98-48fe-9639-c9a3325826a9,CAN PONSA Mató Km0,10.25,2.05,2026-06-30 11:21:42
+7771,33b6da63-18e3-436a-8beb-4eee7c5aec16,COSTA NEGRA Formatge semi curat Km0,9.59,10.39,2026-06-30 11:21:42
+7772,4d446287-5a25-4348-838a-db2c2ae19a4f,COSTA ROIA Formatge semi curat Km0,9.59,10.39,2026-06-30 11:21:42
+7773,4e720fb2-dc3e-4cec-a307-e4f1585d53f0,EL TORRAT Formatge madurat de vaca i cabra ecològic al tall en porció,21.99,5.5,2026-06-30 11:21:42
+7774,bc3f5232-8253-49ce-b590-f6bfe0cb0e68,EMMI Formatge Appenzeller de vaca curat al tall en porció,29.95,6.22,2026-06-30 11:21:42
+7775,fe51f3a5-4c3b-4cd4-bcfc-22a6185833df,ISIGNY STE. MERE Formatge Mimolette al tall en porció,32.99,6.6,2026-06-30 11:21:42
+7776,f5fc6aeb-9fcf-4b71-8ad1-d089320ed70c,LA CABRA FELIZ Formatge de cabra i vaca light al tall porció,20.49,6.15,2026-06-30 11:21:42
+7777,5e05b356-800e-4095-9b04-aaf1f75901ac,MASGRAU Pastís de formatge Km0 al tall en porció,15.95,3.99,2026-06-30 11:21:42
+7778,fa1447af-445d-4862-acb3-0e3157632b73,MONTBRU Formatge curat de cabra Km0 al tall en porció,33.95,8.49,2026-06-30 11:21:42
+7779,756fba62-8c4a-4ae5-ac63-cc9b41270938,MONTBRÚ Formatge fresc de cabra Km0 al tall en porció,17.99,2.7,2026-06-30 11:21:42
+7780,40ac1ef8-817c-4c98-9777-358491ce1fd5,MUNTANYOLA Formatge vell reserva de cabra Km0 Muntanyola en peça variab,36.36,5.45,2026-06-30 11:21:42
+7781,56b5e6a4-73bc-4b4b-8512-e790d7591b27,SERRA DEL TORMO Formatge d'ovella Km0 al tall en porció,25.49,8.92,2026-06-30 11:21:42
+7782,5f223234-d492-4c78-bd3d-616a33c840ee,SERRA DEL TORMO Formatge semi d'ovella Km0 al tall en porció,21.99,7.7,2026-06-30 11:21:42
+7783,d96943a9-9446-4876-bbb4-53b08112f25a,ST. GIL Formatge de cabra Garrotxa Km0 al tall en porció,26.45,5.29,2026-06-30 11:21:42
+7784,f20788f8-a4d1-47bb-b1b6-ae772eee2991,EMMI Formatge Emmental suís al tall en porció,23.49,4.8,2026-06-30 11:21:43
+7785,8625fce4-9c03-4b8e-95c0-bacdd5bb0fc6,LOS MELESES Formatge Los Meleses Km0 al tall,28.55,9.99,2026-06-30 11:21:43
+7786,f13a3178-0a4d-459b-8c39-53a27024fc41,MUNTANYOLA Formatge de cabra Garrotxa  Km0 al tall en porció,26.95,8.09,2026-06-30 11:21:43
+7787,ed9bd687-ed7b-48e9-a5f8-4adb57fdd490,RIO VERO Formatge de cabra Rio Vero Km0 al tall,32.7,11.45,2026-06-30 11:21:43
+7788,9a613a9e-f34f-4ae0-bc81-0051a5355a45,SAN PELEGRÍN Formatge de cabra Km0 al tall,30.7,10.75,2026-06-30 11:21:43
+7789,2ac9095e-a052-4b67-826e-62f5630894ed,SERRAT DEL TRIADOR Formatge curat Km0,25.95,16.83,2026-06-30 11:21:43
+7790,817caf35-0854-4afa-8b4a-c3367c505972,SIERRA DE SEVIL Formatge Sierra de Sevil Km0 al tall,28.55,9.99,2026-06-30 11:21:43
+7791,90d38a62-22fa-4de9-9573-5357c14e6361,TROS DE SORT Formatge Triador Km0,9.29,10.05,2026-06-30 11:21:43
+7792,0ede56cb-8cfc-4b5d-a806-f2d297468ca8,TROS DE SORT Formatge de Tupí Km0,9.19,9.95,2026-06-30 11:21:43
+7793,eb666f17-de18-4888-ab98-235568f1757f,TROS DE SORT Formatge de Tupí Km0,5.75,6.19,2026-06-30 11:21:43
+7794,3346bc5d-e07b-44e0-a919-8acbc66551b0,BONPREU Bistec de vedella arrebossat,4.6,22.99,2026-06-30 11:21:44
+7795,91bc9cb9-ea5b-4af6-8cad-7ebf8f816dc2,BONPREU Broqueta de pollastre adobada groga,4.75,5.49,2026-06-30 11:21:44
+7796,a0f86bad-525c-438b-a32f-1ff1715c3737,BONPREU Burger meat de vedella,6.35,6.49,2026-06-30 11:21:44
+7797,3151546e-5188-43c9-82ec-ecd931fe6c1a,BONPREU Cabrit,17.5,34.99,2026-06-30 11:21:44
+7798,8d175267-4b46-4472-b926-13f8ce4f19cd,BONPREU Cansalada de porc fresca,3.13,8.95,2026-06-30 11:21:44
+7799,37482fde-fe21-49d9-87d8-4a23774cf92f,BONPREU Carn magra del coll,3.98,8.85,2026-06-30 11:21:44
+7800,55b84ef6-db37-4ef0-8a98-a2f740c11b68,BONPREU DE L'ERA Cuixes de pollastre,2.3,8.35,2026-06-30 11:21:44
+7801,bbea2459-94dc-4768-b354-3a80b7bc6a85,BONPREU DE L'ERA Preparat de carn picada de porc i vedella,7.75,7.99,2026-06-30 11:21:44
+7802,90ba02c5-2298-465c-a9c0-c1292d0c1d57,BONPREU Magret d'ànec,10.12,26.99,2026-06-30 11:21:44
+7803,a0581813-38c7-4773-acc5-2db180f34de2,BONPREU Llom tallat extra fi,10.25,3.08,2026-06-30 11:21:46
+7804,74feb3a1-baee-4ca0-a704-9a33c37c36f4,BONPREU Llom de porc extra fi,9.85,4.93,2026-06-30 11:21:47
+7805,b7511c17-dde0-4f80-8093-c56b1dfb998d,BONPREU Galta de porc tallada amb os,11.69,7.6,2026-06-30 11:21:48
+7806,9bbf9c01-133e-4c6b-9be4-07135150d611,BONPREU Llom de conill,15.99,5.36,2026-06-30 11:21:48
+7807,9f17f3fe-e330-4515-8196-9b45e9f7e4da,BONPREU DE L'ERA Medalló de Vedella ecològic,25.49,7.65,2026-06-30 11:21:49
+7808,470eced4-44e4-4be9-af46-37f61fcba0f1,FROYA Salmó Back Loin premium en envàs de 180 grams,11.99,10.99,2026-06-30 11:21:53
+7809,a4e6afe0-2b32-4e8c-9cb9-944b803bfd3c,LA GULA DEL NORTE® Succedani d´angula a l'all,3.99,14.95,2026-06-30 11:21:53
+7810,91cb12f4-2c86-44c6-a946-51e894d76370,LA GULA DEL NORTE® Succedani d´angula amb gambes,3.99,14.95,2026-06-30 11:21:53
+7811,1bcedd12-45be-4106-99d0-6f8265ad2dc0,Preparat de paella,9.99,9.69,2026-06-30 11:21:53
+7812,8dce3c95-e05b-49ed-9883-5719a3efabfa,ROYAL Salmó fumat,5.49,14.95,2026-06-30 11:21:53
+7813,d2feb177-66ee-46ef-98c3-54705c78be0c,Supremes de Salmó,6.25,24.99,2026-06-30 11:21:53
+7814,40d6b7b9-41f8-474d-83bb-1af84cb0a4cd,Supremes de Salmó vermell salvatge.,8.39,7.99,2026-06-30 11:21:53
+7815,38bdcace-6223-45dd-841a-e62ce2ffb5e8,Filet de Gallineta,1.87,14.99,2026-06-30 11:21:54
+7816,ea8dee23-bf97-47dd-8102-3045e4ecc15d,LA GULA DEL NORTE® Succedani d´angula amb bolets,3.99,14.95,2026-06-30 11:21:54
+7817,2a902762-dbed-4a39-9ca4-98eac77f75e9,Llagostí Vannamei cuit,3.25,12.99,2026-06-30 11:21:54
+7818,aa34d52e-c2d3-475a-844e-896dfd310ea8,Sípia neta,7.65,16.99,2026-06-30 11:21:54
+7819,43a45fe5-027b-45ac-ab9c-2577dd1f9918,Calamar del cap,16.99,7.65,2026-06-30 11:21:55
+7820,aa84214a-46ad-43f5-8f2f-730959eb233e,Gamba Llagostinera gran,17.99,4.5,2026-06-30 11:21:55
+7821,1321a1f7-1ce9-4e8e-a9a1-e7201f858a6f,Filet de perca del Nil,7.2,6.84,2026-06-30 11:21:56
+7822,cd1dbe3a-c8d0-4045-b08c-e0dbf257c5ec,Salmó superior sencer,32.48,29.98,2026-06-30 11:21:56
+7823,4fd434f0-ba79-4a05-8caa-a68824351620,IGGY'S Pa de pita,2.65,2.75,2026-06-30 11:21:57
+7824,45ae826e-d925-44b2-9235-9f23543580cb,MAS ROVIRA Formatge de cabra Garrotxa Km0 al tall en porció,26.49,5.3,2026-06-30 11:22:02
+7825,2ecf44a3-9c34-4ff0-bb36-65b80a7d6f9f,BRUNAT Formatge de vaca Bruna dels Pirineus Km0 al tall en porció,25.45,5.09,2026-06-30 11:22:04
+7826,cff0ce04-d9c7-408d-ac4c-2b4bf3adcc77,TERRA I TAST Croquetes de carn,2.99,8.59,2026-06-30 11:22:05
+7827,7d1092d9-2e8a-466f-8ba7-d75915133dc1,TERRA I TAST Croquetes de pernil i espatlla d'enceball ibèric,2.99,8.59,2026-06-30 11:22:05
+7828,36756dd1-64ec-400d-abfe-e223e999eb7b,TERRA I TAST Croquetes de pollastre,2.99,8.59,2026-06-30 11:22:05
+7829,5d263b86-6d42-4f51-913f-c71d582345a0,TERRA I TAST Fideuà,4.99,8.59,2026-06-30 11:22:05
+7830,68fc1334-317c-4c7a-9585-e6ce4fc7cdfc,TERRA I TAST Croquetes d'espinacs i formatge,2.99,8.59,2026-06-30 11:22:06
+7831,9dc1506b-39ce-409e-b182-884a8a9ff344,NOEL Pollastre estil rostidor,12.95,8.95,2026-06-30 11:22:07
+7832,c7ba76f1-3099-4902-87fd-d5111b405afa,TERRA I TAST Fideuà,12.95,8.49,2026-06-30 11:22:07
+7833,73b59915-d07c-4ab2-a32b-debb90a0b0a6,TERRA I TAST Salmorejo,3.15,2.99,2026-06-30 11:22:08
+7834,c555399c-79e5-492c-b692-4a0764a7ad63,TERRALL Oli oliva verge extra arbequina,18.95,16.95,2026-06-30 11:22:14
+7835,cbba734b-2045-4d9a-98cd-84eb327016b7,BONPREU Patates fregides gurmet,1.35,5.94,2026-06-30 11:22:20
+7836,efb14d36-51d3-49fa-93a4-6d752b26cf04,DORITOS Snacks de blat de moro amb gust de formatge Tex-Mex,11.95,2.99,2026-06-30 11:22:20
+7837,a32067fe-5553-4d40-8e7b-8f981af394e5,FRIT RAVICH Còctel fruita seca Top 5,2.75,2.65,2026-06-30 11:22:20
+7838,6071c021-0157-4ace-9f38-8df06708f9fe,FRIT RAVICH Patates fregides casolanes,12.75,6.99,2026-06-30 11:22:20
+7839,486572bc-84ff-4a16-bfbd-61ca7b2c3b25,TUC Aperitiu Tuc Original,1.35,6.99,2026-06-30 11:22:20
+7840,cb917bfd-f61a-4733-a1c6-2e70d4aa2098,FRIT RAVICH Còctel sense closca,11.95,2.89,2026-06-30 11:22:21
+7841,b0f8846a-8ed5-4d9e-ab91-ac6666d2d9cc,SMILEAT Snack amb maduixa i plàtan ecològic,1.19,1.45,2026-06-30 11:22:22
+7842,426089e1-b3bb-4815-a6c3-d257292c412b,SMILEAT Snack amb poma i platàn ecològic,1.19,1.45,2026-06-30 11:22:23
+7843,ed78f027-9380-466b-9eae-5c97d15025ff,SMILEAT Snack de blat de moro ecològic,1.65,1.99,2026-06-30 11:22:24
+7844,84be62da-3f48-4b21-85eb-90bf92464978,NOVELL Cafè en gra natural Intens ecològic,5.55,5.32,2026-06-30 11:22:29
+7845,d36e905e-a4d4-4986-b898-4f4324398415,BONKA Cafè en gra natural,10.29,10.45,2026-06-30 11:22:30
+7846,37d1d3f0-ac92-4655-8c00-7e11534d55c2,NOVELL Cafè en gra natural,3.99,4.1,2026-06-30 11:22:30
+7847,00d043ed-7da5-452d-9c8c-c01f02f2220b,BONPREU Cookies amb trossos de xocolata,1.79,0.8,2026-06-30 11:22:37
+7848,ed2174f7-6193-45e1-9f59-e4f590af81db,OREO Galetes de cacau farcides de crema,1.6,1.7,2026-06-30 11:22:37
+7849,fa987e83-0926-4bef-a26c-da1b15b639b5,FONTANEDA Galetes integrals MarieLu,3.75,3.9,2026-06-30 11:22:38
+7850,4ec8c8aa-2193-44e0-bfc1-5d7b01ed3703,ABUELOBREAD Bastonets de pa integral sense gluten,1.39,1.33,2026-06-30 11:22:52
+7851,da3b5dbc-27ee-40f2-bc43-cc4f9ace5200,BIMBO Bagels Clàssic,2.69,2.49,2026-06-30 11:22:52
+7852,9c5f8eff-e96d-4b69-86bc-d885360d0189,BIMBO Bagels Llavors,2.79,2.59,2026-06-30 11:22:52
+7853,de6069e0-3403-4bb4-a48d-19066a6a5d90,DONUTS Berlines glacé,2.99,2.89,2026-06-30 11:22:52
+7854,8dc90267-ce0a-4088-98a0-af972d5f667e,BICENTURY Torrades de proteïna amb llenties i arròs,2.75,2.65,2026-06-30 11:22:53
+7855,22cee6a7-9472-4cad-94ea-0cb252770f76,MUSFI'S Coca de brioix amb crema,9.99,8.99,2026-06-30 11:22:54
+7856,cf30343c-ce0b-4ad5-85e9-dccbf6e7adc4,MUSFI'S Coca de brioix amb fruita,9.99,8.99,2026-06-30 11:22:56
+7857,8b685932-7ed5-4684-bf06-469a145e9b3d,MUSFI'S Coca de brioix amb xocolata,9.99,8.99,2026-06-30 11:22:58
+7858,432608cf-cd36-4fbc-a0cd-15c41b535141,MUSFI'S Coca de full amb cabell d'àngel,9.99,7.95,2026-06-30 11:22:59
+7859,833036bd-1723-4f03-bc94-ac6761d02c42,MUSFI'S Coca de full amb llardons,9.99,8.99,2026-06-30 11:22:59
+7860,0b572c4b-7a49-4480-a2c6-b0c830058b7b,MUSFI'S Coca reixada de full amb cacau i ametlla,9.99,7.95,2026-06-30 11:22:59
+7861,27778a6a-329f-4255-a72a-5d24ac442892,MUSFI'S Coca de full amb cacau,9.99,7.95,2026-06-30 11:23:00
+7862,959ab490-0a63-4fc9-a6ae-20e72c64290c,MUSFI'S Coca de vidre amb crema de cacau  i avellana,9.99,7.95,2026-06-30 11:23:00
+7863,9ec9c6ae-e15c-4519-afca-81bda28c7dcc,MUSFI'S Coca reixada de full amb crema de cacau,9.99,7.95,2026-06-30 11:23:00
+7864,5f24237a-de14-4209-b98f-13e22e9c06ef,BUITONI Base per a pizza Finíssima Maxi rectangular,4.95,2.89,2026-06-30 11:23:01
+7865,2b9b5b51-735e-4d7d-b890-16faf2461188,GAROFALO Mezzelune farcit de bolets i tòfona,3.25,2.99,2026-06-30 11:23:01
+7866,a8c3054a-521d-424d-beb9-08a8d957702b,GAROFALO Mezzelune farcit de pernil i parmesà,3.25,2.99,2026-06-30 11:23:01
+7867,9cae454c-823e-4a01-afa0-e37aeb4a4589,GAROFALO Mezzelune farcit de vedella i merlot,3.25,2.99,2026-06-30 11:23:01
+7868,e93363f3-a66a-4be5-9244-a50a26528ac4,GAROFALO Ravioli farcit de carbassa,3.25,2.99,2026-06-30 11:23:01
+7869,afe3ef14-b627-4e9b-8da0-00bb3bd2e672,NOMEN Arròs rodó,1.89,6.99,2026-06-30 11:23:01
+7870,8e71d229-db11-4148-ba9a-cc09b292d503,BONPREU Espaguetis,7.75,0.79,2026-06-30 11:23:02
+7871,441e95fc-3148-4e19-8f0d-619fda64b8bb,SERPIS Olives farcides d'anxova,2.59,6.99,2026-06-30 11:23:09
+7872,bebbbb3b-ce97-43c2-9760-f3e61e671708,SERPIS Olives farcides d'anxova,12.75,2.15,2026-06-30 11:23:09
+7873,0a35a1cd-1343-4511-bd8c-750f3d99f81e,BAYMAR Escopinyes al natural 55/65,12.75,5.25,2026-06-30 11:23:10
+7874,f9846f4d-b131-44e8-bc24-13a7c91bbf70,BONPREU Tomàquet triturat extra,7.75,0.99,2026-06-30 11:23:10
+7875,b22a3ead-ab72-4d3e-a510-f8c0748247e5,SERRATS Bonítol amb oli d'oliva,6.25,6.45,2026-06-30 11:23:10
+7876,046553b3-efbd-4345-9aa6-623b174927bb,GALLINA BLANCA Brou per fideuada fàcil,3.49,6.99,2026-06-30 11:23:22
+7877,e770cd32-4752-4b86-acbb-dc88afb3a00b,GALLINA BLANCA Brou per paella fàcil,3.49,6.99,2026-06-30 11:23:22
+7878,e515a187-34de-4903-a1d1-0159e1da7c43,GALLINA BLANCA Fumet de peix de roca i marisc,3.49,6.99,2026-06-30 11:23:22
+7879,91b07e67-a9e5-413c-aa4e-f2e85ed293f2,KNORR Brou vegetal en pastilles,1.75,1.4,2026-06-30 11:23:22
+7880,48f9c18d-d445-45a6-a2ce-6bc4e25dc41c,BONPREU Quètxup,1.07,7.25,2026-06-30 11:23:25
+7881,f00330bb-d517-4702-b410-3d9d4fbb6ebb,CALVE Salsa rosa,1.99,1.69,2026-06-30 11:23:25
+7882,112a793b-ed38-4f45-bb11-65d8193d8c54,CALVE Salsa tàrtara,2.25,1.69,2026-06-30 11:23:26
+7883,59181bff-8e90-4305-85b0-a7850ec0767e,CALVÉ Salsa fina,2.25,1.75,2026-06-30 11:23:26
+7884,5a9cc1f5-281e-4f4c-8478-011eb0e639b7,CHOVI Allioli en morter,7.99,0.85,2026-06-30 11:23:27
+7885,a5c1e0f0-70b3-4071-ba9e-ddf0d2d9598c,OLD EL PASO Nachips originals,3.15,1.99,2026-06-30 11:23:30
+7886,8d67c7be-d4ec-4004-8908-7f6b89e679fa,COCA-COLA Refresc de cola Zero sucre en lot  de 12 llaunes,12.75,11.16,2026-06-30 11:23:45
+7887,557c7a37-3982-4ee9-9689-c97bb0d8a722,COCA-COLA Refresc de cola sabor original mini en llauna,7.3,6.99,2026-06-30 11:23:45
+7888,533f2bdb-db28-4870-a5e8-ac5684936522,FLAX Te Kombutxa Blue Mojito Km0,2.55,2.53,2026-06-30 11:23:45
+7889,22dca381-2a4a-4c01-811c-4c9a593fcb08,FLAX Te kombutxa Dragon Lemonade Km0 en ampolla,2.55,2.53,2026-06-30 11:23:45
+7890,a705b475-b87f-4e1b-97ef-0295fa2f2d45,FLAX Te kombutxa Lemon Fantasy Km0 en ampolla,2.55,2.53,2026-06-30 11:23:45
+7891,9125df2d-d0fd-4fbf-add5-1a84144e5084,FLAX Te kombutxa Orange Fantasy Km0 en ampolla,2.55,2.53,2026-06-30 11:23:45
+7892,3d8f3782-9113-454b-bc33-5328e9bb2b79,COCA-COLA Refresc de cola sabor original en llauna,12.75,11.88,2026-06-30 11:23:46
+7893,e32fcfe9-6114-43a4-a66c-0c98247c5d9d,COCA-COLA Refresc de cola mini en ampolla de vidre,19.89,4.76,2026-06-30 11:23:47
+7894,75c2ef4e-c7cf-4652-99f4-52dc613e3614,VITAE Te Kombutxa de llimona i gingebre Km0,4.89,4.93,2026-06-30 11:23:47
+7895,0e2e6fa3-40e7-43fc-a551-10ec10b5a5c7,FEVER TREE Refresc tònica,23.49,1.65,2026-06-30 11:23:48
+7896,37b10bf4-ee35-42a8-a0fc-a1613ed045c9,VITAE Te kombutxa de fruits del bosc amb açaí Km0 en ampolla,4.89,4.93,2026-06-30 11:23:48
+7897,d3449a1c-32d2-44eb-8207-410f0aef5084,BIFRUTAS Beguda de llet i fruites Tropical en cartró,2.59,2.52,2026-06-30 11:23:50
+7898,25787fbf-0c4b-4efc-99ac-4d2a8db1728b,"TANQUERAY Beguda amb gust a ginebra alcohol 0,0%",16.49,13.95,2026-06-30 11:23:50
+7899,a213279d-2cdb-4a58-973d-a47f1edcda4a,DON SIMON Suc espremut de pinya en cartró,3.19,2.99,2026-06-30 11:23:52
+7900,12988a2a-39ea-4378-94b3-c88128d0e5e0,DAMM LEMON Cervesa amb llimona,11.95,0.82,2026-06-30 11:23:54
+7901,40494bd2-700c-4715-844d-6abd8336a26e,EL AGUILA Cervesa sense filtrar en ampolla,0.89,5.94,2026-06-30 11:23:54
+7902,400490a7-0f78-4d9f-bc9e-1d3f9342e905,ESTRELLA DAMM Cervesa especial 12 x 33 cl en llauna,11.95,10.32,2026-06-30 11:23:54
+7903,52003a24-379a-4260-aeef-fd3d7498579f,ESTRELLA GALICIA Cervesa especial 6 x 20 cl en ampolla,3.84,9.99,2026-06-30 11:23:54
+7904,81c8f099-109a-43c6-8c54-a216d26e2a45,MORITZ Cervesa en llauna,0.94,0.93,2026-06-30 11:23:54
+7905,3d41d61f-891b-43b4-b4a0-0ee014e18296,MORITZ EPIDOR Cervesa Torrada Extra en llauna,0.94,0.99,2026-06-30 11:23:54
+7906,6e4f1d9b-f4e6-4df0-9ed2-33cf1931e848,XIBECA Cervesa suau 12 x 33 cl en llauna,8.11,8.0,2026-06-30 11:23:54
+7907,421abcf7-7183-493f-b08e-37ebc3f8d4e4,DESPERADOS Cervesa mojito amb llima en ampolla,1.33,1.36,2026-06-30 11:23:56
+7908,42622593-4e80-4f64-a54a-a6a15b9ca205,DESPERADOS Cervesa mojito en ampolla,1.33,1.36,2026-06-30 11:23:56
+7909,fa353d28-d344-4c9b-a50d-ec6b94dabd7c,CERDOS VOLADORES Cervesa sense alcohol IPA en llauna Km0,1.15,1.19,2026-06-30 11:23:57
+7910,f1d0a173-a50b-4108-9aa6-09b165e31780,PACIFICO Cervesa internacional Clara en ampolla,1.79,1.82,2026-06-30 11:23:57
+7911,a2ee0fe4-4658-4004-bcab-ac03fd5941bc,BLANC PESCADOR Vi blanc d'agulla Km0,23.99,4.35,2026-06-30 11:23:59
+7912,bf57acfa-8530-4e5e-b4f2-c758ecc93e27,CALA PESCADOR Vi blanc DO Catalunya Km0,4.95,6.99,2026-06-30 11:23:59
+7913,f9b24a57-9728-4449-b795-1721876bb469,RAIMAT ABADIA Vi negre ecològic DO Costers del Segre Km0,8.25,7.95,2026-06-30 11:23:59
+7914,acf400e4-3e99-4ad1-92db-10287ba4c788,RAIMAT Vi blanc eco DO Costers del Segre Km0,8.25,7.95,2026-06-30 11:23:59
+7915,6db31acd-64f1-4f56-a36a-898d4c4461f2,BACH Vi blanc sec DO Catalunya Extrísima Km0,22.46,29.94,2026-06-30 11:24:00
+7916,b6c3c7d4-49a6-438c-bbd2-edc874168b1a,BACH Vi blanc semi dolç DO Catalunya Km0,22.46,29.94,2026-06-30 11:24:00
+7917,7c2f1a04-a8f6-44bc-afe7-8812daeb8fe6,BLANC PESCADOR Caixa de vi blanc d'agulla Km0,26.1,23.7,2026-06-30 11:24:00
+7918,f8e13bcb-7cab-41c8-9f32-7ce8b4fcc000,DEL PESCADOR Sangria Frizzante,5.95,8.59,2026-06-30 11:24:00
+7919,d665f186-1cc9-4c6e-9236-d649dd93e627,FATTORIA EMILIA Caixa de vi rosat Lambrusco,13.74,11.94,2026-06-30 11:24:00
+7920,62165af5-da85-4e3f-a7ef-f5d7251476c0,IMUS Caixa vi negre DO Montsant Km0,23.8,35.7,2026-06-30 11:24:00
+7921,9c493e52-56d0-48f6-9f35-124b64474d71,LLÀGRIMES DE TARDOR Caixa  Vi negre criança DO T.Alta Km0,53.94,62.1,2026-06-30 11:24:00
+7922,9428d714-9482-4196-9a9a-2f98ed43f052,NATUREO Caixa 6u. vi negre sense alcohol,41.94,54.3,2026-06-30 11:24:00
+7923,199049ab-8d65-47ea-b521-dbcfe368a5f3,RAIG DE RAÏM Vi negre DO Terra Alta Km0,20.97,31.46,2026-06-30 11:24:00
+7924,ceb0a4ae-b751-4d45-996a-4bb7104d815c,RAIMAT ABADIA Caixa de vi negre ecològic  DO Costers del Segre Km0,32.18,35.78,2026-06-30 11:24:00
+7925,015fef5c-5866-4a46-ac35-bf924eeb8320,TURBIO Caixa  vi blanc,10.74,11.94,2026-06-30 11:24:00
+7926,7d465572-0da3-4dc3-be77-cf2dca42c75f,VIÑA ESMERALDA Caixa vi blanc DO Penedès Km0,47.94,50.94,2026-06-30 11:24:00
+7927,750e3eac-43f9-4c1b-9672-feda26a6151b,VIÑA SOL Caixa vi blanc DO Catalunya ecològic Km0,29.94,36.54,2026-06-30 11:24:00
+7928,2ac051c6-2e76-46be-8eb5-6011efbe95ad,BACH Caixa de vi blanc DO Catalunya Km0,26.78,35.7,2026-06-30 11:24:01
+7929,e26d0c97-2807-4fbe-ad5c-5ac596d63c85,BACH Caixa de vi negre DO Catalunya Km0,22.46,29.94,2026-06-30 11:24:01
+7930,ddc261ac-8662-4bf1-928b-9bd575e45548,BACH Caixa de vi rosat DO Catalunya Km0,22.46,29.94,2026-06-30 11:24:01
+7931,6deb0c0f-4c9e-4a47-8e6c-7e0df85cc6d1,BLUME Caixa 6u. vi blanc DO Rueda,23.94,33.9,2026-06-30 11:24:01
+7932,7d20e1f3-127a-4018-8c13-7b433ada55dd,BUSCA RAONS Caixa vi negre DO Costers del Segre Km0,29.97,59.94,2026-06-30 11:24:01
+7933,f442569e-07a3-43e6-94ca-647173d971d6,CASTELL DE RAIMAT Vi blanc eco DO Costers del Segre Km0,32.18,35.78,2026-06-30 11:24:01
+7934,9c184013-f7e3-4611-9507-1b1c5c581e4d,COMPTA OVELLES Caixa de vi negre DO Penedès ecològic  Km0,35.94,26.96,2026-06-30 11:24:01
+7935,772ed02d-7000-49e5-a495-2f87bf43b35b,CRESTA ROSA Caixa de vi rosat d'agulla Km0,26.94,20.21,2026-06-30 11:24:01
+7936,e3a059bb-9249-4282-a911-ad41a7c81e82,CUNE Caixa vi negre DOQ Rioja criança,41.7,43.5,2026-06-30 11:24:01
+7937,b85c103c-6765-4194-9c6e-a429cbe7b9f7,EL COTO Caixa 6u. vi blanc DOQ Rioja,26.7,25.14,2026-06-30 11:24:01
+7938,67884d54-7ad5-4f15-a623-4fa008077806,GOTIM BRU Caixa de vi negre DO Costers del Segre km0,50.7,57.54,2026-06-30 11:24:01
+7939,848e2bdb-a160-4ea7-9589-55b5a7265445,GOTIM Caixa de vi blanc DO Costers del Segre Km0,41.94,45.3,2026-06-30 11:24:01
+7940,f03fcb3b-0991-46bc-b415-5693813579e2,GR174 Caixa de vi negre DO Priorat Km0,76.5,89.7,2026-06-30 11:24:01
+7941,9d54f4e2-bb8c-46fd-8ca3-369ca3f2bac7,NATUREO Caixa 6u. vi blanc sense alcohol,41.94,54.3,2026-06-30 11:24:01
+7942,fcf139ed-5a69-4d42-915c-84334b33dcb3,NOSTRAT Caixa de vi negre DO Penedès ecològic Km0,31.28,41.7,2026-06-30 11:24:01
+7943,fe8a640c-a3c2-4fd3-b7fd-ec23d7f615ed,PROTOS Caixa 6u. de vi blanc Verdejo DO Rueda,41.94,47.94,2026-06-30 11:24:01
+7944,2634c485-8b46-410c-b5b4-83b78fa733c7,PROTOS Caixa vi negre DO Ribera Duero,53.94,59.7,2026-06-30 11:24:01
+7945,a6e24e17-77b1-41de-bcd3-f4a007d0a5c2,SANGRE DE TORO Caixa 6u. vi negre DO Catalunya,23.94,30.3,2026-06-30 11:24:01
+7946,b9d1db7d-9927-4748-bc7c-24603fd221c0,SINOLS Caixa de vi negre DO Empordà km0,31.01,41.34,2026-06-30 11:24:01
+7947,fdbc5e23-673a-4806-b254-732472acb495,TINES DE ROQUETA Caixa de vi blanc DO Catalunya Km0,26.96,35.94,2026-06-30 11:24:01
+7948,37390059-711e-4f9d-abca-083f42e49074,TINES DE ROQUETA Caixa de vi blanc Garnatxa Blanca DO Catalunya Km0,26.96,35.94,2026-06-30 11:24:01
+7949,e9780f65-a4c2-43fd-8d58-437706e713db,ALADELTA Caixa vi negre vi lliure,26.78,35.7,2026-06-30 11:24:02
+7950,62d42db8-3676-495b-96a6-120542cff667,CAMPO VIEJO Caixa vi negre criança DO Rioja,26.33,35.1,2026-06-30 11:24:02
+7951,2f803a6a-df3f-4420-8302-5fa5b1e2dfb8,CAP DE RUC Caixa de vi negre DO Catalunya Km0,51.3,41.7,2026-06-30 11:24:02
+7952,0bb41171-0204-401d-858c-0c4e73a895f1,CREVETA Caixa de vi blanc DO Terra Alta,20.1,15.08,2026-06-30 11:24:02
+7953,32743078-4b0d-4716-9776-09592b75c0e7,CUNE Caixa 6u. vi rosat DO Rioja,24.08,32.1,2026-06-30 11:24:02
+7954,92ae9fa6-3b43-4e94-b90d-b5917dbda91e,EL COTO Caixa vi negre DOQ Rioja criança,39.3,37.74,2026-06-30 11:24:02
+7955,cfcb8526-cb8c-4933-992e-269e0f744618,ELS NANOS Caixa de vi blanc DO Conca de Barberà ecològic Km0,28.67,44.1,2026-06-30 11:24:02
+7956,b5097178-d357-4c68-a44a-e6b27cd03e9c,ENUC Caixa 6u. de vi negre DOQ Priorat,50.94,47.34,2026-06-30 11:24:02
+7957,9108003b-46dc-4ee1-9829-381f613852f6,GRAN FEUDO Caixa de vi rosat DO Navarra,29.7,19.31,2026-06-30 11:24:02
+7958,05152e11-9cda-476b-b68f-f9fdb60e7f73,HOMENAJE Caixa vi rosat DO Navarra,22.28,29.7,2026-06-30 11:24:02
+7959,c0af3b3b-2e00-4a7d-9ccd-e1883e596a0a,INDISPENSABLE Caixa de vi blanc DO Empordà Km0,35.7,41.7,2026-06-30 11:24:02
+7960,a0e04a27-32f4-49fc-bdf4-50493041fd59,LOPEZ DE HARO Caixa vi negre DO Rioja,41.94,50.34,2026-06-30 11:24:02
+7961,ca822bfd-8308-4022-8f43-c501407e7354,MARTA VIOLET Caixa de vi blanc DO Penedès ecològic,53.7,59.7,2026-06-30 11:24:02
+7962,54cdaf96-4cb3-4f8a-81d6-a10f7d1f2157,MATEUS Caixa 6u. vi rosat d'agulla de Portugal,27.54,23.94,2026-06-30 11:24:02
+7963,f72989ae-0c5c-4f83-931d-6b0b5024b394,MINVANT Caixa de vi negre DO Terra Alta,38.81,59.7,2026-06-30 11:24:02
+7964,ef796dc8-0dca-47e3-8080-38579b5f5a71,NOSTRAT Caixa de vi blanc Do Penedès ecològic Km0,31.28,41.7,2026-06-30 11:24:02
+7965,1b17fe92-c649-41b6-afe4-5aab780a3c1a,PERELADA Caixa de vi blanc DO Catalunya Km0,35.7,26.78,2026-06-30 11:24:02
+7966,ea470fc9-8eeb-4914-94b9-8d72ccd812b0,PERELADAJARDINS Caixa de vi negre DO Empordà Km0,35.7,26.78,2026-06-30 11:24:02
+7967,909912ad-a8db-4a5c-bc7c-bac53c863153,REFORJAT Caixa 6u. vi blanc DO Terra Alta,28.13,37.5,2026-06-30 11:24:02
+7968,b14c2fee-3703-4331-b7e2-a5044935c06f,SINOLS Caixa de vi negre DO Empordà Km0,24.71,32.94,2026-06-30 11:24:02
+7969,314322b9-fd30-42a7-9506-5b7c53c0992c,SINOLS Caixa de vi rosat DO Empordà km0,24.71,32.94,2026-06-30 11:24:02
+7970,37d34417-2c40-4d1f-9e40-399fe9c85233,VIA TERRA Caixa de vi blanc DO Terra Alta,47.7,31.01,2026-06-30 11:24:02
+7971,4e70f704-c494-44f7-9b79-083e9d0eef4a,BUSCA-RAONS Caixa vi negre DO Costers del Segre,32.94,24.71,2026-06-30 11:24:03
+7972,2df4b29b-6a9f-4bff-a134-4022896f6424,CURIOSA Caixa de vi rosat ecològic DO Penedès Km0,56.94,42.71,2026-06-30 11:24:03
+7973,97285be2-f1c1-4f97-913c-c47da47570b9,DINARELLS Caixa 6u. vi blanc Do Empordà,29.1,21.83,2026-06-30 11:24:03
+7974,d70d29ad-6719-4831-8bbc-810cbec086a6,ERMITA D'ESPIELLS Caixa de vi blanc Penedès ecològic Km0,58.74,53.34,2026-06-30 11:24:03
+7975,55b6b151-1277-44d6-af52-39c963c414a5,FAUSTINO RIVERA Caixa de vi negre DO Rioja,24.9,18.68,2026-06-30 11:24:03
+7976,a33824b6-a2f1-404b-ab23-e3a07a97f288,FINCA CAL JANES Caixa de vi negre DO Penedès Km0 ecològic,31.46,41.94,2026-06-30 11:24:03
+7977,e9a1ce7e-8b22-466b-aee9-e5e40b44def2,GR 65-5 Caixa de vi negre DO Montsant km0,47.7,53.7,2026-06-30 11:24:03
+7978,33d181d8-715b-486a-b4a5-cad74841b223,NATUREO Caixa 6u. vi rosat sense alcohol,41.94,54.3,2026-06-30 11:24:03
+7979,10b9104a-704a-4438-92d3-d6274f53709c,PERELADA Caixa de vi negre DO Empordà 3 Finques Km0,46.74,39.54,2026-06-30 11:24:03
+7980,1abbc437-fce5-4801-b73a-65af1ee62e20,PERELADA Caixa de vi negre Reserva DO Empordà 5 Finques Km0,71.7,80.7,2026-06-30 11:24:03
+7981,85aaa712-e897-4b33-a0f7-5b5624cdb2ee,SANTES Caixa vi negre DO Montsant Km0,41.94,47.94,2026-06-30 11:24:03
+7982,0a0fa0bc-9c63-4e17-bbb4-00cd6d62e6a8,TINES DE ROQUETA Caixa de vi negre Cabernet DO Catalunya Km0,26.96,35.94,2026-06-30 11:24:03
+7983,d897a12f-99ce-4d6e-8dcb-88922b4f472d,TINES DE ROQUETA Caixa de vi negre DO Catalunya Km0,26.96,35.94,2026-06-30 11:24:03
+7984,af34238b-7118-401b-b051-356ef578ce40,TINES DE ROQUETA Caixa de vi negre Tempranillo DO Catalunya Km0,26.96,35.94,2026-06-30 11:24:03
+7985,e23925e3-6efa-4d1f-9959-8e56034383bf,BOVER Caixa 12u. de vi negre DO Catalunya Km0,32.28,35.88,2026-06-30 11:24:04
+7986,3e9c1ed1-ad32-4503-bb81-8bbce5aacb4d,CALA PESCADOR Caixa 6u. vi blanc DO Catalunya,22.28,29.7,2026-06-30 11:24:04
+7987,f97f2bb1-4d1e-443d-94d6-87d6c271a8da,CAP DE COLLA Caixa de vi negre DO Conca de Barberà ecològic,47.7,31.01,2026-06-30 11:24:04
+7988,c66bc1fe-d429-4905-8479-8bec4fdc7d7a,CHIVITE Caixa 6u. vi rosat Chivite,69.9,81.9,2026-06-30 11:24:04
+7989,b47cb3f9-a3e7-4e7e-8e34-eb59993e48bf,CIGONYES Caixa de vi blanc DO Empordà Perelada Km0,46.14,52.5,2026-06-30 11:24:04
+7990,6cefe56c-3807-4e91-8a10-9afa15d33e3f,COMPTA OVELLES Caixa de vi blanc Do Penedès ecològic Km0,35.94,26.96,2026-06-30 11:24:04
+7991,6249844c-a84a-49e1-aded-4397d63f7ffa,COTO DE IMAZ Caixa 6u. vi negre Rioja reserva,52.8,49.14,2026-06-30 11:24:04
+7992,1ebd413e-2780-4e38-882c-9f5bb79d2a70,DINARELLS Caixa 6u. vi negre DO Empordà,29.1,21.83,2026-06-30 11:24:04
+7993,f571a152-be7c-4588-88d3-38c0b6afd0cc,EDERRA Caixa de vi negre DO Rioja criança,35.78,47.7,2026-06-30 11:24:04
+7994,c6056cba-4cd3-4e52-8ac3-83d0965da54e,EL XITXAREL·LO Caixa de vi blanc Do Penedès Km0,38.81,59.7,2026-06-30 11:24:04
+7995,78b72774-92ed-4a2e-8f51-7b515113ba78,ELS NANOS Caixa de vi negre DO Conca de Barberà ecològic Km0,28.67,44.1,2026-06-30 11:24:04
+7996,6c4d8d79-474a-497f-80cc-e8a58de04353,EMENDIS FLOS Vi blanc DO Penedès ecològic  Km0,47.34,35.51,2026-06-30 11:24:04
+7997,5dc60545-755c-491a-b990-b874665dc989,ESPOLLA Caixa 6u. vi dolç Garnatxa D.O. Empordà,32.94,38.94,2026-06-30 11:24:04
+7998,9ad53b67-02f5-4fad-9472-83fb1c7b03da,GRAN BUSCA RAONS Caixa de vi blanc ecològic DO Costers del Segre,29.97,59.94,2026-06-30 11:24:04
+7999,faae7f86-dad6-4255-973c-fe630ef52c7d,I TANT Caixa de vi negre DO Montsant Km0,47.94,46.14,2026-06-30 11:24:04
+8000,42a093bd-69dd-465c-b129-0ef736e9dad7,LA BOSCANA Caixa de vi negre DO Costers del Segre Km0,47.7,41.7,2026-06-30 11:24:04
+8001,5a63654a-a0cb-4d50-9668-d74734473293,RAIG DE RAÏM Caixa de vi blanc km0,41.94,31.46,2026-06-30 11:24:04
+8002,cd5bdfe8-3cfa-4592-a92d-1f9261221918,VALL SELLADA Caixa 6u. vi negre DO Montsant,25.74,23.34,2026-06-30 11:24:04
+8003,3153fa9e-d393-434d-9992-c2ef719869ef,VIA TERRA Caixa de vi negre DO Terra Alta Km0,47.7,31.01,2026-06-30 11:24:04
+8004,5da1aa81-0569-4de4-a86f-f9f3d37ec9bc,822 Caixa 6u. vi negre Do Ribera del Duero,64.5,70.5,2026-06-30 11:24:05
+8005,5f58e6e5-8917-448f-9e67-02bba7336f61,ABADAL Caixa de vi negre DO Pla de Bages km0,53.94,59.7,2026-06-30 11:24:05
+8006,68281d4b-4798-411e-aeac-3aa7b9a06511,ALTOS TAMARÓN Caixa de vi negre reserva DO Ribera del Duero,53.94,59.94,2026-06-30 11:24:05
+8007,00ad88c9-fac6-40d1-a908-1b35bed688cd,AUZELLS Caixa de vi blanc DO Costers del Segre ecològic Km0,75.9,71.7,2026-06-30 11:24:05
+8008,d8a6bc37-b544-467a-aa6d-6d6944869bdd,BARON DE LEY Caixa vi negre DO Rioja,64.5,53.94,2026-06-30 11:24:05
+8009,00fb0470-a755-48ad-85d1-d52eae2edff0,BUSCA RAONS Caixa de vi rosat DO Costers del Segre Km0,32.94,24.71,2026-06-30 11:24:05
+8010,f5f7fd75-e982-4293-b3e7-efe52ace339d,BUSCA-RAONS Caixa vi blanc ecològic DO Costers del Segre km0,32.94,24.71,2026-06-30 11:24:05
+8011,ea92f6cf-5de6-4c3e-b011-25f45b735514,CAP DE RUC Caixa de vi blanc DO Catalunya Km0,31.28,41.7,2026-06-30 11:24:05
+8012,f2b5124a-c6ce-4e05-ae7b-1c21fb05af50,CELESTE ROBLE Caixa de vi negre DO Ribera del Duero,58.74,53.94,2026-06-30 11:24:05
+8013,e21de04c-97c5-4b9f-b9f8-dc0a7df1f18c,CIGONYES Caixa de vi negre DO Empordà Km0 Perelada,46.14,52.5,2026-06-30 11:24:05
+8014,74878656-6ec3-4e0b-93d6-ef3b964c8b38,CLOS DE LES DÒMINES Caixa de vi blanc DO Empordà Km0,64.5,71.7,2026-06-30 11:24:05
+8015,5646972c-0e83-4b96-8a8e-60666672e268,CLOS DE LES DÒMINES Caixa de vi negre DO Empordà Km0,64.5,71.94,2026-06-30 11:24:05
+8016,80712600-5997-46bd-81e4-069731044644,CREVETA Caixa de vi negre DO Terra Alta Km0,20.1,15.08,2026-06-30 11:24:05
+8017,5de2753a-a314-4793-b216-81f7900838e8,FREIXENET Caixa de vi blanc DO Catalunya,30.56,40.74,2026-06-30 11:24:05
+8018,ff6bac24-f03e-48be-bc5d-b6f534d0090c,INDISPENSABLE Caixa de vi negre DO Empordà Km0,35.7,41.7,2026-06-30 11:24:05
+8019,651a1c7d-482d-47f1-b0b7-431aa3bd963b,LEGARIS Caixa vi negre DO Ribera del Duero,53.7,40.28,2026-06-30 11:24:05
+8020,64781441-5bf3-4078-82c7-3732a2a1697b,MARQUÉS DE CÁCERES Caixa 6u. vi negre reserva DO Rioja,73.5,65.7,2026-06-30 11:24:05
+8021,c5e82363-de35-49d3-8da7-0a69d4711f81,MIONETTO Caixa de Vi escumós Brut Prosecco DOC Treviso,53.94,59.94,2026-06-30 11:24:05
+8022,00bcb8de-06a3-4b83-94c8-7faf83587355,MIREIA PINORD Caixa 6u. vi blanc DO Penedès ecològic Km0,53.94,59.94,2026-06-30 11:24:05
+8023,8309ccf3-6e34-45e5-82c8-ab697a4e3332,PACO & LOLA Caixa de vi blanc albarinyo DO Rias Baixas,71.94,83.7,2026-06-30 11:24:05
+8024,7dcb350d-a38a-404f-81a9-406202850f77,RAIMAT ABADIA Vi rosat ecològic DO Costers del Segre Km0,8.25,7.95,2026-06-30 11:24:05
+8025,6ab215bc-7115-46bb-a9ea-6c5f1cfe81c8,SCALA DEI Caixa  vi negre DOQ Priorat,67.28,89.7,2026-06-30 11:24:05
+8026,02757f7f-e5fe-4912-ae18-9bfea9c146c2,TEMPS DE FRUITS Caixa de vi negre Eco DO Penedès Km0,44.78,59.7,2026-06-30 11:24:05
+8027,97eafce5-7257-4ed9-b6ac-5a53d30b8f41,TERRA ENDINS Caixa de vi negre ecològic DO Catalunya,29.94,22.46,2026-06-30 11:24:05
+8028,1a27ab5e-1761-4241-9c08-f30ef903bd84,TERRAS GAUDA Caixa 6u. vi blanc DO Rias Baixas,89.7,95.7,2026-06-30 11:24:05
+8029,fb18445c-48b5-45d8-abea-c8a07a6669aa,ÈTIM Caixa de vi negre dolç Verema Tardana DO Montsant,39.38,52.5,2026-06-30 11:24:05
+8030,5521d249-70f5-4637-898f-87ac996712be,COLORS Caixa de vi negre DO Costers del Segre ecològic Km0,65.34,68.94,2026-06-30 11:24:06
+8031,4044dafb-0701-41c9-afe5-dae1e444af93,EL PRIOR Caixa 6u. vi ranci el Prior,41.94,50.94,2026-06-30 11:24:06
+8032,939a577b-ee08-4470-a0e9-2215d9952c5c,EMILIO MORO Caixa de vi negre DO Ribera Duero,126.0,135.0,2026-06-30 11:24:06
+8033,b216f4e0-6759-4495-a5aa-6af5d2996a02,FINCA MALAVEÏNA Caixa de vi negre DO Empordà Km0,126.0,141.0,2026-06-30 11:24:06
+8034,190b184d-fedf-4562-8523-e55207da5e20,LA BÈSTIA NEGRA Caixa de vi negre DO Empordà Km0,47.94,41.7,2026-06-30 11:24:06
+8035,aa3a968e-1bc8-4948-a1aa-d47638632128,PEDRO XIMENEZ Caixa 6u. vi molt dolç Viña 25 DO. Jerez,59.7,65.7,2026-06-30 11:24:06
+8036,9f2c49e8-504e-4e3e-9863-0aec31b9117c,RAIMAT Caixa de vi rosat ecològic DO Costers del Segre Km0,32.18,35.78,2026-06-30 11:24:06
+8037,a85ec85f-65b3-41f0-80bc-c1f1bf11ca40,REFORJAT Caixa vi negre DO Terra Alta Km0,28.13,37.5,2026-06-30 11:24:06
+8038,6c8b86a6-ed7c-4829-88ff-6e3fe94eb0ce,SOMMOS Caixa 6u. vi blanc DO Somontano,65.34,58.74,2026-06-30 11:24:06
+8039,04da8c98-cbd6-4a5a-ace6-be771c19663c,VILOSELL Caixa de vi negre ecològic DO Costers del Segre Km0,82.14,77.7,2026-06-30 11:24:06
+8040,0907bb9d-6e7b-4bb0-b488-bc44e4556b62,VIÑA POMAL Caixa 6u.vi negre DO Rioja Reserva,77.94,95.7,2026-06-30 11:24:06
+8041,20aee3ab-1b4d-4345-a9d6-e4bb0694e635,CUNE Vi blanc verdejo DO Rueda,14.5,6.65,2026-06-30 11:24:07
+8042,0bd7dc85-75bd-49bf-922d-40153f04d7e5,CUNE Vi negre Rioja criança,14.5,7.25,2026-06-30 11:24:07
+8043,0376dd3f-ef59-4361-9fa1-58473083edd4,TAL COM RAJA Vi blanc DO Terra Alta Km0,9.95,6.95,2026-06-30 11:24:07
+8044,8e4ce6e9-f9fa-457d-b939-62af539bcc72,TAL COM RAJA Vi negre DO Terra Alta Km0,9.95,6.95,2026-06-30 11:24:07
+8045,47a151bc-cc9b-48af-849c-89ae8f7cc8fd,MAYADOR Sidra sense alcohol,2.39,2.49,2026-06-30 11:24:08
+8046,4dd45d4a-e87a-43b8-909f-93e9cc85627f,TURBIO Vi blanc,1.79,1.99,2026-06-30 11:24:08
+8047,be80336e-5bba-4f6b-aa00-2e3de3545799,DON SIMON Sangria,1.75,1.15,2026-06-30 11:24:09
+8048,801095d8-e9de-4e53-84bd-57fe65bdc608,FUENTEVEGA Vi negre criança DO Ribera del Duero,4.49,4.25,2026-06-30 11:24:11
+8049,6570bc55-8b3c-47eb-90c7-147fa1fd727c,VIÑA ESMERALDA Vi rosat DO Catalunya Km0,8.49,7.99,2026-06-30 11:24:11
+8050,44b90779-12eb-4778-8989-31e38a99a4a1,ALBET I NOYA P.ALB. Vi escumós Brut guarda sup. reserva org eco DO Penedès caixa,44.78,59.7,2026-06-30 11:24:14
+8051,ce277ca2-e64a-4e59-a431-293c54aac166,ANNA CODORNÍU Cava Brut Nature guarda caixa,44.78,59.7,2026-06-30 11:24:14
+8052,209cab6a-5db6-4182-9c39-88b53276bf6e,BACH Caixa de Cava Brut Nature guarda,24.53,32.7,2026-06-30 11:24:14
+8053,3125b509-d118-408d-823a-7204b7ed9012,FREIXENET MERITUM Cava Brut Nature guarda superior gran reserva ecològic,18.99,14.95,2026-06-30 11:24:14
+8054,339821c1-df04-4010-821e-132c7befc17c,PROA Caixa de Cava Brut Nature guarda,23.81,31.74,2026-06-30 11:24:14
+8055,3b2f7247-b666-4996-a735-8ff772ee7654,ANNA CODORNÍU Caixa de cava Brut guarda,44.78,58.5,2026-06-30 11:24:15
+8056,574f94c1-02d1-401b-bd15-c4e6eeb2f60e,BACH Caixa de cava rosat Brut guarda,24.53,32.7,2026-06-30 11:24:15
+8057,dc9557f2-3499-4784-9057-dc2e23117942,BACH Caixa de cava semisec guarda,24.53,32.7,2026-06-30 11:24:15
+8058,90dc1ec6-cfa0-4a43-bef0-67611403fe83,CASTELL RE. LA CUVÉE Caixa de cava Brut Nature guarda superior reserva ecològic,59.94,64.5,2026-06-30 11:24:15
+8059,6c43ccba-d170-4891-96b8-7edf3cf41e74,CODORNÍU CUVÉE Cava semi sec ecològic caixa,32.63,43.5,2026-06-30 11:24:15
+8060,1e4ad963-0d73-4d8a-9c4c-9e4bb3a30f26,CODORNÍU Caixa de cava Brut guarda ecològic,32.63,43.5,2026-06-30 11:24:15
+8061,e608c42b-3845-4d2a-9f2d-ee43c301eaad,ESCOFET ROSELL Caixa de cava Brut guarda superior reserva eco,44.96,59.94,2026-06-30 11:24:15
+8062,1510d314-b12f-44e6-ad1c-fe274295c2b4,FREIXENET MERITUM Caixa de cava Brut Nature guarda superior gran reserva eco,56.97,114.0,2026-06-30 11:24:15
+8063,b310e26f-4aa8-41e8-a1eb-9d6fb0994141,JAUME SERRA ICE Caixa de cava Brut rosat guarda,33.54,37.5,2026-06-30 11:24:15
+8064,b4c8207c-6f05-43ac-be4f-6ac05521a1ea,JUVÉ CAMPS Caixa de Corpinnat Brut Nature ecològic,123.0,128.0,2026-06-30 11:24:15
+8065,e39eaa96-64dc-4ab1-9f09-defb87a18f43,KRIPTA FRANC Caixa de Corpinnat Brut ecològic,71.34,83.7,2026-06-30 11:24:15
+8066,90a64110-ee48-4664-abed-f62175b40a52,LLOPART INTEGRAL Cava Corpinnat Brut Nature Integral ecològic caixa,92.94,101.0,2026-06-30 11:24:15
+8067,9af30ea2-475f-4624-bdda-c5602fbb1696,PARXET CUVEÉ 21 Cava Brut guarda,49.95,13.95,2026-06-30 11:24:15
+8068,bc42d76b-37a2-4f56-aabb-0b16190f35bb,PARXET Caixa de cava Brut guarda,89.7,77.94,2026-06-30 11:24:15
+8069,54781fd7-e7ce-418b-aefe-e676e1443266,RAIMAT Caixa de cava Brut Nature guarda ecològic,44.78,59.7,2026-06-30 11:24:15
+8070,075fda2b-fd81-4fa8-85e1-90be1d140054,ANNA CODORNÍU Cava Brut guarda,9.95,9.75,2026-06-30 11:24:16
+8071,1201125e-2ac4-4656-94ca-ffb699a5b39c,FREIXENET CAR.NEVADA Cava Brut guarda,7.45,6.95,2026-06-30 11:24:16
+8072,ed741f92-852a-4908-9fb6-90a59a691d97,FREIXENET CAR.NEVADA Cava semisec guarda,7.45,6.95,2026-06-30 11:24:16
+8073,19e4e796-ebae-474e-a1f6-5cc0addb9edf,SEAGRAM'S Ginebra Extra Dry Gin,23.49,25.69,2026-06-30 11:24:17
+8074,df00b11f-2242-4df5-9fc8-80885823c899,JACK DANIEL'S Whisky amb Coca-Cola en llauna,2.79,2.65,2026-06-30 11:24:18
+8075,9b9937e6-d89c-41b9-a5de-14ef44f6a79f,BAILEYS Crema de licor whisky,22.19,20.95,2026-06-30 11:24:19
+8076,34b228d3-fbdb-4845-b935-7d4b6b9af3d8,EL BANDARRA Caixa 6u. de vermut negre,42.26,47.7,2026-06-30 11:24:19
+8077,c1327286-11f8-48c5-91be-fb215aea1f58,JAMESON Whisky irlandès,18.99,19.95,2026-06-30 11:24:19
+8078,395e5fb7-e0f9-4a0e-83e7-eda73b51705b,JOHNNIE WALKER Whisky escocès Reb Label,14.49,16.49,2026-06-30 11:24:19
+8079,8f389ef3-39ab-44df-b611-c7ee58a2e67a,TANQUERAY Ginebra,13.65,13.49,2026-06-30 11:24:19
+8080,de1d7008-2dc6-4b6a-89cc-a24ca6dc5f4a,CARLOS III Brandi de Xerès Solera Reserva,12.45,11.79,2026-06-30 11:24:20
+8081,19c32ff3-865f-44f6-a436-deb2e3c1308b,JIM BEAM Whisky Bourbon Kentucky Straight,15.75,10.95,2026-06-30 11:24:20
+8082,0e3d3063-7c3a-43fb-b34b-22b2073f060f,MAGNO Brandi de Xerès Solera Reserva,12.69,12.49,2026-06-30 11:24:20
+8083,e8c5fe15-3ea1-4660-9685-916ce474e428,TERRY Beguda espirituosa Centenario,6.65,7.25,2026-06-30 11:24:20
+8084,cbb191f1-d8c4-4d1b-b0fd-db01d782e957,FRANGELICO Licor d'avellana,15.19,13.99,2026-06-30 11:24:21
+8085,653d5ca3-bd00-4aa9-9ccd-583d0b7cf45f,SOLERA 1866 Brandi Solera 1866,54.4,52.99,2026-06-30 11:24:21
+8086,7269454f-2a9b-475d-acd6-89240f47d65c,ALPRO Beguda de matxa i coco,2.69,2.65,2026-06-30 11:24:23
+8087,1f1dc5f2-f0f1-41db-801e-63c04b8595f5,PESCANOVA Gamba vermella pelada,9.69,9.79,2026-06-30 11:24:25
+8088,0b7d99a6-a357-4f7c-b878-4ca488770c9a,PESCANOVA Sípia Faraònica trossejada neta,6.75,6.65,2026-06-30 11:24:25
+8089,13d7ec04-dff1-40ba-9dbb-d3ce761a7276,MCCAIN Patates fregides Airfryer,7.95,3.65,2026-06-30 11:24:27
+8090,0a78a440-f0fe-4116-b943-629774d35184,PESCANOVA Capritxos a la romana,4.69,4.75,2026-06-30 11:24:29
+8091,31ff7ffa-683b-4d54-a97a-8248d8e2d2d5,FRIPOZO Porcions de pit de pollastre amb salsa barbacoa Crunchy,2.65,2.69,2026-06-30 11:24:30
+8092,da17eb36-d657-41aa-b930-bd22b4421747,CASA DI MAMA Pizza 4 formatges,4.65,9.99,2026-06-30 11:24:32
+8093,412300cd-36d5-474c-aa49-95291cd80e43,CASA DI MAMA Pizza BBQ Pulled Pork Dr. Oetker,4.65,9.99,2026-06-30 11:24:32
+8094,777c5fe5-6570-4318-82c9-69286f106be8,CASA DI MAMA Pizza Prosciutto Funghi,4.65,9.99,2026-06-30 11:24:32
+8095,4b21b797-906b-4bae-9d3c-ba265e6eba31,CASA DI MAMA Pizza de tonyina,4.65,9.99,2026-06-30 11:24:32
+8096,1c605a84-7231-422e-adad-1d7f3a42c8c2,PICCOLINIS Mini pizzes de 3 formatges,7.95,4.25,2026-06-30 11:24:32
+8097,19d177e8-efef-4500-aa1e-8abe91e19f4e,PICCOLINIS Mini pizzes de frankfurt,7.95,4.25,2026-06-30 11:24:32
+8098,5cdea0aa-6538-4467-aba8-78ea6d499ec0,PICCOLINIS Mini pizzes de pernil dolç i formatge,7.95,4.25,2026-06-30 11:24:32
+8099,16423ab7-335c-4310-afb3-479234e7788d,PICCOLINIS Mini pizzes de tonyina,7.95,4.25,2026-06-30 11:24:33
+8100,da7b97a5-962d-4cab-bc64-61d19f17d4fb,CORNETTO Gelat cucurutxo de xocolata i avellana Max,4.99,9.99,2026-06-30 11:24:34
+8101,b29dc5de-cb4e-4eb0-a9a9-c5bc44eb9996,CORNETTO Gelat de festuc i vainilla Max,4.99,9.99,2026-06-30 11:24:34
+8102,c30b0e94-7a8d-4d73-9371-139ed7751179,NESTLÉ PIRULO Gelats Fantasmikos,5.39,5.32,2026-06-30 11:24:34
+8103,65c9029d-6cb7-4bb3-827c-cdfcf7e570f5,HÄAGEN-DAZS Gelat de dolç de llet,7.59,7.49,2026-06-30 11:24:35
+8104,d7f284d7-2624-4b7b-ad0e-27b0f3e8e164,HÄAGEN-DAZS Gelat de mango i gerds,7.59,7.49,2026-06-30 11:24:35
+8105,c82d31d8-af7b-4853-b709-3d2cc3f134e8,HÄAGEN-DAZS Gelat de vainilla,7.59,7.49,2026-06-30 11:24:35
+8106,0a2fb2ed-9280-4647-b178-53eb12ff06b4,NESTLÉ PIRULO Gelat Fruit Explosion Mix,5.39,5.32,2026-06-30 11:24:35
+8107,1e5c18d6-20a1-4589-b4f3-6d7486a95b6a,NESTLÉ PIRULO Gelat Mikolápiz,5.39,5.32,2026-06-30 11:24:35
+8108,0d628df6-0805-4209-a8a4-440cade7e3f1,NESTLÉ PIRULO Gelat Mini Tropical,5.39,5.32,2026-06-30 11:24:35
+8109,234cd7de-0271-44c6-9e3e-bddeaec6cf7a,HÄAGEN-DAZS Gelat Salted Caramel,7.95,4.99,2026-06-30 11:24:36
+8110,8e131499-de81-41cb-b2b0-2d359f3a4c36,HÄAGEN-DAZS Gelat de vainilla i nous de Macadàmia,7.95,4.99,2026-06-30 11:24:36
+8111,b12cdcf9-93e3-41c5-a045-5925ec76fe10,HÄAGEN-DAZS Gelat de xocolata blanca amb maduixa,7.95,4.99,2026-06-30 11:24:36
+8112,6d208607-f0eb-45b8-bf1c-0fa20e7e0dfa,DANET Natilles,3.19,1.94,2026-06-30 11:24:49
+8113,80a0c607-4b9c-4671-a198-dae96da167f0,ACTIVIA Quefir per beure amb gust de mango,3.19,1.79,2026-06-30 11:24:51
+8114,d134b2e8-07db-4c77-b1b9-6b10992cdce3,ACTIVIA Quefir per beure amb gust de nabius,3.19,1.79,2026-06-30 11:24:51
+8115,182c98c0-9dc3-451e-8ad8-41aeadc176ab,ACTIVIA Quefir per beure amb maduixa,3.19,1.79,2026-06-30 11:24:51
+8116,2f822123-9bcf-4e30-bc9c-032087420489,ACTIVIA Quefir per beure natural,3.19,1.79,2026-06-30 11:24:51
+8117,c561fc68-ca10-4316-8c10-da620d0f711f,DANONE Iogurt grec natural,3.19,1.49,2026-06-30 11:24:51
+8118,eb883db9-c47b-4049-af57-1254a94c9b4b,DANACOL Iogurt per beure de llima i llimona,4.49,4.59,2026-06-30 11:24:52
+8119,47b3acaa-8199-4b8e-a989-3b5af9c58bb0,DANONINO Iogurt maxi de maduixa,2.29,2.39,2026-06-30 11:24:52
+8120,eb8eb146-ceb1-48e9-a9ff-309eb6ab97fe,DANONINO Iogurt maxi de maduixa i plàtan,2.29,2.39,2026-06-30 11:24:52
+8121,4fe28235-46a4-474f-bbd0-51b712569e2e,DANACOL Iogurt per beure natural,4.49,4.59,2026-06-30 11:24:53
+8122,09076ae0-68b9-4c18-aad5-0b3739a68ae7,DANONINO Iogurt per beure de maduixa,2.59,2.69,2026-06-30 11:24:53
+8123,a03065ff-9758-4524-8abf-858665e614ac,DANACOL Iogurt per beure desnatat de fruits vermells,4.49,4.59,2026-06-30 11:24:55
+8124,7051e444-4007-4a1e-85cc-882732d00e90,DANACOL Iogur per a beure gust a préssec i albercoc,4.49,4.59,2026-06-30 11:24:56
+8125,aa079a83-4c85-47d2-9498-79d3a5e8934b,DANACOL Iogurt per beure de civada,4.49,4.59,2026-06-30 11:24:56
+8126,a4551f46-3e14-4448-9910-54bebdb034c3,BONPREU Ous frescos de gallines soltes en el galliner L,1.8,16.95,2026-06-30 11:24:58
+8127,01d54446-81a5-42f8-be07-10623b2c2db1,BONPREU Ous frescos de gallines soltes en el galliner L,1.8,16.95,2026-06-30 11:24:58
+8128,a133a709-a4d5-419b-8577-a9042c15380e,BONPREU Ous frescos de gallines soltes en el galliner L,1.8,16.95,2026-06-30 11:24:58
+8129,93cba48c-c056-4dfc-8022-5bbaf07576a2,DELIAL Esprai protector infantil Sensitive Advanced FPS 50+,16.99,15.45,2026-06-30 11:25:01
+8130,2b1f6ea2-65e4-4640-adbe-8938ab6edb18,DELIAL Fluid solar antitaques amb Vitamina C FPS 50+,15.99,14.99,2026-06-30 11:25:01
+8131,5294b491-2d79-4932-ab09-5252f69e2e15,DELIAL Fluid solar facial super uv fp50,15.99,14.95,2026-06-30 11:25:01
+8132,c074d8cb-4aa8-4e3e-95a4-aebd0353e3a7,DELIAL Llet protectora hidratant Sensitive Advanced FPS 50+,14.95,15.95,2026-06-30 11:25:01
+8133,ead933ad-2a81-4ba8-9d17-472292464d36,SANEX Gel de dutxa Neutre Family Hidratant,4.79,4.49,2026-06-30 11:25:03
+8134,7b67d757-3583-4eaa-9eb6-fdd9d931e874,ARIEL Detergent líquid original de 40 dosis,14.95,13.99,2026-06-30 11:26:02
+8135,e4066349-5b48-4b4c-8ac6-2e2a975c9ecd,DIXAN Detergent líquid blau de 55 dosis,11.69,15.99,2026-06-30 11:26:02
+8136,0054d649-b7ab-4e94-88a2-db3cf079e7ed,LENOR Suavitzant concentrat Frescor Alpino de 50 dosis,5.99,4.99,2026-06-30 11:26:02
+8137,4404c5e2-b346-46e0-a5c5-1fb977b51d40,LENOR Suavitzant concentrat Frescor Flores Silvestres de 50 dosis,5.99,4.99,2026-06-30 11:26:02
+8138,c4944035-e5d8-48d5-956b-49daaf22dd7c,LENOR Suavitzant concentrat Frescor Tropical de 50 dosis,5.99,4.99,2026-06-30 11:26:02
+8139,fee5dea5-4af0-4cd1-9613-1ee8fb2f8293,MIMOSÍN Suavitzant concentrat bergamota de 50 dosis,3.79,2.49,2026-06-30 11:26:02
+8140,a927b03d-8488-42f3-90e1-959546cd81ba,MIMOSÍN Suavitzant concentrat roses silvestres de 50 dosis,3.79,2.49,2026-06-30 11:26:02
+8141,33903413-dd4f-4262-98ec-9d3483aaca00,VERNEL Suavitzant concentrat Cel Blau de 55 dosis,3.49,15.99,2026-06-30 11:26:02
+8142,fd031df7-039a-4b02-8dae-8ed5f4626fce,LENOR Perles de perfum roba Unstoppables,14.95,7.49,2026-06-30 11:26:03
+8143,e27aec4e-3d9d-41c9-8b28-0e09bcbf5ceb,NEUTREX Activador taques d'axil·les,6.79,5.95,2026-06-30 11:26:05
+8144,e3d1ecfb-26ac-4806-b5e6-4c1563f208db,FAIRY Sabó de rentar plats Ultra Poder,14.95,4.49,2026-06-30 11:26:08
+8145,034034d4-2148-4c2f-8f7a-541502f3ee34,SOMAT Detergent rentavaixelles llima-llimona de 40 dosis,7.15,15.99,2026-06-30 11:26:08
+8146,dc0483e8-2d89-48ec-9166-af80032f53d6,BREF WC Netejador WC Power Active Natura Pi,2.95,15.99,2026-06-30 11:26:13
+8147,4bd5aeab-13b9-4015-a3d7-0bdae958fa63,VILEDA Escombra antixoc 3action,5.69,5.99,2026-06-30 11:26:14
+8148,b6d7eb63-ad25-425f-903a-cb79683e9410,SPONTEX Baieta microfibra Collection XXL,2.99,3.99,2026-06-30 11:26:16
+8149,2b9afd54-f5a9-4b77-8b92-6ba75356c56b,SANICAT Sorra absorbent amb perfum d'espígol per gat,5.49,5.79,2026-06-30 11:28:54
+8150,29dfde91-ade0-4d8f-934a-4c0b329275cf,SANICAT Sorra aglomerant amb oxigen actiu per a gats,9.49,9.85,2026-06-30 11:28:54
+8151,da7efb4e-42d8-4a16-8277-183b3235441a,SMILEAT Potet cuit de vedella i pernil ecològic,2.19,2.69,2026-06-30 11:29:02
+8152,8076940e-3d07-4f67-bea2-ff21dce240c8,SMILEAT Potet de bacallà amb patates i verdures ecològic,2.19,2.69,2026-06-30 11:29:02
+8153,e4161254-ae1a-4b32-932c-e00971865e94,SMILEAT Potet de pit d'indiot amb verdures ecològic,2.19,2.69,2026-06-30 11:29:02
+8154,6ce8cc62-14bc-4d0d-a3ae-46a4bf7d2977,SMILEAT Potet de pollastre amb arròs ecològic,2.19,2.69,2026-06-30 11:29:02
+8155,2c992498-29a5-4399-a4a8-5c6fe561c75b,SMILEAT Potet de vedella amb verdures ecològic,2.15,2.65,2026-06-30 11:29:02
+8156,c9467277-2b7a-4067-91ff-039e35e9ca39,SMILEAT Potet de verdures amb lluç ecològic,2.19,2.69,2026-06-30 11:29:02
+8157,1b9b916a-6d2f-498b-80ad-00303d0c057e,SMIELAT Potet de carbassa i carbassó ecològic,1.89,2.35,2026-06-30 11:29:03
+8158,f1d533fe-708c-4c7c-ac2e-e85b8805ff0e,SCHÄR Pa de pessic de llimona sense gluten,4.09,3.99,2026-06-30 11:30:10
+8159,a5828dea-d782-455a-b14f-760d4c93b7f1,JUST LOADING Barreta energètica de cappuccino,1.35,1.33,2026-06-30 11:30:19
