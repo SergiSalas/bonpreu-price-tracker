@@ -8158,3 +8158,185 @@ id,product_id,name,old_price,new_price,change_date
 8157,1b9b916a-6d2f-498b-80ad-00303d0c057e,SMIELAT Potet de carbassa i carbassó ecològic,1.89,2.35,2026-06-30 11:29:03
 8158,f1d533fe-708c-4c7c-ac2e-e85b8805ff0e,SCHÄR Pa de pessic de llimona sense gluten,4.09,3.99,2026-06-30 11:30:10
 8159,a5828dea-d782-455a-b14f-760d4c93b7f1,JUST LOADING Barreta energètica de cappuccino,1.35,1.33,2026-06-30 11:30:19
+8160,6f8f5506-ba1d-4d05-a896-b489dd2ad886,Llimona 1 u.,0.59,0.55,2026-07-01 11:33:35
+8161,42a05b2b-d476-46eb-992b-b8ed91206c7b,LA COLLITA Raïm blanc sense llavors en safata de 500 g,2.85,2.49,2026-07-01 11:33:36
+8162,be1cc045-e3e3-48f4-bd21-e2c1446e210b,LA COLLITA Cireres  en safata de 500 g,2.99,2.75,2026-07-01 11:33:37
+8163,511608ef-c246-4a55-be3f-394685230c1e,LA COLLITA Raïm vermell sense llavors en safata de 500 g,2.89,2.49,2026-07-01 11:33:37
+8164,9b81c4dd-4fb0-4b62-b60b-4a9eb6207946,Préssec groc 1 u.,0.88,0.86,2026-07-01 11:33:37
+8165,b6737966-e517-48fa-969c-3cee4ac33f55,Síndria sense llavors 1 u.,5.95,4.49,2026-07-01 11:33:37
+8166,25805d40-2fda-4f96-95de-753b7a498922,Llimona 1 u.,0.88,0.86,2026-07-01 11:33:39
+8167,4acd6af3-4253-4377-b604-f5aa20928f4a,Préssec d'aigua 1 u.,0.76,0.72,2026-07-01 11:33:39
+8168,6b4fe00e-fbb5-4f19-a913-1fab058853e5,LA COLLITA Raïm blanc sense llavors en bossa de 500 g,2.85,2.49,2026-07-01 11:33:41
+8169,3079010e-06cb-4647-8cb5-190219dda77a,Síndria sense llavors 1 u.,5.49,4.85,2026-07-01 11:33:41
+8170,a28830bd-6093-44ca-a0b2-61857f1e7da0,LA COLLITA Raïm vermell sense llavors en bossa de 500 g,2.89,2.49,2026-07-01 11:33:42
+8171,095445e3-9df7-4043-92f8-0d20a32e9fd4,LA COLLITA Alls porros Km0,2.29,2.39,2026-07-01 11:33:43
+8172,a754e352-b2e5-4f5b-b12d-a093e6d14d55,BONPREU Espatlla de gla 100% ibèrica,8.79,9.19,2026-07-01 11:33:46
+8173,9471160c-bce3-4de3-8bb1-b0ba056ba5fb,BONPREU Espatlla d'enceball de camp ibèrica 50%,6.75,7.25,2026-07-01 11:33:47
+8174,bd46f740-2d51-41fb-bab6-bb037633d009,BONPREU Espatlla de gla ibèrica 50%,7.65,7.99,2026-07-01 11:33:47
+8175,acb5ea50-3a14-4645-90ba-c0be1a6b4301,Calamar fresc,16.5,15.0,2026-07-01 11:34:22
+8176,b7a3a575-c0d0-44cc-80b9-c124b4b789b3,Llenguado,4.95,4.5,2026-07-01 11:34:22
+8177,410a304b-8c41-4a14-b3d1-68e90533586a,Llenguado gros,10.8,9.99,2026-07-01 11:34:23
+8178,1c3b0e69-4a29-49c5-a9ac-68ee9cdf063c,CREAZIONI GIULIA Foccacia Genovese amb tomàquets,2.49,2.59,2026-07-01 11:34:35
+8179,176af9e4-c2bd-461c-ba5d-6d131e1bd556,GIULIA Focaccia amb ceba,2.49,2.59,2026-07-01 11:34:35
+8180,06dd81de-6dff-43ed-a21b-42597d80a95a,BONPREU Banderilles d'olives amb bitxo i anxoves,2.85,2.95,2026-07-01 11:34:36
+8181,f7db0cd6-a69b-486c-b24f-e6f5fbfff1a9,BONPREU Cóctel de fruita seca crua i panses ecològic,2.85,3.09,2026-07-01 11:34:55
+8182,c92022ec-feb6-4923-b05a-47e3c2a00621,BONPREU Panses sultanes ecològiques,1.99,2.15,2026-07-01 11:34:55
+8183,29f5d6c5-bc8f-43db-b479-0aefcdca00ff,BONPREU Cacauet cru ecològic,1.25,1.35,2026-07-01 11:34:58
+8184,2d481d96-a255-483f-9882-1f6db32ce346,BONPREU Ametlles fregides i salades sense pell Km0 ecològiques,3.25,3.39,2026-07-01 11:34:59
+8185,28283d27-e6cb-439f-aef1-baa90f685a56,MARCILLA Cafè molt natural Gran Aroma,4.79,4.45,2026-07-01 11:35:04
+8186,243ff245-e74a-4c45-9fe1-31571abd1d3a,L'OR Càpsules de cafè descafeïnat Ristretto,4.15,3.99,2026-07-01 11:35:05
+8187,b262e263-c990-4bd0-ac70-b32c18949d47,MARCILLA Cafè en gra natural,11.95,9.99,2026-07-01 11:35:05
+8188,c1ac2d0e-3361-44ed-8f6c-75954650695d,MARCILLA Cafè molt natural Crème Express,5.45,4.95,2026-07-01 11:35:05
+8189,87406a3e-9c3c-44ff-850f-c7ff73df516e,MARCILLA Cafè molt natural Gran Aroma,8.65,8.49,2026-07-01 11:35:05
+8190,92f21001-fb57-45f4-890b-a75f43599ea3,L'OR Càpsules de cafè Ristretto,4.15,3.99,2026-07-01 11:35:06
+8191,b95d2a9c-d896-425a-84e4-0632ed4ddc8e,MARCILLA Cafè molt Gran Aroma mescla,8.65,8.49,2026-07-01 11:35:06
+8192,3858dd58-9096-4028-b6d9-11b9f9a785d4,MARCILLA Cafè molt Gran Aroma mescla,4.79,4.45,2026-07-01 11:35:06
+8193,80ca7cf0-c1d2-4d15-bea9-c024d8680a99,MARCILLA Cafè molt descafeïnat barrejat Crème Express,5.45,4.95,2026-07-01 11:35:06
+8194,21c2b4b6-c59c-4faf-8584-adc4a2e02a7b,MARCILLA Cafè molt mescla Crème Express,5.45,4.95,2026-07-01 11:35:06
+8195,3901658f-28c0-4e28-9c58-c22f24a41e24,MARCILLA Cafè molt natural descafeïnat Gran Aroma,4.79,4.45,2026-07-01 11:35:06
+8196,6bb08745-1d9c-4c8b-a9a1-c49408c550b0,MARCILLA Càpsules de cafè Intens,14.89,14.49,2026-07-01 11:35:06
+8197,147e7d43-844e-4bdb-8d93-80def224efbe,L'OR Cafè en gra natural Intensitat 9,15.95,14.99,2026-07-01 11:35:07
+8198,6b2cb026-a1b5-4afc-a270-925287022e6d,L'OR Cafè en gra natural intensitat 8,15.95,14.99,2026-07-01 11:35:07
+8199,98263d72-9f9a-43f6-996d-0ae2f65a47b1,L'OR Càpsules de cafè Colòmbia,4.15,3.99,2026-07-01 11:35:07
+8200,3110aa0e-9feb-4624-b97d-f72c58b3a96e,L'OR Càpsules de cafè Forza,4.15,3.99,2026-07-01 11:35:07
+8201,0344d9af-0ef9-4784-8327-8e7f1db293da,MARCILLA Cafè en gra mescla Gran Aroma,11.95,9.99,2026-07-01 11:35:07
+8202,80c3efb1-2dfd-4948-8066-3bc3d51377b5,MARCILLA Càpsules de cafè Ristretto,14.89,14.49,2026-07-01 11:35:07
+8203,d1e62d27-1046-4b6f-84a1-8da2b42a73e9,MARCILLA Cafè molt descafeïnat Gran Aroma mescla,4.79,4.45,2026-07-01 11:35:08
+8204,360d9018-b732-4cf3-b1a4-3fa167ae5d3c,L'OR Càpsules de cafè Onyx,4.15,3.99,2026-07-01 11:35:09
+8205,a1e45543-4f30-44b0-968c-8d6a245e2504,MARCILLA Cafè molt descafeïnat Gran Aroma mescla,8.35,8.49,2026-07-01 11:35:09
+8206,d5090e24-4cd2-442b-9db6-d3ac8957793e,MARCILLA Cafè en gra natural,22.95,19.49,2026-07-01 11:35:10
+8207,249268ed-a693-4f98-aec7-1d77906315f8,FITNESS Cereals integrals amb xocolata,4.25,3.95,2026-07-01 11:35:17
+8208,77da691f-3367-4b27-a175-1dfc2541317d,NUTELLA Bastonets de pa amb crema d'avellanes,1.79,1.89,2026-07-01 11:35:19
+8209,29418f63-3379-479b-9b4c-f32fed6b2d41,KINDER JOY Ous de xocolata amb llet,4.19,4.29,2026-07-01 11:35:25
+8210,f0f1cb4d-234c-40b3-89ab-a0e71440f4d4,BALLARÀ Pa de pessic de iogurt amb xocolata Km0,3.49,3.65,2026-07-01 11:35:39
+8211,ef2b5462-5a73-4ce0-ace4-c8e75f17189c,BALLARÀ Pa de pessic de taronja i xocolata,3.49,3.65,2026-07-01 11:35:40
+8212,d518a031-3e96-4453-a8ac-6b7eab9b7dd4,BALLARÀ Brownie,3.49,3.65,2026-07-01 11:35:41
+8213,36d8f54b-d9db-4f17-9a2f-0ac99fa1bf84,BALLARÀ Pa de pessic amb iogurt i gust de llimona Km0,3.49,3.65,2026-07-01 11:35:41
+8214,0ef1df7a-ec20-4072-96ed-9f60d332344e,BALLARÀ Pa de pessic amb fruita confitada,3.49,3.65,2026-07-01 11:35:42
+8215,42310a39-f8a9-4c64-9b71-e42898ece4b3,BONPREU Seitons marinats en vinagre i all i julivert,1.95,1.99,2026-07-01 11:35:55
+8216,345bc219-1618-45ec-877b-c78534df71f3,BONPREU Olives farcides d'anxova baixes en sal,1.4,1.35,2026-07-01 11:35:56
+8217,21785a83-4ef9-4c99-9165-ca99ba13b468,BONPREU Olives amb pinyol Kalamata,2.85,3.39,2026-07-01 11:35:57
+8218,3a0f8932-bd68-4ae6-bc28-00806ece03ef,DANI Escopinyes al natural,4.75,5.25,2026-07-01 11:35:57
+8219,40673baa-f6eb-4243-9799-2e22bea12259,DANI Cloïsses al natural,1.35,1.9,2026-07-01 11:35:58
+8220,caaea93a-a26e-4b41-b7ab-4c076d7ea31c,BONPREU Olives mançanenca selecta amb pinyol,1.95,1.69,2026-07-01 11:35:59
+8221,89350da9-b1b4-4f53-96b9-752d0ef59e27,BONPREU Olives negres amb pinyol,1.25,1.15,2026-07-01 11:36:00
+8222,e204bddc-cee8-4d78-b629-1bbe3edcc80b,BONPREU Olives mançanenca amb sabor d'anxova,2.78,2.99,2026-07-01 11:36:01
+8223,781b893c-3275-4b9a-afd1-0bf0f30bc6dd,IFA Olives llepadits,2.99,2.95,2026-07-01 11:36:03
+8224,466e91a7-3b95-47f8-850e-9b12f4e90f3a,IFA Salsa còctel,1.15,1.19,2026-07-01 11:36:19
+8225,31377b70-75f1-4eec-a796-e7a7f1ed2539,IFA Salsa iogurt,1.2,1.19,2026-07-01 11:36:19
+8226,39f8c4bc-0a26-4224-89e4-c293d43295af,IFA Salsa lleugera,1.15,1.25,2026-07-01 11:36:19
+8227,7573eecb-1d8d-4a22-8f6e-e0e0b2d7599d,IFA Salsa cèsar,1.35,1.39,2026-07-01 11:36:20
+8228,c23b74a2-811f-4e4b-b2c4-1c05dc8a7a12,BONPREU Ametlla laminada,2.15,2.3,2026-07-01 11:36:24
+8229,820b82f3-f69f-4ccb-9ee3-133cd0c490df,VIVEPLUS Lecitina de soja,4.69,6.25,2026-07-01 11:36:29
+8230,53ec347e-34d0-477a-a4ad-44dd0c6009c1,KINDER HAPPY HIPPO Galetes farcides amb avellanes,3.69,3.79,2026-07-01 11:36:35
+8231,0fc8bd50-8fd7-49c3-9de4-6fbad89efb3f,NESTEA Refresc de te amb llimona en ampolla,2.05,2.09,2026-07-01 11:36:44
+8232,69716d62-d731-4faf-b7af-907ad3c6640c,NESTEA Refresc de te verd amb maracujà en ampolla,2.05,2.09,2026-07-01 11:36:44
+8233,3d3ca053-c0fd-41e9-ad98-c8a41f0a0fd9,NESTEA Refresc de te a la llimona sense sucre en ampolla,2.05,2.09,2026-07-01 11:36:45
+8234,8b1b7f09-db54-4686-81f0-bcba7fadd73f,NESTEA Refresc de te al préssec en ampolla,2.05,2.09,2026-07-01 11:36:45
+8235,f82c18c1-213d-498e-bd77-668439e822f5,NESTEA Refresc de te amb fruits vermells en ampolla,2.05,2.09,2026-07-01 11:36:45
+8236,282c61c1-62e8-435d-8d27-6d5184578b3b,NESTEA Refresc de te amb llimona en ampolla,1.52,1.54,2026-07-01 11:36:45
+8237,0f345aff-e830-49aa-b844-ab1201c14337,NESTEA Refresc de te verd amb maracujà en ampolla,1.52,1.54,2026-07-01 11:36:48
+8238,51c9d281-b8e4-478a-8b84-36471db176c7,COMPLOT Cervesa Complot IPA en llauna,1.38,1.39,2026-07-01 11:36:54
+8239,c92bfcae-24fe-4154-badf-14bd37ac9eba,DAURA Cervesa apta per celíacs en llauna,0.91,0.92,2026-07-01 11:36:54
+8240,b38b24df-0d65-472a-ad76-527a51b16299,ESTRELLA DAMM Cervesa especial 6 x 25 cl en ampolla,4.21,4.26,2026-07-01 11:36:54
+8241,2ccca806-29c6-4504-aafb-72c0c311b397,ESTRELLA DAMM Cervesa especial en llauna,0.88,0.89,2026-07-01 11:36:54
+8242,d806e344-72c0-470f-87b7-fbd458748db8,FREE DAMM Cervesa sense alcohol 6 x 25 cl en ampolla,3.78,3.89,2026-07-01 11:36:54
+8243,29ff0641-77e3-42c9-a06e-3f78152dbdae,FREE DAMM Cervesa sense alcohol amb llimona en llauna,0.78,0.8,2026-07-01 11:36:54
+8244,774a2ef6-3950-4b62-81a8-e2c61ac1685e,FREE DAMM Cervesa sense alcohol en llauna,0.78,0.8,2026-07-01 11:36:54
+8245,d6b21b3b-85b4-46db-9597-803663ccc3e4,FREE DAMM Cervesa sense alcohol gust de llimona 6 x 25 cl en ampolla,3.78,3.89,2026-07-01 11:36:54
+8246,f1fda00c-fd85-4f83-af18-1f4644a26156,FREE DAMM Cervesa torrada sense alcohol 6 x 25 cl en ampolla,3.78,3.89,2026-07-01 11:36:54
+8247,67328bac-57bf-4162-9a25-908e3a5d49ff,FREE DAMM Cervesa torrada sense alcohol en llauna,0.78,0.8,2026-07-01 11:36:54
+8248,dec67622-2654-4ef9-b7a8-bc851618efa3,TURIA Cervesa torrada,4.05,4.09,2026-07-01 11:36:54
+8249,7d489716-925e-41cd-8510-aba3d0a220e7,TURIA Cervesa torrada en llauna,0.86,0.87,2026-07-01 11:36:54
+8250,373c491a-0e91-4d33-942a-087ed0f7f696,XIBECA Cervesa suau en ampolla,1.71,1.73,2026-07-01 11:36:54
+8251,ab1fae54-0262-435b-a93e-106f7c42594c,XIBECA Cervesa suau en llauna,0.71,0.72,2026-07-01 11:36:54
+8252,09b8acd1-0cee-4d80-9335-8b42d39971a0,DAMM Cervesa reserva Bohemia en ampolla,1.39,1.4,2026-07-01 11:36:55
+8253,e8297220-c98a-456d-a032-7b3b65fb1460,DAMM LEMON Cervesa amb llimona 6 x 250 ml en ampolla,4.08,4.12,2026-07-01 11:36:55
+8254,57f0c16b-ae1c-4add-a84e-b53acf4bacc0,ESTRELLA DAMM Cervesa 24 x 25 cl en ampolla,16.32,16.56,2026-07-01 11:36:55
+8255,3b750a08-9021-4582-a846-0ac48c5641ea,ESTRELLA DAMM Cervesa especial en llauna,1.33,1.35,2026-07-01 11:36:55
+8256,6a1f570f-ec44-494a-9064-79e2fbca90d4,SKOL Cervesa 12 x 33 cl en llauna,4.78,4.86,2026-07-01 11:36:55
+8257,457362a7-7520-45c6-84e0-d90c49bef049,SKOL Cervesa gust de llimona,0.45,0.46,2026-07-01 11:36:55
+8258,0fb93f44-f134-447e-acc9-a8d760fe5555,VICTORIA MÁLAGA Cervesa en llauna,0.75,0.76,2026-07-01 11:36:55
+8259,f8c61862-392f-4f33-b5b3-03761e4ba4a2,VOLL DAMM Cervesa doble malta 6x25 cl ampolla,5.52,5.58,2026-07-01 11:36:55
+8260,c618ba70-aa7b-4fbe-b785-2a42b6ec2d69,BOCK DAMM Cervesa negra Bock en llauna,1.05,1.06,2026-07-01 11:36:56
+8261,07b61ef3-f671-4e13-9c92-e2e7f9d372b4,COMPLOT Cervesa Complot IPA en ampolla,1.68,1.69,2026-07-01 11:36:56
+8262,f023adcc-d943-41e0-892b-3186ebc6aaf8,COMPLOT Cervesa IPA 6 x 33 cl en ampolla,10.08,10.14,2026-07-01 11:36:56
+8263,d7efe069-9526-4407-b3be-18fdabad03ee,ESTRELLA DAMM Cervesa 6x33 cl en ampolla,7.62,7.68,2026-07-01 11:36:56
+8264,60ebcab2-56f4-4d5b-95fd-a36c86416954,ESTRELLA DAMM Cervesa en ampolla,1.27,1.28,2026-07-01 11:36:56
+8265,06cc4133-a455-4da7-9738-41686a005613,FREE DAMM Cervesa sense alcohol 24x33 cl en llauna,18.72,19.2,2026-07-01 11:36:56
+8266,8cbf7a5a-e04a-43da-961f-a88b4d3923c3,TURIA Cervesa torrada 24x33cl. en llauna,20.64,20.88,2026-07-01 11:36:56
+8267,34f04c7e-b057-43dd-9dc8-d40cdaab6bcd,VOLL DAMM Cervesa 6x33 cl en ampolla,8.22,8.28,2026-07-01 11:36:56
+8268,0e427db5-5bf9-4c3e-bb9e-513559f7a1d5,VOLL DAMM Cervesa doble malta en ampolla,1.37,1.38,2026-07-01 11:36:56
+8269,9bd4baba-0c43-441d-8fc0-f4f32679b6fd,VOLL DAMM Cervesa doble malta en llauna,1.49,1.48,2026-07-01 11:36:56
+8270,ed9c5cfe-aea8-45a4-9aa5-af6dee7e2efa,DAMM Cervesa Inedit en ampolla,3.79,4.2,2026-07-01 11:36:57
+8271,a6f652fd-aeeb-41b3-aded-6690ef1d36b2,FREE DAMM Cervesa sense alcohol amb llimona 24x33cl en llauna,18.72,19.2,2026-07-01 11:36:57
+8272,e858fd62-6d84-4aa0-9ac7-7cc7a28d72df,FREE DAMM Cervesa torrada sense alcohol 24x33 cl en llauna,18.72,19.2,2026-07-01 11:36:57
+8273,3b2f7247-b666-4996-a735-8ff772ee7654,ANNA CODORNÍU Caixa de cava Brut guarda,58.5,59.7,2026-07-01 11:37:19
+8274,075fda2b-fd81-4fa8-85e1-90be1d140054,ANNA CODORNÍU Cava Brut guarda,9.75,9.95,2026-07-01 11:37:20
+8275,395e5fb7-e0f9-4a0e-83e7-eda73b51705b,JOHNNIE WALKER Whisky escocès Reb Label,16.49,14.45,2026-07-01 11:37:24
+8276,9a5b3ea8-941a-4f13-82a8-170697c19000,PERUCCHI Vermut negre,14.95,14.89,2026-07-01 11:37:27
+8277,8bcec18b-e97f-418f-b190-aed076474e66,BONPREU Filets de lluç Argentí sense pell,4.15,3.99,2026-07-01 11:37:32
+8278,8f5a1d9c-2a7c-4d94-a126-38cfeff53dba,BONPREU Espinacs,1.0,0.95,2026-07-01 11:37:35
+8279,3bbbf119-7d66-483d-b51a-c035882863f4,BONPREU Mongetes tendres planes,1.35,1.3,2026-07-01 11:37:35
+8280,1dbaa0e5-65d4-407a-ab0d-11dc5b7127ce,BONPREU Pèsols fins,1.45,1.39,2026-07-01 11:37:35
+8281,ce20a690-f3cf-40d5-bc7b-7c26805f9006,BONPREU Coliflor,1.6,1.59,2026-07-01 11:37:36
+8282,c6450f3f-3388-44c9-a8fd-27c27e13b846,BONPREU Espinacs en fulles,1.67,1.59,2026-07-01 11:37:36
+8283,c4a5ef92-831a-4cdf-9a1c-3c956b07f480,DANONE Arròs amb llet,1.99,2.09,2026-07-01 11:38:04
+8284,d0e95246-132c-4388-ac99-23a5040cf2be,ACTIVIA Iogurt natural,2.69,2.89,2026-07-01 11:38:11
+8285,69edc879-247f-4d5e-8933-3fbb763d7971,ACTIVIA Iogurt natural edulcorat 0%,2.69,2.89,2026-07-01 11:38:11
+8286,8847ad22-0526-4f26-a30d-d2c3a1362057,VITALINEA Iogurt desnatat de maduixa,2.29,2.49,2026-07-01 11:38:11
+8287,9c3c42c2-a598-485e-83ea-c9ba19c244e8,VITIS Gel dentífric junior + 6 anys,4.65,4.59,2026-07-01 11:38:58
+8288,057deb3e-742e-4093-b5ca-471c44d03b03,INTERPROX Raspall interdental cònic plus 1.3,5.99,6.25,2026-07-01 11:38:59
+8289,4933c9b7-87d4-487b-8b84-ef867d7ebcd7,VITIS Crema dental aloe vera amb gust de poma,10.95,11.99,2026-07-01 11:38:59
+8290,9d225736-a951-4724-9dcc-407296ec913b,VITIS Raspall de dents mig,4.99,4.89,2026-07-01 11:38:59
+8291,7db0f754-160d-4c89-b9f3-f41fe302d5f1,VITIS Raspall de dents mig,4.99,4.89,2026-07-01 11:38:59
+8292,ee615aad-7336-462a-8f09-eb1a8208cfd9,VITIS Raspalls de dents mitjà i dentifrici,8.49,7.89,2026-07-01 11:38:59
+8293,008d15d7-4d08-4c5d-8066-822206b757b1,DESENSIN Col.lutori dents sensibles i anticaries plus flúor,10.75,11.09,2026-07-01 11:39:00
+8294,5ce6b4e0-b067-468f-9011-30d93137857e,INTERPROX Raspall interdental micro 0.9,5.99,6.25,2026-07-01 11:39:00
+8295,cdc8ec5f-1aea-4ab6-91df-9f1ce942d682,INTERPROX Raspall interdental micro plus 0.9,5.99,6.25,2026-07-01 11:39:00
+8296,56e1d84e-0f5d-40d9-85b3-fcce6a50376d,INTERPROX Raspall interdental mini plus 1.1,5.99,6.25,2026-07-01 11:39:00
+8297,0e60a12c-3275-4c5e-a07b-9bb722c33cce,INTERPROX Raspall interdental nano plus 0.6,5.99,6.25,2026-07-01 11:39:00
+8298,cf78ab77-af57-4819-a8ce-85c8d6c77f7b,INTERPROX Raspall interdentals nano 0.6,10.29,10.69,2026-07-01 11:39:00
+8299,4e7858b8-7d1b-4cd1-a4f5-f01d4198e975,PERIO-AID Col·lutori tractament clorhexidina 0.12%,9.59,9.89,2026-07-01 11:39:00
+8300,aee5b22c-6b72-4f45-b2ae-61e885f4a19e,VITIS Col·lutori aloe vera,14.19,14.65,2026-07-01 11:39:00
+8301,29590737-77b6-45c4-8cae-a1661bc34eba,VITIS Col·lutori genives,17.25,17.35,2026-07-01 11:39:00
+8302,4945628c-6df3-473b-8628-9036c0e851a9,VITIS Col·lutorio junior,9.1,9.39,2026-07-01 11:39:00
+8303,6bafc1dc-25da-48bd-ada0-84f807f2fe6d,VITIS Pasta dentífrica per ortodòncia,8.25,8.49,2026-07-01 11:39:00
+8304,22c9a455-2f1e-4d76-bf78-ae6acf701822,VITIS Raspall de dents dur,4.99,4.89,2026-07-01 11:39:00
+8305,0c5bf786-df60-4aa2-831f-63c466d0fb5d,VITIS Raspall de dents per ortodòncia,6.25,6.45,2026-07-01 11:39:00
+8306,4b326af9-7e1e-43ce-aea9-906ac5282958,VITIS Raspall de dents ultrasuau,6.39,6.59,2026-07-01 11:39:00
+8307,55a65030-1838-4277-b87c-19a4c8850872,VITIS Raspall dental suau,4.99,4.89,2026-07-01 11:39:00
+8308,d8600e73-3d29-46d4-8e21-112c57e23120,VITIS Raspalls de dents suaus i dentifrici,8.49,7.89,2026-07-01 11:39:00
+8309,f8954edc-052d-431e-a826-9b4ea0246871,DESENSIN Pasta dentífrica plus flúor,6.89,7.19,2026-07-01 11:39:01
+8310,346d8d32-5920-4e82-8575-5849573a94ef,VITIS Col·lutori per ortodòncia,11.95,12.35,2026-07-01 11:39:01
+8311,42acc877-4a97-4615-99a5-7cfa336a9dc7,VITIS Pasta dentífrica genives,6.39,6.59,2026-07-01 11:39:01
+8312,db23efeb-fe04-4967-b907-cb9c54d1b399,INTERPROX Raspall interdental mini 1.1,5.99,6.25,2026-07-01 11:39:02
+8313,ddb4c044-4b3c-443d-b243-5cdebd42acf8,INTERPROX Raspall interdental super micro 0.7,5.99,6.25,2026-07-01 11:39:02
+8314,c5d9618e-c9f1-477f-84c8-cd3d56051717,PERIO-AID Col.lutori diaria clorhexidina 0.05%,9.59,9.89,2026-07-01 11:39:02
+8315,8874c984-6f4e-4383-90a5-243ce46b10db,VITIS Raspall de dents access suau,4.99,4.89,2026-07-01 11:39:02
+8316,4eba25a0-cae2-4def-825c-d04ca2645e58,PATTEX Adhesiu acrílic de muntatge,6.55,6.89,2026-07-01 11:40:09
+8317,f2f94e5b-1b0e-4cd2-acb2-1f326d16516d,RUBSON Deshumidificador Aero 360º,14.55,15.99,2026-07-01 11:40:11
+8318,9fc91dc9-deae-4b3f-b6a8-0f3a1e4be8a3,RUBSON Recanvi per a deshumidificador Aero 360º,6.55,7.25,2026-07-01 11:40:12
+8319,c638e7f0-4119-49ec-a6a6-2c554bf1eb9c,PATTEX Massilla adhesiva arreglatot,10.55,10.99,2026-07-01 11:40:21
+8320,7e5be1ee-4d10-47de-ae3f-84664b93151b,LOCTITE Adhesiu Super Glue-3 original,5.65,5.99,2026-07-01 11:42:52
+8321,ab4fee62-01c1-47e7-8bee-cc867411dd3b,LOCTITE Adhesiu amb pinzell Super Glue-3,7.95,8.45,2026-07-01 11:42:52
+8322,177e4f44-c8fd-4ded-9fd2-1bfee15de0ff,PATTEX Cola de contacte universal,3.55,3.85,2026-07-01 11:42:52
+8323,6eaed76a-c442-40d2-a125-d7c85a9b486d,LOCTITE Adhesiu precís Super Glue-3,7.25,7.75,2026-07-01 11:42:53
+8324,a7487db4-62be-4352-8e3d-281f954306aa,LOCTITE Adhesiu super glue-3 Power gel,6.25,6.65,2026-07-01 11:42:53
+8325,fdf1ba0c-1e73-418d-adda-fb6e01074d8c,PATTEX Cinta adhesiva de doble cara,7.95,8.45,2026-07-01 11:42:53
+8326,35dfc2c2-11a3-4a3a-a50b-686d98d65d8d,PATTEX Cinta multi usos resistent,5.95,6.35,2026-07-01 11:42:53
+8327,d2f57f84-0d42-4d36-b9dd-3eceb1df9d6f,PATTEX Cola de contacte universal,3.55,3.85,2026-07-01 11:42:53
+8328,8958b36b-7b8a-4bc4-9074-d0b3d89eb97a,PATTEX Cola de contacte universal,8.25,8.89,2026-07-01 11:42:55
+8329,93aee2bc-057f-4328-96d6-8caf0d89ec7b,PATTEX Tires de cinta adhesiva de doble cara,7.45,7.95,2026-07-01 11:42:55
+8330,92b6fb4b-2783-4c2a-b3a7-4f7ad53499c0,PATTEX Adhesiu acrílic de muntatge,10.55,10.99,2026-07-01 11:42:56
+8331,5913400c-f24c-4e68-9dce-a6e40ce14cf5,PATTEX Adhesiu de montatge reactiu,5.29,6.35,2026-07-01 11:42:56
+8332,5089dd2f-b9e1-4950-bfe8-8fa00514c36c,PATTEX Adhesiu reparador de plàstics,8.25,8.89,2026-07-01 11:42:56
+8333,c291e261-8bd0-42aa-9e69-ef632e9f66e9,PATTEX Adhesiu de muntatge reactiu,7.55,8.25,2026-07-01 11:42:57
+8334,579ce551-dafc-4a4f-8449-6f4dc0584e2a,PATTEX Adhesiu de contacte per a calçat,2.95,3.19,2026-07-01 11:42:58
+8335,4c2e703b-6dc7-4df3-9615-a50fcebd361a,PATTEX Adhesiu especial per a tèxtil,2.95,3.19,2026-07-01 11:42:58
+8336,3c4ed0af-9b09-4b83-a83f-6e24801a5820,PATTEX Cola de contacte universal,6.45,6.95,2026-07-01 11:42:58
+8337,f6dfa38a-acac-40d1-9d91-4b4af44a6e44,PATTEX Soldadura metàl·lica en fred,8.25,8.89,2026-07-01 11:42:58
+8338,f146f912-c13f-4b1b-a0f3-edeac9cd73a9,PATTEX Adhesiu Extreme,10.55,10.99,2026-07-01 11:42:59
+8339,f910068f-0740-497a-b123-c66ed734246c,PATTEX Adhesiu de muntatge reactiu transparent,7.55,8.25,2026-07-01 11:42:59
+8340,b5c16a00-483e-4c40-8f7e-5a8a189d86fe,LOCTITE Adhesiu 60 segons,10.95,11.65,2026-07-01 11:43:00
+8341,2c9d716d-c964-4bf0-8f42-543753fd75e5,PATTEX Adhesiu universal multiusos Extreme Repair,10.55,10.99,2026-07-01 11:43:00
