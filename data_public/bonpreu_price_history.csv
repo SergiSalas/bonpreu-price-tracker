@@ -9800,3 +9800,37 @@ id,product_id,name,old_price,new_price,change_date
 9799,c436118d-907e-478b-9a95-aa13b14ecb8f,LA COLLITA Gírgoles Pleorotus en safata de 250 g,1.99,2.09,2026-08-24 20:37:14
 9800,6c448e66-f300-4e60-9d2f-527f63591dd8,LA COLLITA Mongeta rodona Km0 en safata de 350 g,2.99,3.19,2026-08-24 20:37:14
 9801,2b7ecbdc-3575-4626-8ee8-eb5f75b8a5ab,LA COLLITA Patates vermelles en bossa de 2 kg,3.79,3.39,2026-08-24 20:37:14
+9802,63f3a57a-f836-46c1-8b64-95a6be73e547,BOLLO Meló tallat,2.25,2.09,2026-08-25 08:33:14
+9803,36792cc9-abef-4815-821a-feab4f317255,FUENCAMPO Ceba dolça 1 u.,0.83,2.79,2026-08-25 08:33:14
+9804,806ccd0e-8395-4cab-b691-b1ed1f1d7ced,LA COLLITA Pinya madurada 1 u.,3.78,1.99,2026-08-25 08:33:14
+9805,a28830bd-6093-44ca-a0b2-61857f1e7da0,LA COLLITA Raïm vermell sense llavors en bossa de 500 g,2.29,2.05,2026-08-25 08:33:14
+9806,388054e1-58b5-4cb7-8947-496aa4845a8a,Meló Bollo 1 u.,1.95,1.79,2026-08-25 08:33:14
+9807,eb93987a-11b2-4295-8af9-c7c52628bb2d,Nectarina  1 u.,0.46,2.49,2026-08-25 08:33:14
+9808,ad979d72-ee75-4318-ad51-c9ee83cc38d0,Patata 1 u.,0.7,1.89,2026-08-25 08:33:14
+9809,eff42e3b-c8f9-4456-8f1d-94d9934bf332,Pruna groga 1 u.,0.45,3.79,2026-08-25 08:33:14
+9810,3b8dcc0f-dbe0-4e02-a60c-438a71fc9906,ZESPRI Kiwi groc 1 u.,0.98,6.99,2026-08-25 08:33:14
+9811,15c2dc4e-cf1f-4733-9a5e-c7f588366b46,LA COLLITA Amanida variada,4.29,1.09,2026-08-25 08:33:15
+9812,7dd1518a-55a2-44e0-8f35-a9eace27d55e,Cogombre  1 u.,1.49,0.45,2026-08-25 08:33:16
+9813,feff33be-ac85-419b-92f8-271e676e4c3b,LA COLLITA Mores en terrina de 125 g,1.99,2.39,2026-08-25 08:33:16
+9814,0b1d6c04-00cd-4ccf-9300-261a1a07fb6c,BICENTURY Batut substitutiu de xocolata,7.75,7.68,2026-08-25 08:38:17
+9815,71a307f2-ef89-4041-a9c9-41cfb84edc4c,CACAOLAT Batut de cacau en ampolla,2.6,6.95,2026-08-25 08:38:17
+9816,ced69b77-0b28-4f8d-b3b0-f1c136391b6e,ACTIVIA Quefir natural,1.99,3.19,2026-08-25 08:48:19
+9817,8dd4282b-a00c-410f-8ae3-f201e7336d32,ARLUY Galetes mini de cereals amb xocolata,2.99,3.95,2026-08-25 08:48:19
+9818,f9846f4d-b131-44e8-bc24-13a7c91bbf70,BONPREU Tomàquet triturat extra,0.99,7.99,2026-08-25 08:48:19
+9819,7db89776-de35-4db9-852b-ac329e37c71b,CARLIT Trinxat de la Cerdanya,4.99,5.95,2026-08-25 08:48:19
+9820,f8570dcd-2ef0-43f6-a721-e73f8c6ff3da,DANONINO Iogurt de maduixa,1.69,3.19,2026-08-25 08:48:19
+9821,b38b24df-0d65-472a-ad76-527a51b16299,ESTRELLA DAMM Cervesa especial 6 x 25 cl en ampolla,4.26,6.95,2026-08-25 08:48:19
+9822,27b9295b-646f-4940-9cb6-4d3e4cbda5c8,GALLO Espaguetis Nº3,1.0,7.99,2026-08-25 08:48:19
+9823,2b9b5b51-735e-4d7d-b890-16faf2461188,GAROFALO Mezzelune farcit de bolets i tòfona,3.25,2.95,2026-08-25 08:48:19
+9824,a8c3054a-521d-424d-beb9-08a8d957702b,GAROFALO Mezzelune farcit de pernil i parmesà,3.25,2.95,2026-08-25 08:48:19
+9825,9cae454c-823e-4a01-afa0-e37aeb4a4589,GAROFALO Mezzelune farcit de vedella i merlot,3.25,2.95,2026-08-25 08:48:19
+9826,e93363f3-a66a-4be5-9244-a50a26528ac4,GAROFALO Ravioli farcit de carbassa,3.25,2.95,2026-08-25 08:48:19
+9827,4d99165d-989e-48dc-bd2a-9caf21e0fd97,NESTLÉ Chocapic cereals integrals amb xocolata,4.59,6.95,2026-08-25 08:48:19
+9828,afe3ef14-b627-4e9b-8da0-00bb3bd2e672,NOMEN Arròs rodó,1.89,6.95,2026-08-25 08:48:19
+9829,ed2174f7-6193-45e1-9f59-e4f590af81db,OREO Galetes de cacau farcides de crema,1.7,6.95,2026-08-25 08:48:19
+9830,3c639f85-e578-4377-a999-b372de3cb995,PASQUIER Pa de llet,2.99,6.95,2026-08-25 08:48:19
+9831,eed9c830-8a64-425e-a59e-525c02649fc4,SOLIS Tomàquet fregit,2.65,6.95,2026-08-25 08:48:19
+9832,36756dd1-64ec-400d-abfe-e223e999eb7b,TERRA I TAST Croquetes de pollastre,2.99,5.95,2026-08-25 08:48:19
+9833,0228960a-47dc-4021-8d16-7fcd66017611,TERRA I TAST Ensalada russa,4.95,5.95,2026-08-25 08:48:19
+9834,49730233-1f90-403a-9d0a-75f1d8f43e1d,YOPRO Postres làcties Pudding de xocolata,1.59,3.19,2026-08-25 08:48:19
+9835,b03fe411-2df6-46c6-bd3c-950a83d0093e,ZANETTI Formatge grana padano en pols,1.99,2.95,2026-08-25 08:48:19
