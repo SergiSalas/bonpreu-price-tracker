@@ -10072,3 +10072,16 @@ id,product_id,name,old_price,new_price,change_date
 10071,3f74fc8f-3010-4ac7-bbbc-2550210d9415,PRÉSIDENT Formatge especial pizza,3.29,4.65,2026-09-19 12:19:23
 10072,8560e79c-70f2-46ed-9567-8d0023cf7e6a,RISTORANTE Pizza 4 formatges,3.95,9.99,2026-09-19 12:19:23
 10073,ab1fae54-0262-435b-a93e-106f7c42594c,XIBECA Cervesa suau en llauna,1.0,9.99,2026-09-19 12:19:23
+10074,ed944acc-f371-4fb3-9c17-00d848444a80,ABACUS Llibreta A4 color lila de 120 fulls,5.95,5.75,2026-09-19 22:17:09
+10075,0737eda2-1307-4796-a586-342ac54680ac,ABACUS Llibreta A4 de color menta de 120 fulls,5.95,5.75,2026-09-19 22:17:09
+10076,a57ff034-905b-442d-8957-5fae3d1b7f54,ABACUS Llibreta A4 quadrícula de 80 fulls verda,4.95,4.25,2026-09-19 22:17:09
+10077,4e71b14c-c73b-4383-b345-8ca829b956ad,ABACUS Llibreta A4 quadrícula de 80 fulls vermella,4.95,4.25,2026-09-19 22:17:09
+10078,1a5ed863-4fc7-4a02-8f0a-8bfbe47255f8,ABACUS Llibreta A5 color blau de 80 fulls,1.99,2.65,2026-09-19 22:17:09
+10079,969505ec-c825-4e5e-874a-4f29bd80ea42,ABACUS Llibreta A5 quadrícula de 80 fulls verda,2.75,2.65,2026-09-19 22:17:09
+10080,ed61b7ea-578e-4609-ac6f-87dc4ee24f1d,ABACUS Llibreta A5 quadrícula de color vermell de 80 fulls,1.99,2.15,2026-09-19 22:17:09
+10081,b648e2f4-0366-4b3d-9921-6d542eb058e9,ABACUS Llibreta grapada blava A4 quadrícula de 48 fulls,3.45,2.95,2026-09-19 22:17:09
+10082,b6c13c5f-d03c-43db-b783-e50f5a027354,ABACUS Llibreta grapada blava A5 quadrícula de 48 fulls,2.1,2.15,2026-09-19 22:17:09
+10083,86b75268-32a9-40ef-b0c8-d533d4ccc2a7,ABACUS Paper blanc A4 de 100 fulls,2.25,2.75,2026-09-19 22:17:09
+10084,7d1092d9-2e8a-466f-8ba7-d75915133dc1,TERRA I TAST Croquetes de pernil i espatlla d'enceball ibèric,5.95,2.99,2026-09-19 22:18:06
+10085,36756dd1-64ec-400d-abfe-e223e999eb7b,TERRA I TAST Croquetes de pollastre,5.95,2.99,2026-09-19 22:18:06
+10086,4c84f275-17f1-48d4-a31d-2bb87d7832f7,TERRA I TAST Llibrets de llom amb pernil cuit i formatge,7.99,5.99,2026-09-19 22:18:06
